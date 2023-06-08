@@ -11,27 +11,27 @@ Steps to implement library:
 <details>
   <summary>General Library</summary>
   
-  1. google.com###tads
-  2. google.com##.qGXjvb
-  3. backblaze.com##.at-icon-wrapper
-  4. backblaze.com##.at-custom-sidebar-count
-  5. backblaze.com##.at-custom-sidebar-text
-  6. synctwofolders.en.softonic.com###aax_if_aax_top-leaderboard-app-page-desktop
-  7. synctwofolders.en.softonic.com##iframe[src="https://aax.softonic.com/display.html?_otarOg=https%3A%2F%2Fsynctwofolders.en.softonic.com&_cpub=AAXXX4L07&_csvr=111114_482&_cgdpr=0&_cgdprconsent=1&_cusp_status=0&_ccoppa=0&_ositekey_disabled=1"]
-  8. synctwofolders.en.softonic.com###top-leaderboard-app-page-desktop
-  9. synctwofolders.en.softonic.com##.sam-slot__content
-  10. synctwofolders.en.softonic.com###top-leaderboard-app-page-desktop-wrapper
-  11. synctwofolders.en.softonic.com##.sam-slot.mv-xxxs.sam-slot--leaderboard.sam-slot--loading
-  12. synctwofolders.en.softonic.com###mpu-app-page-desktop-wrapper
-  13. synctwofolders.en.softonic.com##.sam-slot.mb-l.sam-slot--mpu.sam-slot--loading
-  14. synctwofolders.en.softonic.com###review-app-page-desktop
-  15. synctwofolders.en.softonic.com###bottom-leaderboard-app-page-desktop-wrapper
-  16. synctwofolders.en.softonic.com##.sam-slot.mb-l.sam-slot--leaderboard.sam-slot--loading
-  17. synctwofolders.en.softonic.com##.s-icon.s-icon-linkedin.s-icon--small
-  18. synctwofolders.en.softonic.com##.s-icon.s-icon-facebook.s-icon--small
-  19. synctwofolders.en.softonic.com##.page-footer__icon.page-footer__icon--facebook
-  20. synctwofolders.en.softonic.com##.s-icon.s-icon-twitter.s-icon--small
-  21. macdownload.informer.com##.footer_item.footer_social
+  1. synctwofolders.en.softonic.com###aax_if_aax_top-leaderboard-app-page-desktop
+  2. synctwofolders.en.softonic.com##iframe[src="https://aax.softonic.com/display.html?_otarOg=https%3A%2F%2Fsynctwofolders.en.softonic.com&_cpub=AAXXX4L07&_csvr=111114_482&_cgdpr=0&_cgdprconsent=1&_cusp_status=0&_ccoppa=0&_ositekey_disabled=1"]
+  3. synctwofolders.en.softonic.com###top-leaderboard-app-page-desktop
+  4. synctwofolders.en.softonic.com##.sam-slot__content
+  5. synctwofolders.en.softonic.com###top-leaderboard-app-page-desktop-wrapper
+  6. synctwofolders.en.softonic.com##.sam-slot.mv-xxxs.sam-slot--leaderboard.sam-slot--loading
+  7. synctwofolders.en.softonic.com###mpu-app-page-desktop-wrapper
+  8. synctwofolders.en.softonic.com##.sam-slot.mb-l.sam-slot--mpu.sam-slot--loading
+  9. synctwofolders.en.softonic.com###review-app-page-desktop
+  10. synctwofolders.en.softonic.com###bottom-leaderboard-app-page-desktop-wrapper
+  11. synctwofolders.en.softonic.com##.sam-slot.mb-l.sam-slot--leaderboard.sam-slot--loading
+  12. synctwofolders.en.softonic.com##.s-icon.s-icon-linkedin.s-icon--small
+  13. synctwofolders.en.softonic.com##.s-icon.s-icon-facebook.s-icon--small
+  14. synctwofolders.en.softonic.com##.page-footer__icon.page-footer__icon--facebook
+  15. synctwofolders.en.softonic.com##.s-icon.s-icon-twitter.s-icon--small
+  16. macdownload.informer.com##.footer_item.footer_social
+  17. google.com###tads
+  18. google.com##.qGXjvb
+  19. backblaze.com##.at-icon-wrapper
+  20. backblaze.com##.at-custom-sidebar-count
+  21. backblaze.com##.at-custom-sidebar-text
   22. lumenonninth.com##.fab.fa-facebook-f
   23. lumenonninth.com##.fa.fa-envelope
   24. lumenonninth.com##.fab.fa-instagram
@@ -2277,9 +2277,37 @@ Steps to implement library:
   2275. thetimes.co.uk##.css-1pd14be
   2276. thetimes.co.uk###react-edition-subscription-marketing-banner-slice
   2277. thetimes.co.uk##.preSized
-  2278. soundcloud.com##.banner.sc-type-medium.sc-text-body.sc-p-2x.m-alert.l-inner-fullwidth
-  2279. quizlet.com##.SetPageTerms-embeddedDesktopAdz
-  2280. quizlet.com##.SetPageTerms-embeddedDesktopAdWrapper
+  2278. youtube.com##.style-scope.ytd-rich-shelf-renderer
+  2279. soundcloud.com##.banner.sc-type-medium.sc-text-body.sc-p-2x.m-alert.l-inner-fullwidth
+  2280. quizlet.com##.SetPageTerms-embeddedDesktopAdz
+  2281. quizlet.com##.SetPageTerms-embeddedDesktopAdWrapper
+  2282. wired.com##.GridWrapper-uChIO.ennIAX.grid.grid-items-0.PaywallBarExpandedContent-eFhJuQ.gnbFwh
+  2283. wired.com###hdegn
+  2284. wired.com##.PaywallBarContentContainer-kkrrRE.wYYVV
+  2285. wired.com##.PaywallBarWrapper-mFAVR.lbmmZB.desktop
+  2286. cottonbureau.com##.newsletter
+  2287. mediumfocus.com##.post-end-cta-full
+  2288. mediumfocus.com##.subscribe-footer
+  2289. ||w3schools.com/images/img_fullaccess3_300.png
+  2290. tutlane.com##.social-icons.text-right
+  2291. ||dnc08nwcya6mg.cloudfront.net/original_images/Group_3.original.png
+  2292. ||dnc08nwcya6mg.cloudfront.net/original_images/Group.original.png
+  2293. today.yougov.com##.icon-link.focus-state.cdk-focused.cdk-mouse-focused
+  2294. nfl.com##.ot-sdk-row
+  2295. reelgood.com##.css-1asdsi5-Wrapper.e1rncoa60
+  2296. jcchouinard.com##.code-block.code-block-1
+  2297. ||d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/themes/edu-new/img/whatsapp.png
+  2298. edureka.co##.linkedin.ga-event-social.extra_copy.tooltip-social
+  2299. pro.arcgis.com##.ot-sdk-row
+  2300. pro.arcgis.com###onetrust-banner-sdk
+  2301. pro.arcgis.com##.otFloatingRoundedCorner.ot-bottom-right.ot-wo-title
+  2302. softauthor.com##.sixteen.wide.column
+  2303. softauthor.com##.ui.grid.segment
+  2304. edureka.co###promotional_popup
+  2305. edureka.co##.modal.fade.blog_feature_popup.show
+  2306. edureka.co##.modal-backdrop.fade.show
+  2307. digitaltrends.com##.b-newsletter-slide__close.h-close
+  2308. digitaltrends.com##.b-newsletter-slide__inner
 </details>
 <details>
 <summary>Remove YouTube Shelf from home page</summary>
