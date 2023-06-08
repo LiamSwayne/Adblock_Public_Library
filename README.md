@@ -9,7 +9,7 @@ Steps to implement library:
 
 
 <details>
-  <summary>General Library</summary>
+  <summary>General library</summary>
   
   1. google.com###tads
   2. google.com##.qGXjvb
