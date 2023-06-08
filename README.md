@@ -1,4 +1,4 @@
-# Adblock Community Library
+# Adblock Public Library
 This project is a collection of HTML elements that can be plugged into Adblock Plus to improve the Adblock experience. Most of the elements in the library are included to remove distractions and irrelevant information (social icons, popups, newsletter inserts, "urgent" offers, etc). This is a community library, meaning anyone can contribute. Every element from contributors is verified individually before being added.
 
 Steps to implement library:
