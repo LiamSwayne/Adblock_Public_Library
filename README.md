@@ -2277,7 +2277,6 @@ Steps to implement library:
   2275. thetimes.co.uk##.css-1pd14be
   2276. thetimes.co.uk###react-edition-subscription-marketing-banner-slice
   2277. thetimes.co.uk##.preSized
-  2278. youtube.com##.style-scope.ytd-rich-shelf-renderer
   2279. soundcloud.com##.banner.sc-type-medium.sc-text-body.sc-p-2x.m-alert.l-inner-fullwidth
   2280. quizlet.com##.SetPageTerms-embeddedDesktopAdz
   2281. quizlet.com##.SetPageTerms-embeddedDesktopAdWrapper
@@ -2308,6 +2307,11 @@ Steps to implement library:
   2306. edureka.co##.modal-backdrop.fade.show
   2307. digitaltrends.com##.b-newsletter-slide__close.h-close
   2308. digitaltrends.com##.b-newsletter-slide__inner
+  2309. garagesalefinder.com##.reveal-modal-bg
+  2310. garagesalefinder.com###subscribeForm
+  2311. garagesalefinder.com##.subscribe.subscribeForm.reveal-modal.small.fndt.open
+  2312. garagesalefinder.com##.top-map-ad
+  2313. garagesalefinder.com##.share-buttons
 </details>
 <details>
 <summary>Remove YouTube Shelf from home page</summary>
