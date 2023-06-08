@@ -2277,10 +2277,9 @@ Steps to implement library:
   2275. thetimes.co.uk##.css-1pd14be
   2276. thetimes.co.uk###react-edition-subscription-marketing-banner-slice
   2277. thetimes.co.uk##.preSized
-  2278. youtube.com##.style-scope.ytd-rich-shelf-renderer
-  2279. soundcloud.com##.banner.sc-type-medium.sc-text-body.sc-p-2x.m-alert.l-inner-fullwidth
-  2280. quizlet.com##.SetPageTerms-embeddedDesktopAdz
-  2281. quizlet.com##.SetPageTerms-embeddedDesktopAdWrapper
+  2278. soundcloud.com##.banner.sc-type-medium.sc-text-body.sc-p-2x.m-alert.l-inner-fullwidth
+  2279. quizlet.com##.SetPageTerms-embeddedDesktopAdz
+  2280. quizlet.com##.SetPageTerms-embeddedDesktopAdWrapper
 </details>
 <details>
 <summary>Remove YouTube Shelf from home page</summary>
