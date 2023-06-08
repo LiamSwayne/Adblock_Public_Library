@@ -5,7 +5,7 @@ Steps to implement library:
 1. Install [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb).
 2. In the extension settings > general: turn off acceptable ads.
 3. In the extension settings > advanced > filter lists: Enable "ABP filters", "EasyList", "EasyPrivacy", "Fanboy's Notifications Blocking List", "Fanboy's Social Blocking List", and "I don't care about cookies".
-4. In the extension settings > advanced > My Filter List: copy and paste any of the lists below into the "search or add filters" box.
+4. In the extension settings > advanced > My Filter List: expand, copy, and paste any of the lists below into the "search or add filters" box.
 
 
 <details>
