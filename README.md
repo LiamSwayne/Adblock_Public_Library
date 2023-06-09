@@ -2618,6 +2618,5 @@ unimelb.edu.au##.page-footer-alt__social-item
 </details>
 <details>
 <summary>Remove YouTube Shorts Shelf from home page</summary>
-  
-  1. youtube.com##.style-scope.ytd-rich-shelf-renderer
+youtube.com##.style-scope.ytd-rich-shelf-renderer
 </details>
