@@ -7,7 +7,7 @@ def processInput(elementsStr, MD=True):
     
     for i in range(len(lines)):
         line = lines[i]
-        if line != "" and line != "\n" and line[0:10] != "data:image" and line != "":
+        if line != "" and line != "\n" and line[0:10] != "data:image" and line != "youtube.com##.style-scope.ytd-rich-shelf-renderer":
             if MD:
                 output += "  " + str(i) + ". " + line+"\n"
             else:
