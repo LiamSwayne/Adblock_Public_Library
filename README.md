@@ -2566,6 +2566,7 @@ Steps to implement library:
   2565. garagesalefinder.com##.top-map-ad
   2566. garagesalefinder.com##.share-buttons
   2567. theodinproject.com##.flex.space-x-6
+  2568. tutorialspoint.com##.bg-primary.bg-opacity-10.rounded-3.p-5.h-100
 </details>
 <details>
 <summary>Remove YouTube Shelf from home page</summary>
