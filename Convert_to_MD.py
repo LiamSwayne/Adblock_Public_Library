@@ -1,5 +1,4 @@
-# Take the content from selecting all and copying "My Filter List" and format it
-# for markdown.
+# Take the content from selecting all and copying "My Filter List" and format it for markdown.
 # Content is pasted into "elementsStr".
 def processInput(elementsStr, MD=True):
     lines = elementsStr.split("\n")
