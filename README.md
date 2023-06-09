@@ -2567,6 +2567,42 @@ Steps to implement library:
   2566. garagesalefinder.com##.share-buttons
   2567. theodinproject.com##.flex.space-x-6
   2568. tutorialspoint.com##.bg-primary.bg-opacity-10.rounded-3.p-5.h-100
+  2569. stanford.edu##.fa.fa-youtube-play
+  2570. stanford.edu##.fa.fa-twitter
+  2571. stanford.edu##.fa.fa-facebook-square
+  2572. stanford.edu##.fa.fa-instagram
+  2573. cam.ac.uk##.icon.social.icon-facebook
+  2574. cam.ac.uk##.icon.social.icon-instagram
+  2575. cam.ac.uk##.icon.social.icon-twitter
+  2576. cam.ac.uk##.icon.social.icon-youtube
+  2577. cam.ac.uk##.icon.social.icon-tiktok
+  2578. caltech.edu##.connect-with-us-block__icons__icon.connect-with-us-block__icons__icon--facebook
+  2579. caltech.edu##.connect-with-us-block__icons__icon.connect-with-us-block__icons__icon--twitter
+  2580. caltech.edu##.connect-with-us-block__icons__icon.connect-with-us-block__icons__icon--instagram
+  2581. caltech.edu##.connect-with-us-block__icons__icon.connect-with-us-block__icons__icon--youtube
+  2582. edx.org##.ot-sdk-row
+  2583. princeton.edu##.menu-item.sprite-before.facebook
+  2584. princeton.edu##.menu-item.sprite-before.twitter
+  2585. princeton.edu##.menu-item.sprite-before.instagram
+  2586. princeton.edu##.menu-item.sprite-before.snapchat
+  2587. princeton.edu##.menu-item.sprite-before.youtube
+  2588. princeton.edu##.menu-item.sprite-before.social-media-directory
+  2589. uchicago.edu##.fa.fa-youtube.Footer_socialIcon___4mnL
+  2590. uchicago.edu##.fa.fa-twitter.Footer_socialIcon___4mnL
+  2591. uchicago.edu##.fa.fa-instagram.Footer_socialIcon___4mnL
+  2592. uchicago.edu##.fa.fa-facebook.Footer_socialIcon___4mnL
+  2593. ||u-tokyo.ac.jp/content/100074655.jpg
+  2594. ||u-tokyo.ac.jp/content/100074651.jpg
+  2595. ||u-tokyo.ac.jp/content/100074629.jpg
+  2596. utoronto.ca##.footer-social-icons-wrapper
+  2597. imperial.ac.uk##.ot-sdk-row
+  2598. unimelb.edu.au##.tealium_explicit_consent_inner_section
+  2599. unimelb.edu.au##.page-footer-alt__social-item
+  2600. ||nus.edu.sg/images/default-source/base/facebook.png
+  2601. ||nus.edu.sg/images/default-source/base/twitter.png
+  2602. ||nus.edu.sg/images/default-source/base/instagram.png
+  2603. ||nus.edu.sg/images/default-source/base/youtube.png
+  2604. ||nus.edu.sg/images/default-source/icons/ico-white-wechat.png
 </details>
 <details>
 <summary>Remove YouTube Shorts Shelf from home page</summary>
