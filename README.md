@@ -2569,7 +2569,7 @@ Steps to implement library:
   2568. tutorialspoint.com##.bg-primary.bg-opacity-10.rounded-3.p-5.h-100
 </details>
 <details>
-<summary>Remove YouTube Shelf from home page</summary>
+<summary>Remove YouTube Shorts Shelf from home page</summary>
   
   1. youtube.com##.style-scope.ytd-rich-shelf-renderer
 </details>
