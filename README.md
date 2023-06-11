@@ -1,12 +1,13 @@
 # Adblock Public Library
 This project is a collection of HTML elements that can be plugged into Adblock Plus to improve the Adblock experience. Most of the elements in the library are included to remove distractions and irrelevant information (social icons, popups, newsletter inserts, "urgent" offers, etc). This is a community library, meaning anyone can contribute. Every element from contributors is verified individually before being added. Sites that aren't safe for work or encourage piracy will be rejected.
 
-Steps to implement library:
+Steps to implement library in Google Chrome:
 1. Install [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb).
 2. In the extension settings > general: turn off acceptable ads.
 3. In the extension settings > advanced > filter lists: Enable "ABP filters", "EasyList", "EasyPrivacy", "Fanboy's Notifications Blocking List", "Fanboy's Social Blocking List", and "I don't care about cookies".
 4. In the extension settings > advanced > My Filter List: expand, copy, and paste one or more of the lists below into the "search or add filters" box.
 
+If the adblock is too agressive for a specific site, you can click on the extension icon and disable adblock for that site. This will disable the library for that site as well.
 
 <details>
   <summary>General library</summary>
