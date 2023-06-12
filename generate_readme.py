@@ -4,7 +4,7 @@
 
 def processInput(headerStr, elementsStr, footerStr, MD=True):
     lines = elementsStr.split("\n")
-    output = headerStr+"General library ("+str(len(lines))+" elements)</summary>\n"
+    output = headerStr+"General library ("+str(len(lines))+" elements)</summary>\n\n"
     
     for i in range(len(lines)):
         line = lines[i]
