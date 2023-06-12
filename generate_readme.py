@@ -4,16 +4,21 @@
 
 def processInput(headerStr, elementsStr, footerStr, MD=True):
     lines = elementsStr.split("\n")
-    output = headerStr+"General library ("+str(len(lines))+" elements)</summary>\n\n"
+    output = headerStr+"General library (XXXX elements)</summary>\n\n"
+    count = 0
     
     for i in range(len(lines)):
         line = lines[i]
         if line != "" and line != "\n" and line[0:10] != "data:image" and line != "youtube.com##.style-scope.ytd-rich-shelf-renderer":
+            count += 1
             if MD:
-                output += "  " + str(i) + ". " + line+"\n"
+                output += "  "+str(i)+". "+line+"\n"
             else:
                 output += line+"\n"
+
+    output = output.replace("General library (XXXX elements)</summary>", "General library ("+str(count)+" elements)</summary>")
     output += footerStr
+    
     print(output)
 
 headerStr = '''# Adblock Public Library
