@@ -12,7 +12,8 @@ For contributors: This is a community library, meaning anyone can contribute. Ev
 
 <details>
   <summary>General library</summary>
-  
+
+(2426 elements)
 google.com###tads
 google.com##.qGXjvb
 backblaze.com##.at-icon-wrapper
@@ -2402,6 +2403,29 @@ ucla.edu##.social-icon--youtube
 ucla.edu##.social-icon--tiktok
 ucla.edu##.social-icon--snapchat
 ucla.edu##.social-icon
+wisc.edu###uw-icon-facebook
+wisc.edu###uw-icon-twitter
+wisc.edu###uw-icon-youtube
+wisc.edu##.last
+wisc.edu###uw-icon-instagram
+illinois.edu##.ot-sdk-row
+||utexas.edu/sites/all/themes/utexas/img/general/what-starts-here-hover.jpg
+utexas.edu##.icon-wrap
+uci.edu##.uci-icon-list
+usc.edu###menu-item-1741
+usc.edu##.icon-only-facebook-white.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-1741
+usc.edu###menu-item-1744
+usc.edu##.icon-only-instagram-white.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-1744
+usc.edu###menu-item-1740
+usc.edu##.icon-only-twitter-white.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-1740
+usc.edu###menu-item-1739
+usc.edu##.icon-only-youtube-white.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-1739
+||alumni.unc.edu/wp-content/themes/unc_gaa_theme/images/framework/brand_svgs/facebook-f.svg
+||alumni.unc.edu/wp-content/themes/unc_gaa_theme/images/framework/brand_svgs/twitter.svg
+||alumni.unc.edu/wp-content/themes/unc_gaa_theme/images/framework/brand_svgs/instagram.svg
+||alumni.unc.edu/wp-content/themes/unc_gaa_theme/images/framework/brand_svgs/tiktok.svg
+||alumni.unc.edu/wp-content/themes/unc_gaa_theme/images/framework/brand_svgs/youtube.svg
+alumni.unc.edu##.full_width_wrapper.background_bright_blue.mm_mc_social_bar_basic_wrapper.module_wrapper.parallax_background_image.clearfix
 </details>
 <details>
 <summary>Remove YouTube Shorts Shelf from home page (1 element)</summary>
