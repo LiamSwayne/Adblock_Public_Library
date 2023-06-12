@@ -1,10 +1,10 @@
-# Take the content from selecting all and copying "My Filter List" and format it
-# for markdown.
+# Take the content from selecting all and copying "My Filter List" and format it for markdown.
 # Content is pasted into "elementsStr".
+# Header for the README.md is in "headerStr"
 
-def processInput(elementsStr, MD=True):
+def processInput(headerStr, elementsStr, footerStr, MD=True):
     lines = elementsStr.split("\n")
-    output = ""
+    output = headerStr+"General library ("+str(len(lines))+" elements)</summary>\n"
     
     for i in range(len(lines)):
         line = lines[i]
@@ -13,26 +13,31 @@ def processInput(elementsStr, MD=True):
                 output += "  " + str(i) + ". " + line+"\n"
             else:
                 output += line+"\n"
-    output = output[:-1]
+    output += footerStr
     print(output)
 
+headerStr = '''# Adblock Public Library
+This project is a collection of HTML elements that can be plugged into Adblock Plus to improve the Adblock experience. Most of the elements in the library are included to remove distractions and irrelevant information (social icons, popups, newsletter inserts, "urgent" offers, etc). If the adblock is too agressive for a specific site, you can click on the extension icon and disable adblock for that site. This will disable the library for that site as well.
+
+
+Steps to implement library in Google Chrome:
+1. Install [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb).
+2. In the extension settings > general: turn off acceptable ads.
+3. In the extension settings > advanced > filter lists: Enable "ABP filters", "EasyList", "EasyPrivacy", "Fanboy's Notifications Blocking List", "Fanboy's Social Blocking List", and "I don't care about cookies".
+4. In the extension settings > advanced > My Filter List: expand, copy, and paste one or more of the lists below into the "search or add filters" box.
+
+For contributors: This is a community library, meaning anyone can contribute. Every element from contributors is verified individually before being added. Sites that aren't safe for work or encourage piracy will be rejected. Social icons are blocked, but sites that are utility focused such as LinkedIn and RSS should be preserved when possible.
+
+<details>
+  <summary>'''
+
+footerStr = '''</details>
+<details>
+<summary>Remove YouTube Shorts Shelf from home page (1 element)</summary>
+youtube.com##.style-scope.ytd-rich-shelf-renderer
+</details>'''
+
 elementsStr = '''
-synctwofolders.en.softonic.com###aax_if_aax_top-leaderboard-app-page-desktop
-synctwofolders.en.softonic.com##iframe[src="https://aax.softonic.com/display.html?_otarOg=https%3A%2F%2Fsynctwofolders.en.softonic.com&_cpub=AAXXX4L07&_csvr=111114_482&_cgdpr=0&_cgdprconsent=1&_cusp_status=0&_ccoppa=0&_ositekey_disabled=1"]
-synctwofolders.en.softonic.com###top-leaderboard-app-page-desktop
-synctwofolders.en.softonic.com##.sam-slot__content
-synctwofolders.en.softonic.com###top-leaderboard-app-page-desktop-wrapper
-synctwofolders.en.softonic.com##.sam-slot.mv-xxxs.sam-slot--leaderboard.sam-slot--loading
-synctwofolders.en.softonic.com###mpu-app-page-desktop-wrapper
-synctwofolders.en.softonic.com##.sam-slot.mb-l.sam-slot--mpu.sam-slot--loading
-synctwofolders.en.softonic.com###review-app-page-desktop
-synctwofolders.en.softonic.com###bottom-leaderboard-app-page-desktop-wrapper
-synctwofolders.en.softonic.com##.sam-slot.mb-l.sam-slot--leaderboard.sam-slot--loading
-synctwofolders.en.softonic.com##.s-icon.s-icon-linkedin.s-icon--small
-synctwofolders.en.softonic.com##.s-icon.s-icon-facebook.s-icon--small
-synctwofolders.en.softonic.com##.page-footer__icon.page-footer__icon--facebook
-synctwofolders.en.softonic.com##.s-icon.s-icon-twitter.s-icon--small
-macdownload.informer.com##.footer_item.footer_social
 google.com###tads
 google.com##.qGXjvb
 backblaze.com##.at-icon-wrapper
@@ -63,6 +68,22 @@ geeksforgeeks.org##.instagram
 geeksforgeeks.org##.twitter
 geeksforgeeks.org##.youtube
 geeksforgeeks.org##.android
+synctwofolders.en.softonic.com###aax_if_aax_top-leaderboard-app-page-desktop
+synctwofolders.en.softonic.com##iframe[src="https://aax.softonic.com/display.html?_otarOg=https%3A%2F%2Fsynctwofolders.en.softonic.com&_cpub=AAXXX4L07&_csvr=111114_482&_cgdpr=0&_cgdprconsent=1&_cusp_status=0&_ccoppa=0&_ositekey_disabled=1"]
+synctwofolders.en.softonic.com###top-leaderboard-app-page-desktop
+synctwofolders.en.softonic.com##.sam-slot__content
+synctwofolders.en.softonic.com###top-leaderboard-app-page-desktop-wrapper
+synctwofolders.en.softonic.com##.sam-slot.mv-xxxs.sam-slot--leaderboard.sam-slot--loading
+synctwofolders.en.softonic.com###mpu-app-page-desktop-wrapper
+synctwofolders.en.softonic.com##.sam-slot.mb-l.sam-slot--mpu.sam-slot--loading
+synctwofolders.en.softonic.com###review-app-page-desktop
+synctwofolders.en.softonic.com###bottom-leaderboard-app-page-desktop-wrapper
+synctwofolders.en.softonic.com##.sam-slot.mb-l.sam-slot--leaderboard.sam-slot--loading
+synctwofolders.en.softonic.com##.s-icon.s-icon-linkedin.s-icon--small
+synctwofolders.en.softonic.com##.s-icon.s-icon-facebook.s-icon--small
+synctwofolders.en.softonic.com##.page-footer__icon.page-footer__icon--facebook
+synctwofolders.en.softonic.com##.s-icon.s-icon-twitter.s-icon--small
+macdownload.informer.com##.footer_item.footer_social
 scaler.com##.exit-intent_modal_main_container__6uE8c.hide-in-mobile
 ||d1g0iq4cbcvjcd.cloudfront.net/topics/images/icon_discord_rounded.svg
 scaler.com##.row.Footer_social_media_bubble__AMyOI
@@ -2339,6 +2360,108 @@ ucsb.edu##.columns.columns-3
 unc.edu##.widget.widget_unc_social_media_links
 unc.edu##.social-icons.has-video
 utoronto.ca##.footer-social-icons-wrapper
+unimelb.edu.au##.tealium_privacy_prompt.tealium_explicit_consent
+unimelb.edu.au##.page-footer-alt__social-item
+||ucdavis.edu/sites/default/files/2021-05/tiktok-icon-branded.svg
+||ucdavis.edu/sites/default/files/2021-05/youtube-icon-branded.svg
+||ucdavis.edu/sites/default/files/2021-05/twitter-icon-branded.svg
+||ucdavis.edu/sites/default/files/2021-05/instagram-icon-branded.svg
+||ucdavis.edu/sites/default/files/2021-05/facebook-icon-branded_0.svg
+||ucdavis.edu/sites/default/files/2023-03/giphy-icon-branded.svg
+bristol.ac.uk##.NonGrid-module--social--1hCac
+sydney.edu.au##.b-icon.b-icon--align-top.b-component--md-tighter.b-icon--social-media.b-icon--twitter
+sydney.edu.au##.b-icon.b-icon--align-top.b-component--md-tighter.b-icon--social-media.b-icon--facebook
+sydney.edu.au##.b-icon.b-icon--align-top.b-component--md-tighter.b-icon--social-media.b-icon--instagram
+sydney.edu.au##.b-icon.b-icon--align-top.b-component--md-tighter.b-icon--social-media.b-icon--youtube
+sydney.edu.au##.b-text--colour-dark.b-text--font-label.b-text--nowrap.b-text--vertical
+ucsc.edu##.social-media
+ucr.edu##.mdi.mdi-facebook-box
+ucr.edu##.mdi.mdi-music-box
+ucr.edu##.mdi.mdi-instagram
+ucr.edu##.mdi.mdi-youtube-play
+ucr.edu##.mdi.mdi-twitter-box
+ubc.ca##.icon-instagram-sign
+ubc.ca##.icon-twitter-sign
+ubc.ca##.icon-youtube
+ubc.ca##.social-media-icon-link
+uq.edu.au##.uq-footer__meta-icons--facebook.uq-footer__meta-icons.gtm-processed
+uq.edu.au##.uq-footer__meta-icons--twitter.uq-footer__meta-icons.gtm-processed
+uq.edu.au##.uq-footer__meta-icons--youtube.uq-footer__meta-icons.gtm-processed
+uq.edu.au##.uq-footer__meta-icons--instagram.uq-footer__meta-icons.gtm-processed
+uva.nl##.icon.icon--solo
+uva.nl##.c-socialfollow__title
+helsinki.fi##.hy-footer-base__some
+auckland.ac.nz##.offset-md-3.offset-xl-6.col-md-9.col-xl-6
+uzh.ch##.FooterSocialMediaList
+||u-tokyo.ac.jp/content/100074655.jpg
+||u-tokyo.ac.jp/content/100074651.jpg
+||u-tokyo.ac.jp/content/100074629.jpg
+ku.dk##.icon.icon-facebook
+ku.dk##.icon.icon-instagram
+ku.dk##.icon.icon-twitter
+ku.dk##.icon.icon-youtube
+||nus.edu.sg/images/default-source/base/instagram.png
+||nus.edu.sg/images/default-source/base/youtube.png
+||nus.edu.sg/images/default-source/base/twitter.png
+||nus.edu.sg/images/default-source/base/facebook.png
+kcl.ac.uk###onetrust-group-container
+kcl.ac.uk##.ot-sdk-twelve.ot-sdk-columns
+kcl.ac.uk##.footer__connect-with-us
+univie.ac.at##.icon-facebook
+univie.ac.at##.icon-instagram
+univie.ac.at##.icon-youtube
+univie.ac.at##.icon-twitter
+||snu.ac.kr/_skin/kor/layout/image/footer-facebook_lg.png
+||snu.ac.kr/_skin/kor/layout/image/footer-youtube_lg.png
+||snu.ac.kr/_skin/kor/layout/image/footer-instagram_lg.png
+manchester.ac.uk##.fourcol.last
+||marketing-pages.anu.edu.au/_anu/images/share/youtube.png
+||marketing-pages.anu.edu.au/_anu/images/share/twitter.png
+||marketing-pages.anu.edu.au/_anu/images/share/facebook.png
+uio.no###vrtx-main-content-17
+uio.no##.vrtx-frontpage-box.vrtx-more-false.grey-box
+||web.ub.edu/documents/2685349/2686580/Twitter.svg/ceffd793-045e-aa9f-798c-1e1711eac88c?t=1662540803879
+||web.ub.edu/documents/2685349/2686580/Instagram.svg/7a2e1bad-0842-d3f1-065c-04899bc3f582?t=1662540803573
+||web.ub.edu/documents/2685349/2686580/Facebook.svg/60ce83b7-72e4-4180-17d6-13c87b7230dc?t=1662540804143
+||web.ub.edu/documents/2685349/2686580/Tik.svg/f7dcb68f-141f-c925-f798-ea539dbbdafa?t=1669210135534
+||web.ub.edu/documents/2685349/2686580/Youtube.svg/97b61596-a3f6-1297-30f3-41bf5f9b37c3?t=1662540803381
+lmu.de##.footer__navigation-list-link
+kyoto-u.ac.jp###block-sns-link
+kyoto-u.ac.jp##.sns-link-block.block.block-block-content.block-block-content2bdc5a4f-0816-4596-b81d-ab9ed03c7c0d.block--bundle-basic
+umich.edu##.fab.fa-facebook-f
+umich.edu##.fab.fa-twitter
+umich.edu##.fab.fa-youtube
+umich.edu##.fab.fa-instagram
+ucla.edu##.social-icon--facebook
+ucla.edu##.social-icon--instagram
+ucla.edu##.social-icon--twitter
+ucla.edu##.social-icon--youtube
+ucla.edu##.social-icon--tiktok
+ucla.edu##.social-icon--snapchat
+ucla.edu##.social-icon
+wisc.edu###uw-icon-facebook
+wisc.edu###uw-icon-twitter
+wisc.edu###uw-icon-youtube
+wisc.edu##.last
+wisc.edu###uw-icon-instagram
+illinois.edu##.ot-sdk-row
+||utexas.edu/sites/all/themes/utexas/img/general/what-starts-here-hover.jpg
+utexas.edu##.icon-wrap
+uci.edu##.uci-icon-list
+usc.edu###menu-item-1741
+usc.edu##.icon-only-facebook-white.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-1741
+usc.edu###menu-item-1744
+usc.edu##.icon-only-instagram-white.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-1744
+usc.edu###menu-item-1740
+usc.edu##.icon-only-twitter-white.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-1740
+usc.edu###menu-item-1739
+usc.edu##.icon-only-youtube-white.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-1739
+||alumni.unc.edu/wp-content/themes/unc_gaa_theme/images/framework/brand_svgs/facebook-f.svg
+||alumni.unc.edu/wp-content/themes/unc_gaa_theme/images/framework/brand_svgs/twitter.svg
+||alumni.unc.edu/wp-content/themes/unc_gaa_theme/images/framework/brand_svgs/instagram.svg
+||alumni.unc.edu/wp-content/themes/unc_gaa_theme/images/framework/brand_svgs/tiktok.svg
+||alumni.unc.edu/wp-content/themes/unc_gaa_theme/images/framework/brand_svgs/youtube.svg
+alumni.unc.edu##.full_width_wrapper.background_bright_blue.mm_mc_social_bar_basic_wrapper.module_wrapper.parallax_background_image.clearfix
 '''
 
-processInput(elementsStr,False)
+processInput(headerStr, elementsStr, footerStr, True)
