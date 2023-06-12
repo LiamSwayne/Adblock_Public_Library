@@ -2359,6 +2359,14 @@ uzh.ch##.FooterSocialMediaList
 ||u-tokyo.ac.jp/content/100074655.jpg
 ||u-tokyo.ac.jp/content/100074651.jpg
 ||u-tokyo.ac.jp/content/100074629.jpg
+ku.dk##.icon.icon-facebook
+ku.dk##.icon.icon-instagram
+ku.dk##.icon.icon-twitter
+ku.dk##.icon.icon-youtube
+||nus.edu.sg/images/default-source/base/instagram.png
+||nus.edu.sg/images/default-source/base/youtube.png
+||nus.edu.sg/images/default-source/base/twitter.png
+||nus.edu.sg/images/default-source/base/facebook.png
 </details>
 <details>
 <summary>Remove YouTube Shorts Shelf from home page</summary>
