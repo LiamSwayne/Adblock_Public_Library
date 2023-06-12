@@ -8,7 +8,7 @@ Steps to implement library in Google Chrome:
 3. In the extension settings > advanced > filter lists: Enable "ABP filters", "EasyList", "EasyPrivacy", "Fanboy's Notifications Blocking List", "Fanboy's Social Blocking List", and "I don't care about cookies".
 4. In the extension settings > advanced > My Filter List: expand, copy, and paste one or more of the lists below into the "search or add filters" box.
 
-For contributors: This is a community library, meaning anyone can contribute. Every element from contributors is verified individually before being added. Sites that aren't safe for work or encourage piracy will be rejected. Social icons are blocked, but sites that are utility focused such as LinkedIn and RSS should be preserved when possible.
+For contributors: This is a community library, meaning anyone can contribute. Use Adblock Plus' built-in element blocking feature. Every element from contributors is verified individually before being added. Sites that aren't safe for work or encourage piracy will be rejected. Most social icons are blocked, but icons for sites that are utility focused such as LinkedIn or RSS feeds should be preserved when possible.
 
 <details>
   <summary>General library (2727 elements)</summary>
