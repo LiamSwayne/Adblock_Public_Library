@@ -11,7 +11,7 @@ Steps to implement library in Google Chrome:
 For contributors: This is a community library, meaning anyone can contribute. Every element from contributors is verified individually before being added. Sites that aren't safe for work or encourage piracy will be rejected. Social icons are blocked, but sites that are utility focused such as LinkedIn and RSS should be preserved when possible.
 
 <details>
-  <summary>General library (2432 elements)</summary>
+  <summary>General library (2445 elements)</summary>
   1. google.com###tads
   2. google.com##.qGXjvb
   3. backblaze.com##.at-icon-wrapper
@@ -2430,6 +2430,19 @@ For contributors: This is a community library, meaning anyone can contribute. Ev
   2428. twin-cities.umn.edu##.social-menu__link.tiktok
   2429. twin-cities.umn.edu##.social-menu__link.tw
   2430. twin-cities.umn.edu##.social-menu__link.yt
+  2431. canva.com##.e6nTMQ
+  2432. ||forms.visme.co/formsPlayer/_embed/pv4kwj94-visme-blog-newsletter-signup?fullPage=true
+  2433. visme.co##.visme-shortcode.visme-cta-signup.visme-shortcode--normal.visme-shortcode--dark.visme-cta-signup--has-image
+  2434. visme.co##.cta_button_container.f
+  2435. visme.co##.padding-container
+  2436. ||blog.visme.co/wp-content/themes/blog/img/03_sidebar_design.png
+  2437. visme.co##.box-info.last-box
+  2438. about.easil.com##.tw-list-reset.tw-leading-normal.tw-mb-8
+  2439. snappa.com##.soc-icns
+  2440. create.vista.com##.policy-banner__inner
+  2441. create.vista.com##.bottom-block__social-list-item
+  2442. getstencil.com##.social.float-right
+  2443. picmonkey.com##.styles-module--social_navigation--J3n4p
 </details>
 <details>
 <summary>Remove YouTube Shorts Shelf from home page (1 element)</summary>
