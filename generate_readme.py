@@ -4,19 +4,21 @@
 
 def processInput(headerStr, elementsStr, footerStr, MD=True):
     lines = elementsStr.split("\n")
-    output = headerStr+"General library (XXXX elements)</summary>\n\n"
-    count = 0
+    output = headerStr+"General library (XXXX elements/XXXX KB)</summary>\n\n"
+    elementCount = 0
+    characterCount = 0
     
     for i in range(len(lines)):
         line = lines[i]
         if line != "" and line != "\n" and line[0:10] != "data:image" and line != "youtube.com##.style-scope.ytd-rich-shelf-renderer":
-            count += 1
+            elementCount += 1
+            characterCount += len(line)
             if MD:
-                output += "  "+str(count)+". "+line+"\n"
+                output += "  "+str(elementCount)+". "+line+"\n"
             else:
                 output += line+"\n"
 
-    output = output.replace("General library (XXXX elements)</summary>", "General library ("+str(count)+" elements)</summary>")
+    output = output.replace("General library (XXXX elements/XXXX KB)</summary>", "General library ("+str(elementCount)+" elements / "+str(round((characterCount/1000)+1))+" KB)</summary>")
     output += footerStr
     
     print(output)
@@ -38,7 +40,7 @@ For contributors: This is a community library, meaning anyone can contribute. Ev
 
 footerStr = '''</details>
 <details>
-<summary>Remove YouTube Shorts Shelf from home page (1 element)</summary>
+<summary>Remove YouTube Shorts Shelf from home page (1 element / <1 KB)</summary>
   
   1. youtube.com##.style-scope.ytd-rich-shelf-renderer
 </details>'''
