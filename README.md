@@ -2447,5 +2447,6 @@ For contributors: This is a community library, meaning anyone can contribute. Ev
 </details>
 <details>
 <summary>Remove YouTube Shorts Shelf from home page (1 element)</summary>
-youtube.com##.style-scope.ytd-rich-shelf-renderer
+  
+  1.youtube.com##.style-scope.ytd-rich-shelf-renderer
 </details>
