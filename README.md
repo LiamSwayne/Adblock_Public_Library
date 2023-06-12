@@ -2404,6 +2404,6 @@ ucla.edu##.social-icon--snapchat
 ucla.edu##.social-icon
 </details>
 <details>
-<summary>Remove YouTube Shorts Shelf from home page</summary>
+<summary>Remove YouTube Shorts Shelf from home page (1 element)</summary>
 youtube.com##.style-scope.ytd-rich-shelf-renderer
 </details>
