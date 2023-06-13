@@ -7,4 +7,4 @@ General guidelines:
 - Empty ad boxes should be blocked.
 - Newsletter inserts are blocked unless they are part of the footer of the page.
 - Blank areas of the page that do not contain content and pad out the site should be removed when possible.
-- Block donation pop-ups and inserts, but don't block donation buttons.
+- Block donation pop-ups and inserts, but don't block donation buttons (*except for university sites, they have enough already*).
