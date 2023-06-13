@@ -1,19 +1,4 @@
 # Adblock Public Library
-This project is a collection of HTML elements that can be plugged into Adblock Plus to improve the Adblock experience. Most of the elements in the library are included to remove distractions and irrelevant information (social icons, popups, newsletter inserts, "urgent" offers, etc). If the adblock is too aggressive for a specific site, you can click on the extension icon and disable adblock for that site. This will disable the library for that site as well.
-
-
-Steps to implement the library in Google Chrome:
-1. Install [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb).
-2. In the extension settings > general: turn off acceptable ads.
-3. In the extension settings > advanced > filter lists: Enable "ABP filters", "EasyList", "EasyPrivacy", "Fanboy's Notifications Blocking List", "Fanboy's Social Blocking List", and "I don't care about cookies".
-4. In the extension settings > advanced > My Filter List: expand, copy, and paste one or more of the lists below into the "search or add filters" box.
-
-For contributors: This is a community library, meaning anyone can contribute. Every element from contributors is verified individually before being added. Sites that aren't safe for work or encourage piracy will be rejected. Social icons are blocked, but sites that are utility focused such as LinkedIn and RSS should be preserved when possible.
-
-<details>
-  <summary>General library (2837 elements / 156 KB)</summary>
-
-# Adblock Public Library
 This project is a collection of HTML elements that can be plugged into Adblock Plus to improve the Adblock experience. Most of the elements in the library are included to remove distractions and irrelevant information (social icons, popups, newsletter inserts, "urgent" offers, etc). If the adblock is too agressive for a specific site, you can click on the extension icon and disable adblock for that site. This will disable the library for that site as well.
 
 
@@ -2875,12 +2860,6 @@ For contributors: This is a community library, meaning anyone can contribute. <-
   2845. theverge.com##.duet--cta--newsletter.flex.w-full.flex-col.border-t.px-12.pt-16.font-polysans-mono.text-14.font-light.leading-130.\-tracking-2.md\:text-15.text-blurple.border-blurple
   2846. theverge.com##.duet--article--share-buttons.flex.leading-\[0\]
   2847. theverge.com##.dfp_ad--full-width.dfp_ad--outbrain.outbrain_article
-</details>
-<details>
-<summary>Remove YouTube Shorts Shelf from home page (1 element / <1 KB)</summary>
-  
-  1. youtube.com##.style-scope.ytd-rich-shelf-renderer
-</details>
 </details>
 <details>
 <summary>Remove YouTube Shorts Shelf from home page (1 element / <1 KB)</summary>
