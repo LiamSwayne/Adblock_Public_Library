@@ -2995,7 +2995,7 @@ Steps to implement library in Google Chrome:
   2981. thesaurus.com##.svg-inline--fa.fa-youtube.SocialLinks-module_social_f39af12b409a20858b1e
   2982. thesaurus.com##.VjF9Im9IWGOADVNZpYcq
 </details><details>
-<summary>"Was this page helpful" icons & feedback boxes (4 elements / <1 KB)</summary>
+<summary>"Was this page helpful" icons & feedback boxes (6 elements / <1 KB)</summary>
 
   1. allrecipes.com###article-feedback_1-0
   2. allrecipes.com##.comp.article-feedback.mntl-article-feedback
