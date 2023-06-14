@@ -10,7 +10,7 @@ Steps to implement library in Google Chrome:
 4. In the extension settings > advanced > My Filter List: expand, copy, and paste one or more of the lists below into the "search or add filters" box.
 
 <details>
-  <summary>General library (2915 elements / 161 KB)</summary>
+  <summary>General library (2920 elements / 162 KB)</summary>
 
   1. google.com###tads
   2. google.com##.qGXjvb
@@ -2927,6 +2927,11 @@ Steps to implement library in Google Chrome:
   2913. autotrader.com##.icon-bar.margin-vertical-5
   2914. caranddriver.com##.css-1v5xah6.emkv89h0
   2915. allrecipes.com##.loc.newsletter-link-wrapper.utility-nav__newsletter.utility-nav__full-menu-item
+  2916. foodnetwork.com##.o-Capsule__a-Input.a-Input
+  2917. foodnetwork.com##.o-Capsule__a-Button.a-Button
+  2918. foodnetwork.com##.o-Newsletter__a-Description
+  2919. foodnetwork.com###mod-newsletter-1
+  2920. foodnetwork.com##.o-Capsule.o-Newsletter
 </details><details>
 <summary>"Was this page helpful" icons & feedback boxes (2 elements / <1 KB)</summary>
 
