@@ -2,15 +2,15 @@
 # Content is pasted into "elementsStr".
 # Header for the README.md is in "headerStr"
 
-def processInput(headerStr, elementsStr, footerStr, MD=True):
+def processInput(headerStr, elementsStr, wasHelpfulStr, footerStr, MD=True):
     lines = elementsStr.split("\n")
-    output = headerStr+"General library (XXXX elements/XXXX KB)</summary>\n\n"
+    output = headerStr+"General library (XXXX elements / XXXX KB)</summary>\n\n"
     elementCount = 0
     characterCount = 0
     
     for i in range(len(lines)):
         line = lines[i]
-        if line != "" and line != "\n" and line[0:10] != "data:image" and line != "youtube.com##.style-scope.ytd-rich-shelf-renderer":
+        if line != "" and line != "\n" and line[0:10] != "data:image" and line != "youtube.com##.style-scope.ytd-rich-shelf-renderer" and line not in wasHelpfulStr:
             elementCount += 1
             characterCount += len(line)
             if MD:
@@ -18,7 +18,30 @@ def processInput(headerStr, elementsStr, footerStr, MD=True):
             else:
                 output += line+"\n"
 
-    output = output.replace("General library (XXXX elements/XXXX KB)</summary>", "General library ("+str(elementCount)+" elements / "+str(round((characterCount/1000)+1))+" KB)</summary>")
+    output = output.replace("XXXX elements", str(elementCount)+" elements")
+    output = output.replace("XXXX KB", str(round((characterCount/1000)+1))+" KB")
+    output += "</details>"
+
+    output += "<details>\n<summary>\"Was this page helpful\" icons & feedback boxes (XXXX elements / XXXX KB)</summary>\n\n"
+    wasHelpfulLines = wasHelpfulStr.split("\n")
+    elementCount = 0
+    characterCount = 0
+    for i in range(len(wasHelpfulLines)):
+        line = wasHelpfulLines[i]
+        if line != "" and line != "\n" and line[0:10] != "data:image" and line != "youtube.com##.style-scope.ytd-rich-shelf-renderer":
+            elementCount += 1
+            characterCount += len(line)
+            if MD:
+                output += "  "+str(elementCount)+". "+line+"\n"
+            else:
+                output += line+"\n"
+    
+    output = output.replace("XXXX elements", str(elementCount)+" elements")
+    if characterCount < 1000:
+        output = output.replace("XXXX KB", "<1 KB")
+    else:
+        output = output.replace("XXXX KB", str(round((characterCount/1000)+1))+" KB")
+    output += "</details>"
     output += footerStr
     
     print(output)
@@ -33,20 +56,23 @@ Steps to implement library in Google Chrome:
 3. In the extension settings > advanced > filter lists: Enable "ABP filters", "EasyList", "EasyPrivacy", "Fanboy's Notifications Blocking List", "Fanboy's Social Blocking List", and "I don't care about cookies".
 4. In the extension settings > advanced > My Filter List: expand, copy, and paste one or more of the lists below into the "search or add filters" box.
 
-For contributors: This is a community library, meaning anyone can contribute. Every element from contributors is verified individually before being added. Sites that aren't safe for work or encourage piracy will be rejected. Social icons are blocked, but sites that are utility focused such as LinkedIn and RSS should be preserved when possible.
+For contributors: This is a community library, meaning anyone can contribute. <-- See CONTRIBUTION.md
 
 <details>
   <summary>'''
 
-footerStr = '''</details>
-<details>
+footerStr = '''<details>
 <summary>Remove YouTube Shorts Shelf from home page (1 element / <1 KB)</summary>
   
   1. youtube.com##.style-scope.ytd-rich-shelf-renderer
 </details>'''
 
+wasHelpfulStr = '''
+ELEMENTS GO HERE
+'''
+
 elementsStr = '''
 ELEMENTS GO HERE
 '''
 
-processInput(headerStr, elementsStr, footerStr, True)
+processInput(headerStr, elementsStr, wasHelpfulStr, footerStr, True)
