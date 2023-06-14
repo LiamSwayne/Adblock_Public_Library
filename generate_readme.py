@@ -19,7 +19,10 @@ def processInput(headerStr, elementsStr, wasHelpfulStr, footerStr, MD=True):
                 output += line+"\n"
 
     output = output.replace("XXXX elements", str(elementCount)+" elements")
-    output = output.replace("XXXX KB", str(round((characterCount/1000)+1))+" KB")
+    if characterCount < 1000:
+        output = output.replace("XXXX KB", "<1 KB")
+    else:
+        output = output.replace("XXXX KB", str(round((characterCount/1000)+1))+" KB")
     output += "</details>"
 
     output += "<details>\n<summary>\"Was this page helpful\" icons & feedback boxes (XXXX elements / XXXX KB)</summary>\n\n"
