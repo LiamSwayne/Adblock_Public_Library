@@ -1,14 +1,13 @@
 # Adblock Public Library
 This project is a collection of HTML elements that can be plugged into Adblock Plus to improve the Adblock experience. Most of the elements in the library are included to remove distractions and irrelevant information (social icons, popups, newsletter inserts, "urgent" offers, etc). If the adblock is too agressive for a specific site, you can click on the extension icon and disable adblock for that site. This will disable the library for that site as well.
 
+For contributors: This is a community library, meaning anyone can contribute. <-- See CONTRIBUTION.md
 
 Steps to implement library in Google Chrome:
 1. Install [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb).
 2. In the extension settings > general: turn off acceptable ads.
 3. In the extension settings > advanced > filter lists: Enable "ABP filters", "EasyList", "EasyPrivacy", "Fanboy's Notifications Blocking List", "Fanboy's Social Blocking List", and "I don't care about cookies".
 4. In the extension settings > advanced > My Filter List: expand, copy, and paste one or more of the lists below into the "search or add filters" box.
-
-For contributors: This is a community library, meaning anyone can contribute. Every element from contributors is verified individually before being added. Sites that aren't safe for work or encourage piracy will be rejected. Social icons are blocked, but sites that are utility focused such as LinkedIn and RSS should be preserved when possible.
 
 <details>
   <summary>General library (2915 elements / 161 KB)</summary>
@@ -2928,8 +2927,12 @@ For contributors: This is a community library, meaning anyone can contribute. Ev
   2913. autotrader.com##.icon-bar.margin-vertical-5
   2914. caranddriver.com##.css-1v5xah6.emkv89h0
   2915. allrecipes.com##.loc.newsletter-link-wrapper.utility-nav__newsletter.utility-nav__full-menu-item
-</details>
-<details>
+</details><details>
+<summary>"Was this page helpful" icons & feedback boxes (2 elements / <1 KB)</summary>
+
+  1. allrecipes.com###article-feedback_1-0
+  2. allrecipes.com##.comp.article-feedback.mntl-article-feedback
+</details><details>
 <summary>Remove YouTube Shorts Shelf from home page (1 element / <1 KB)</summary>
   
   1. youtube.com##.style-scope.ytd-rich-shelf-renderer
