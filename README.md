@@ -3001,6 +3001,8 @@ Steps to implement library in Google Chrome:
   2. allrecipes.com##.comp.article-feedback.mntl-article-feedback
   3. accuweather.com###feedback-banner
   4. accuweather.com##.feedback-banner.hide-mobile
+  5. docs.liquibase.com##iframe[style="border: none; z-index: 2147483647; color-scheme: normal; width: 416px; height: 238px;"]
+  6. docs.liquibase.com##us-button[style="user-select: all;"]
 </details><details>
 <summary>Remove YouTube Shorts Shelf from home page (1 element / <1 KB)</summary>
   
