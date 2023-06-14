@@ -10,7 +10,7 @@ Steps to implement library in Google Chrome:
 4. In the extension settings > advanced > My Filter List: expand, copy, and paste one or more of the lists below into the "search or add filters" box.
 
 <details>
-  <summary>General library (2935 elements / 163 KB)</summary>
+  <summary>General library (2971 elements / 164 KB)</summary>
 
   1. google.com###tads
   2. google.com##.qGXjvb
@@ -2947,11 +2947,49 @@ Steps to implement library in Google Chrome:
   2933. entrepreneur.com##.w-full.border-b.border-gray-200.py-4.bg-gray-100.text-center.font-medium.mx-auto
   2934. entrepreneur.com###anchorcontainer
   2935. entrepreneur.com##.fixed.\-bottom-\[50px\].sm\:-bottom-\[90px\].transition-all.w-full.box-content.bg-gray-100.border-t-2.border-gray-200.h-\[50px\].sm\:h-\[90px\].py-2.z-10
+  2936. coursera.org##.banner-alert.isLohp
+  2937. zoom.us##.twitter
+  2938. zoom.us##.youtube-play
+  2939. zoom.us##.facebook
+  2940. zoom.us##.instagram
+  2941. asana.com##.css-1t2ep54.e1u7ykqd5
+  2942. 500px.com##.StyledLayout__Box-b9gazd-0.dtaski
+  2943. deviantart.com##._1LNZO.XN05V._2Och2._2HvYQ._1rFXc._3Cbmi
+  2944. deviantart.com##.ldkIM
+  2945. asos.com##._3oMZ131
+  2946. zara.com##.ot-sdk-container
+  2947. zara.com###onetrust-banner-sdk
+  2948. zara.com##.otFloatingRoundedCorner.ot-bottom-left.ot-wo-title
+  2949. nordstrom.com##._sx96
+  2950. nordstrom.com##._wqmZ
+  2951. www2.hm.com##.ot-sdk-container
+  2952. www2.hm.com##.zijP
+  2953. sephora.com##.css-rzwxtl
+  2954. sephora.com##.css-1q0bpb9
+  2955. ikea.com##.ot-sdk-row
+  2956. discogs.com##.icon.icon-twitter
+  2957. discogs.com##.icon.icon-youtube
+  2958. discogs.com##.icon.icon-instagram
+  2959. discogs.com##.icon.icon-pinterest
+  2960. lonelyplanet.com##.mb-4.text-sm.font-semibold.uppercase
+  2961. lonelyplanet.com##.flex.space-x-4.lg\:space-x-2
+  2962. lonelyplanet.com##.hidden.w-12.lg\:block.pr-3.lg\:pr-0.text-sm.font-semibold.text-center.lg\:pb-2
+  2963. lonelyplanet.com##.border.border-black-200.border-r-0.lg\:border-b-0.flex.lg\:flex-col.lg\:w-12
+  2964. us.trip.com##.mc-ft__social-item.social-icon-facebook
+  2965. us.trip.com##.mc-ft__social-item.social-icon-instagram
+  2966. us.trip.com##.mc-ft__social-item.social-icon-youtube
+  2967. us.trip.com##.gguide
+  2968. us.trip.com##.oh-pwa
+  2969. weather.com##.AccountLinks--accountButton--3orCZ.Button--default--2gfm1
+  2970. weather.com##.Footer--socialContainer--3z8CW
+  2971. imgur.com##.EmeraldButton.Button
 </details><details>
-<summary>"Was this page helpful" icons & feedback boxes (2 elements / <1 KB)</summary>
+<summary>"Was this page helpful" icons & feedback boxes (4 elements / <1 KB)</summary>
 
   1. allrecipes.com###article-feedback_1-0
   2. allrecipes.com##.comp.article-feedback.mntl-article-feedback
+  3. accuweather.com###feedback-banner
+  4. accuweather.com##.feedback-banner.hide-mobile
 </details><details>
 <summary>Remove YouTube Shorts Shelf from home page (1 element / <1 KB)</summary>
   
