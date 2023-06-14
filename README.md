@@ -10,7 +10,7 @@ Steps to implement library in Google Chrome:
 4. In the extension settings > advanced > My Filter List: expand, copy, and paste one or more of the lists below into the "search or add filters" box.
 
 <details>
-  <summary>General library (2973 elements / 164 KB)</summary>
+  <summary>General library (2982 elements / 165 KB)</summary>
 
   1. blog.logrocket.com##.news-pop.news-pop-outer-wrap.typescript-popup
   2. blog.logrocket.com##.footer-cta-container
@@ -2985,6 +2985,15 @@ Steps to implement library in Google Chrome:
   2971. imgur.com##.EmeraldButton.Button
   2972. adblockplus.org##.cookiebar-nav
   2973. adblockplus.org##.cookiebar-text
+  2974. dictionary.com##.svg-inline--fa.fa-instagram.SocialLinks-module_social_f39af12b409a20858b1e
+  2975. dictionary.com##.svg-inline--fa.fa-pinterest-p.SocialLinks-module_social_f39af12b409a20858b1e
+  2976. dictionary.com##.svg-inline--fa.fa-youtube.SocialLinks-module_social_f39af12b409a20858b1e
+  2977. dictionary.com##.Cl8rAJN4wBETC2TTA2vN
+  2978. dictionary.com##.s3vhSLXHRujbrXyT_upA
+  2979. thesaurus.com##.svg-inline--fa.fa-instagram.SocialLinks-module_social_f39af12b409a20858b1e
+  2980. thesaurus.com##.svg-inline--fa.fa-pinterest-p.SocialLinks-module_social_f39af12b409a20858b1e
+  2981. thesaurus.com##.svg-inline--fa.fa-youtube.SocialLinks-module_social_f39af12b409a20858b1e
+  2982. thesaurus.com##.VjF9Im9IWGOADVNZpYcq
 </details><details>
 <summary>"Was this page helpful" icons & feedback boxes (4 elements / <1 KB)</summary>
 
