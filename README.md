@@ -11,7 +11,7 @@ Steps to implement library in Google Chrome:
 For contributors: This is a community library, meaning anyone can contribute. Every element from contributors is verified individually before being added. Sites that aren't safe for work or encourage piracy will be rejected. Social icons are blocked, but sites that are utility focused such as LinkedIn and RSS should be preserved when possible.
 
 <details>
-  <summary>General library (2899 elements / 160 KB)</summary>
+  <summary>General library (2915 elements / 161 KB)</summary>
 
   1. google.com###tads
   2. google.com##.qGXjvb
@@ -2912,6 +2912,22 @@ For contributors: This is a community library, meaning anyone can contribute. Ev
   2897. bloomberg.com##.BaseAd_baseAd-dXBqvbLRJy0-.BaseAd_adPlaceholder-W4Hid5G045M-.BoxAd_boxAd-rTusT9mNmWo-
   2898. bloomberg.com##.StoryCardSmall_adWrapper_3-3-7-T31Su
   2899. kayak.com##.react-social-media-sites__icon
+  2900. expedia.com##.uitk-menu-container.animation-disabled.uitk-menu-open.uitk-menu-pos-right.uitk-menu-container-autoposition.uitk-menu-container-has-intersection-root-el
+  2901. expedia.com##.uitk-card-placeholder.uitk-card-placeholder-animate-from-light.uitk-card.uitk-card-roundcorner-all.uitk-card-empty.uitk-card-placeholder-ratio-1-3
+  2902. expedia.com##.ot-sdk-row
+  2903. booking.com##.a826ba81c4.fa2f36ad22.afd256fc79.d08f526e0d.ed11e24d01.ef9845d4b3.bd09386e88
+  2904. homedepot.com###messageBar
+  2905. homedepot.com##.MessageBar.MessageBar--web
+  2906. lowes.com##.sc-eDvSVe.bCoIih
+  2907. lowes.com##.c5r4s8_engage-common-0.eAQGAJ
+  2908. lowes.com##.sc-krih58-3.jpwhhm
+  2909. target.com##.styles__MediaContainer-sc-vbvkc1-1.jlxyDU.h-display-flex.h-flex-justify-space-between
+  2910. houzz.com##.hzFooter--icon.hzi-font.hzi-Twitter-Circle
+  2911. houzz.com##.hzFooter--icon.hzi-font.hzi-Facebook-Circle
+  2912. houzz.com##.hzFooter--icon.hzi-font.hzi-Youtube-Circle
+  2913. autotrader.com##.icon-bar.margin-vertical-5
+  2914. caranddriver.com##.css-1v5xah6.emkv89h0
+  2915. allrecipes.com##.loc.newsletter-link-wrapper.utility-nav__newsletter.utility-nav__full-menu-item
 </details>
 <details>
 <summary>Remove YouTube Shorts Shelf from home page (1 element / <1 KB)</summary>
