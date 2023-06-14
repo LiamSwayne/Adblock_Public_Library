@@ -11,7 +11,7 @@ Steps to implement library in Google Chrome:
 For contributors: This is a community library, meaning anyone can contribute. Every element from contributors is verified individually before being added. Sites that aren't safe for work or encourage piracy will be rejected. Social icons are blocked, but sites that are utility focused such as LinkedIn and RSS should be preserved when possible.
 
 <details>
-  <summary>General library (2898 elements / 160 KB)</summary>
+  <summary>General library (2899 elements / 160 KB)</summary>
 
   1. google.com###tads
   2. google.com##.qGXjvb
@@ -2911,6 +2911,7 @@ For contributors: This is a community library, meaning anyone can contribute. Ev
   2896. bloomberg.com##.styles_NewsletterDefault__E0tsz
   2897. bloomberg.com##.BaseAd_baseAd-dXBqvbLRJy0-.BaseAd_adPlaceholder-W4Hid5G045M-.BoxAd_boxAd-rTusT9mNmWo-
   2898. bloomberg.com##.StoryCardSmall_adWrapper_3-3-7-T31Su
+  2899. kayak.com##.react-social-media-sites__icon
 </details>
 <details>
 <summary>Remove YouTube Shorts Shelf from home page (1 element / <1 KB)</summary>
