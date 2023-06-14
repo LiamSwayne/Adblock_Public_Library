@@ -10,7 +10,7 @@ Steps to implement library in Google Chrome:
 4. In the extension settings > advanced > My Filter List: expand, copy, and paste one or more of the lists below into the "search or add filters" box.
 
 <details>
-  <summary>General library (2920 elements / 162 KB)</summary>
+  <summary>General library (2935 elements / 163 KB)</summary>
 
   1. google.com###tads
   2. google.com##.qGXjvb
@@ -2932,6 +2932,21 @@ Steps to implement library in Google Chrome:
   2918. foodnetwork.com##.o-Newsletter__a-Description
   2919. foodnetwork.com###mod-newsletter-1
   2920. foodnetwork.com##.o-Capsule.o-Newsletter
+  2921. epicurious.com##.newsletter.fullwidth
+  2922. ||s.gr-assets.com/assets/site_footer/footer_instagram-d59e3887020f12bcdb12e6c539579d85.svg
+  2923. ||s.gr-assets.com/assets/site_footer/footer_twitter-126b3ee80481a763f7fccb06ca03053c.svg
+  2924. ||s.gr-assets.com/assets/site_footer/footer_facebook-ea4ab848f8e86c5f5c98311bc9495a1b.svg
+  2925. goodreads.com##.Overlay.Overlay--floating
+  2926. goodreads.com##.Icon.InstagramIcon
+  2927. goodreads.com##.Icon.TwitterIcon
+  2928. goodreads.com##.Icon.FacebookIcon
+  2929. entrepreneur.com##.rounded-full.inline-flex.justify-center.items-center.hover\:shadow-md.text-gray-800.bg-gray-100.hover\:bg-gray-200.mx-1.h-12.w-12.share-snapchat
+  2930. entrepreneur.com##.flex.flex-col.lg\:flex-row.lg\:justify-center
+  2931. entrepreneur.com##.items-center.border.text-lg.font-medium.text-black.bg-yellow-300.hover\:bg-yellow-400.focus\:outline-white.focus\:outline-offset-2.focus\:outline-slate-900.active\:bg-yellow-400.border-transparent.shadow-md.rounded-md.w-auto.py-3.px-3.sm\:px-6.mx-2.hidden.md\:flex.subButton.inline-flex
+  2932. entrepreneur.com###top-subs-promo
+  2933. entrepreneur.com##.w-full.border-b.border-gray-200.py-4.bg-gray-100.text-center.font-medium.mx-auto
+  2934. entrepreneur.com###anchorcontainer
+  2935. entrepreneur.com##.fixed.\-bottom-\[50px\].sm\:-bottom-\[90px\].transition-all.w-full.box-content.bg-gray-100.border-t-2.border-gray-200.h-\[50px\].sm\:h-\[90px\].py-2.z-10
 </details><details>
 <summary>"Was this page helpful" icons & feedback boxes (2 elements / <1 KB)</summary>
 
