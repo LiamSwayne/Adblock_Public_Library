@@ -3009,7 +3009,7 @@ Steps to implement library in Google Chrome:
   8. docs.document360.com##.article-vote-container
   9. docs.document360.com##.sperator.sperator-both
 </details><details>
-<summary>Remove YouTube Shorts Shelf from home page (1 element / <1 KB)</summary>
+<summary>Remove YouTube Shorts Shelf from YouTube home page (1 element / <1 KB)</summary>
   
   1. youtube.com##.style-scope.ytd-rich-shelf-renderer
 </details>
