@@ -3059,7 +3059,7 @@ Steps to implement library in Google Chrome:
   3045. docs.document360.com##.social-links
   3046. ||s.yimg.com/bx/adb/20230524210938800.png
 </details><details>
-<summary>"Was this page helpful" icons & feedback boxes (9 elements / <1 KB)</summary>
+<summary>"Was this page helpful" icons & feedback boxes (10 elements / <1 KB)</summary>
 
   1. allrecipes.com###article-feedback_1-0
   2. allrecipes.com##.comp.article-feedback.mntl-article-feedback
@@ -3070,6 +3070,7 @@ Steps to implement library in Google Chrome:
   7. docs.document360.com###doc_review_container
   8. docs.document360.com##.article-vote-container
   9. docs.document360.com##.sperator.sperator-both
+  10. chat.openai.com##.flex.justify-between.items-center.p-4.rounded-md.bg-gray-100.dark\:bg-gray-700.text-gray-700.dark\:text-gray-300.text-sm
 </details><details>
 <summary>Remove YouTube Shorts Shelf from YouTube home page (1 element / <1 KB)</summary>
   
