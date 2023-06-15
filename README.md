@@ -10,7 +10,7 @@ Steps to implement library in Google Chrome:
 4. In the extension settings > advanced > My Filter List: expand, copy, and paste one or more of the lists below into the "search or add filters" box.
 
 <details>
-  <summary>General library (2984 elements / 165 KB)</summary>
+  <summary>General library (3045 elements / 169 KB)</summary>
 
   1. blog.logrocket.com##.news-pop.news-pop-outer-wrap.typescript-popup
   2. blog.logrocket.com##.footer-cta-container
@@ -2741,8 +2741,8 @@ Steps to implement library in Google Chrome:
   2727. thesaurus.com##.svg-inline--fa.fa-pinterest-p.SocialLinks-module_social_f39af12b409a20858b1e
   2728. thesaurus.com##.svg-inline--fa.fa-youtube.SocialLinks-module_social_f39af12b409a20858b1e
   2729. thesaurus.com##.VjF9Im9IWGOADVNZpYcq
-  2730. dexerto.com##.flex-col.w-full.py-\[14\.5px\].px-5.bg-neutral-grey-4.md\:py-5.md\:flex-row.md\:items-center.md\:justify-between.md\:gap-x-5.col-span-full.lg\:col-span-7.my-8.flex
-  2731. stackoverflow.com##.s-btn.s-btn__link.w100.fc-blue-700.h\:fc-blue-900.p8.fs-caption.mr8.mt8.d-block.bar-md.bg-blue-050.lh-md.js-gps-track
+  2730. app.snyk.io##.dialog
+  2731. docs.document360.com##.social-links
   2732. baeldung.com###google_ads_iframe_\/15184186\,7114245\/baeldung_right_rail_3_0
   2733. baeldung.com###google_ads_iframe_\/15184186\,7114245\/baeldung_leaderboard_mid_3_0
   2734. mashable.com##.flex.flex-row.text-white.flex-wrap.my-8.md\:mb-8.md\:mt-5.md\:space-x-8
@@ -2989,13 +2989,74 @@ Steps to implement library in Google Chrome:
   2975. beta.elevenlabs.io##.text-\[\#5865F2\].hover\:opacity-70
   2976. beta.elevenlabs.io##.text-\[\#1DA1F2\].hover\:opacity-70
   2977. developer.chrome.com##.color-secondary-text.display-flex.gap-top-300.lg\:gap-top-0
-  2978. mm-signin.centurylink.com##.chi-col.\-w-lg--3.\-w-xl--3.\-align--right.\-d--none.\-d-lg--flex.\-justify-content--center
-  2979. dreamhost.com##.flex.justify-around.space-y-3.text-base.lg\:block
-  2980. semrush.com##.srf-menu-items.\-icons-left
-  2981. databricks.com##.flex.flex-wrap.gap-1\.5
-  2982. engadget.com##.rwd-outer-container.W\(100vw\).D\(f\).Jc\(sa\).Bgc\(engadgetGray\).Bgc\(engadgetSteelGray\)--md
-  2983. app.snyk.io##.dialog
-  2984. docs.document360.com##.social-links
+  2978. dexerto.com##.flex-col.w-full.py-\[14\.5px\].px-5.bg-neutral-grey-4.md\:py-5.md\:flex-row.md\:items-center.md\:justify-between.md\:gap-x-5.col-span-full.lg\:col-span-7.my-8.flex
+  2979. stackoverflow.com##.s-btn.s-btn__link.w100.fc-blue-700.h\:fc-blue-900.p8.fs-caption.mr8.mt8.d-block.bar-md.bg-blue-050.lh-md.js-gps-track
+  2980. mm-signin.centurylink.com##.chi-col.\-w-lg--3.\-w-xl--3.\-align--right.\-d--none.\-d-lg--flex.\-justify-content--center
+  2981. dreamhost.com##.flex.justify-around.space-y-3.text-base.lg\:block
+  2982. semrush.com##.srf-menu-items.\-icons-left
+  2983. databricks.com##.flex.flex-wrap.gap-1\.5
+  2984. ycombinator.com##.flex.space-x-6.md\:order-2
+  2985. hiring.monster.com##.menu.flex.mx-0.mt-0.mb-30.p-0.text-left.tablet-portrait-max\:items-center.tablet-portrait-max\:justify-evenly.tablet-portrait-max\:my-30.tablet-portrait-max\:text-center.container
+  2986. linkup.com##.flex.items-center.justify-center.p-\[6px\].rounded-full.border.hover\:text-blue.focus\:text-blue
+  2987. calculat.io##.calc67-container.\--vertical.vertical-300x300
+  2988. calculat.io##.calc67-container.calc67--1.sticky-calc67.mb--1_5.\--adblock
+  2989. mashable.com##.px-3.hover\:text-primary-400
+  2990. mashable.com##.flex.overflow-hidden.relative.flex-col.items-end.px-4.mx-auto.mt-12.md\:flex-row.max-w-9xl.bg-warmgray-100
+  2991. mashable.com##.px-4.hover\:text-primary-400
+  2992. theverge.com##.rounded-full.bg-white.transition.hover\:bg-black
+  2993. theverge.com##.duet--cta--newsletter.flex.w-full.flex-col.border-t.px-12.pt-16.font-polysans-mono.text-14.font-light.leading-130.\-tracking-2.md\:text-15.text-blurple.border-blurple
+  2994. theverge.com##.duet--article--share-buttons.flex.leading-\[0\]
+  2995. pcmag.com##.hover\:text-gray-darkest.inline-block
+  2996. pcmag.com##.rounded.bg-gray-lightest.text-center.md\:px-32.md\:py-8.p-4.mt-8.container-xs
+  2997. engadget.com##.Bgc\(white\).W\(100vw\).D\(f\).Ai\(st\).Pos\(r\).Z\(1\).Jc\(c\).M\(MarginCenter\)
+  2998. engadget.com##.Bdstartw\(1px\).Bdc\(engadgetFontGray\).Bdstarts\(s\).Mstart\(15px\).Pstart\(20px\)
+  2999. engadget.com##.Pb\(25px\).Pt\(25px\).D\(f\).Ai\(c\).Jc\(c\).Z\(100\).Flxg\(1\).Mih\(90px\)
+  3000. shopify.com##.block.h-8.w-8.fill-black.hover\:fill-shade-70
+  3001. shopify.com##.relative.inset-x-0.top-0.flex.items-center.justify-center.overflow-hidden.z-20.deafult\:text-black.default\:bg-shopify-green-10
+  3002. shopify.com##.block.h-8.w-8.fill-white.hover\:fill-shade-30
+  3003. entrepreneur.com##.rounded-full.inline-flex.justify-center.items-center.hover\:shadow-md.text-gray-800.bg-gray-100.hover\:bg-gray-200.mx-1.h-12.w-12.share-snapchat
+  3004. entrepreneur.com##.flex.flex-col.lg\:flex-row.lg\:justify-center
+  3005. entrepreneur.com##.items-center.border.text-lg.font-medium.text-black.bg-yellow-300.hover\:bg-yellow-400.focus\:outline-white.focus\:outline-offset-2.focus\:outline-slate-900.active\:bg-yellow-400.border-transparent.shadow-md.rounded-md.w-auto.py-3.px-3.sm\:px-6.mx-2.hidden.md\:flex.subButton.inline-flex
+  3006. entrepreneur.com##.fixed.\-bottom-\[50px\].sm\:-bottom-\[90px\].transition-all.w-full.box-content.bg-gray-100.border-t-2.border-gray-200.h-\[50px\].sm\:h-\[90px\].py-2.z-10
+  3007. lonelyplanet.com##.flex.space-x-4.lg\:space-x-2
+  3008. lonelyplanet.com##.hidden.w-12.lg\:block.pr-3.lg\:pr-0.text-sm.font-semibold.text-center.lg\:pb-2
+  3009. lonelyplanet.com##.border.border-black-200.border-r-0.lg\:border-b-0.flex.lg\:flex-col.lg\:w-12
+  3010. en.fetchfile.net##.ya-share2__item.ya-share2__item_service_twitter
+  3011. about.gitlab.com##.social__links
+  3012. ||postgresql.org/media/img/atpostgresql.png
+  3013. tutorialrepublic.com###tweet-btn
+  3014. acunetix.com###menu-item-13694
+  3015. acunetix.com##.facebook.menu-item.menu-item-13694.menu-item-find-us-on-facebook.first-menu-item
+  3016. acunetix.com###menu-item-13695
+  3017. acunetix.com##.twitter.menu-item.menu-item-13695.menu-item-follow-us-on-twiter
+  3018. bootcamp.berkeley.edu##.icon-container
+  3019. ||heidisql.com/images/facebook-icon.png
+  3020. heidisql.com##.cookie-consent
+  3021. ||webopedia.com/wp-content/uploads/2023/03/Email_icon-23.svg
+  3022. webopedia.com##.fit-omv2-image-before-headline
+  3023. webopedia.com###fit-omv2-desktop-62067
+  3024. webopedia.com##.fit-omv2.fit-omv2-62067.fit-omv2-desktop.fit-omv2-cta-email.fit-omv2-campaign-inline.fit-omv2-buttons-email-original.fit-omv2-modal-sidebar-none
+  3025. webopedia.com##.eweek-close-button
+  3026. webopedia.com##.wpb_wrapper.td_block_empty_space.td_block_wrap.vc_empty_space.tdi_50
+  3027. webopedia.com##.wpb_wrapper.td_block_empty_space.td_block_wrap.vc_empty_space.tdi_147
+  3028. cscc.edu##.fa.fa-twitter.icon-set
+  3029. cscc.edu##.fa.fa-youtube.icon-set
+  3030. cscc.edu##.fa.fa-instagram.icon-set
+  3031. cscc.edu##.fa.fa-facebook-official.icon-set
+  3032. cscc.edu##.fa.fa-snapchat.icon-set
+  3033. looka.com##.cta.cta--grey.cta--shortcode
+  3034. looka.com##.social--fixed.plugin__social
+  3035. newyorker.com##.NewsletterSubscribeFormWrapper-fCqqkN.jKSBhE.newsletter-subscribe-form.ContentFooterNewsletterForm-hKeYwa.liPqcf
+  3036. finance.yahoo.com##.Fxb\(300px\).Fxg\(0\).Fxs\(0\).Mstart\(a\)
+  3037. web.archive.org###banner-body-container
+  3038. web.archive.org###donate_banner
+  3039. web.archive.org##.row.js-donate-banner.template-chevron.background-default.chevron-image-white.chevron-color-default
+  3040. web.archive.org###donate-body
+  3041. web.archive.org###js-ia-iframe
+  3042. web.archive.org##banner-body-container
+  3043. finance.yahoo.com##.monalixa.monalixa-sticky-footer.Pos\(f\).Z\(2\).Start\(0\).End\(0\).Mx\(a\).Bdrststart\(4px\).Bdrstend\(4px\).H\(100px\).B\(0px\).Trsdu\(0\.3s\).Trsp\(bottom\).D\(n\)--print
+  3044. finance.yahoo.com##.D\(ib\).M\(0\).Cur\(p\).facebook
+  3045. finance.yahoo.com##.D\(ib\).M\(0\).Cur\(p\).twitter
 </details><details>
 <summary>"Was this page helpful" icons & feedback boxes (9 elements / <1 KB)</summary>
 
