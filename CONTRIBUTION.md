@@ -8,3 +8,5 @@ General guidelines:
 - Newsletter inserts are blocked unless they are part of the footer of the page. If there is a button in the footer that links to a separate page just for newsletters, then all other newsletter footers can be removed.
 - Blank areas of the page that do not contain content and pad out the site should be removed when possible.
 - Block donation pop-ups and inserts, but don't block donation buttons (*except for university sites, they have enough already*).
+
+Submit elements thrugh the discussion tab.
