@@ -64,7 +64,7 @@ Steps to implement library in Google Chrome:
   <summary>'''
 
 footerStr = '''<details>
-<summary>Remove YouTube Shorts Shelf from home page (1 element / <1 KB)</summary>
+<summary>Remove YouTube Shorts Shelf from YouTube home page (1 element / <1 KB)</summary>
   
   1. youtube.com##.style-scope.ytd-rich-shelf-renderer
 </details>'''
