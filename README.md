@@ -10,7 +10,7 @@ Steps to implement library in Google Chrome:
 4. In the extension settings > advanced > My Filter List: expand, copy, and paste one or more of the lists below into the "search or add filters" box.
 
 <details>
-  <summary>General library (2982 elements / 165 KB)</summary>
+  <summary>General library (2984 elements / 165 KB)</summary>
 
   1. blog.logrocket.com##.news-pop.news-pop-outer-wrap.typescript-popup
   2. blog.logrocket.com##.footer-cta-container
@@ -43,7 +43,7 @@ Steps to implement library in Google Chrome:
   29. geeksforgeeks.org##.login-modal-div
   30. old.reddit.com##.premium-banner
   31. metacritic.com##.social_icons
-  32. dexerto.com##.flex-col.w-full.py-\[14\.5px\].px-5.bg-neutral-grey-4.md\:py-5.md\:flex-row.md\:items-center.md\:justify-between.md\:gap-x-5.col-span-full.lg\:col-span-7.my-8.flex
+  32. dexerto.com##.flex-col.w-full.py-[14.5px].px-5.bg-neutral-grey-4.md:py-5.md:flex-row.md:items-center.md:justify-between.md:gap-x-5.col-span-full.lg:col-span-7.my-8.flex
   33. byjus.com###close
   34. byjus.com##.social-close-btn
   35. byjus.com##.btn.button-facebook
@@ -59,7 +59,7 @@ Steps to implement library in Google Chrome:
   45. boxofficemojo.com##.mojo-logo-delimiter
   46. incompetech.com##.twitter-share-button.twitter-share-button-error
   47. stackoverflow.com##.js-freemium-cta.ps-relative
-  48. stackoverflow.com##.s-btn.s-btn__link.w100.fc-blue-700.h\:fc-blue-900.p8.fs-caption.mr8.mt8.d-block.bar-md.bg-blue-050.lh-md.js-gps-track
+  48. stackoverflow.com##.s-btn.s-btn__link.w100.fc-blue-700.h:fc-blue-900.p8.fs-caption.mr8.mt8.d-block.bar-md.bg-blue-050.lh-md.js-gps-track
   49. google.com##.PZPZlf.dRrfkf.kno-vrt-t
   50. wired.com##.GridWrapper-uChIO.ennIAX.grid.grid-items-0.PaywallBarExpandedContent-eFhJuQ.gnbFwh
   51. wired.com###hdegn
@@ -123,11 +123,11 @@ Steps to implement library in Google Chrome:
   109. tutorialspoint.com##._adr_abp_container
   110. tutorialspoint.com##.px-2.nav-link
   111. ||baeldung.com/wp-content/uploads/2022/11/Courses-Widget-Discount-01.png
-  112. baeldung.com###google_ads_iframe_\/15184186\,7114245\/baeldung_right_rail_3_0
+  112. baeldung.com###google_ads_iframe_/15184186,7114245/baeldung_right_rail_3_0
   113. baeldung.com##iframe[src="https://cd8145792292c46fdf9b9123a5e453d4.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html?upapi=true"]
   114. baeldung.com###baeldung_right_rail_3
   115. baeldung.com##.up-show
-  116. baeldung.com###google_ads_iframe_\/15184186\,7114245\/baeldung_leaderboard_mid_3_0
+  116. baeldung.com###google_ads_iframe_/15184186,7114245/baeldung_leaderboard_mid_3_0
   117. baeldung.com###baeldung_leaderboard_mid_3
   118. geeksforgeeks.org##iframe[src="https://aa.geeksforgeeks.org/iframe.html?code=GFG_ABP_Desktop_RightSideBar_BTF_300x600"]
   119. geeksforgeeks.org##iframe[src="https://aa.geeksforgeeks.org/iframe.html?code=GFG_ABP_Desktop_RightSideBar_BTF_300x600_2"]
@@ -144,7 +144,7 @@ Steps to implement library in Google Chrome:
   130. mashable.com###incontent-1
   131. mashable.com##.zmgad-full-width
   132. mashable.com###incontent-2
-  133. mashable.com##.flex.flex-row.text-white.flex-wrap.my-8.md\:mb-8.md\:mt-5.md\:space-x-8
+  133. mashable.com##.flex.flex-row.text-white.flex-wrap.my-8.md:mb-8.md:mt-5.md:space-x-8
   134. digitalocean.com##.CommunityCTAStyles-sc-dyi7ix-0.jDJcOT
   135. ||digitalocean.com/_next/static/media/socialTwitch.a40b5940.svg
   136. ||digitalocean.com/_next/static/media/socialTwitter.26ed7e61.svg
@@ -220,20 +220,20 @@ Steps to implement library in Google Chrome:
   206. nytimes.com##.css-qlhgae
   207. nytimes.com###story-ad-2-wrapper
   208. nytimes.com##.css-1r07izm
-  209. nytimes.com###google_ads_iframe_\/29390238\/nyt\/homepage_0__container__
+  209. nytimes.com###google_ads_iframe_/29390238/nyt/homepage_0__container__
   210. nytimes.com##.css-c9bfyl.e1xxpj0j1
   211. nytimes.com##.css-1qn1854.e1xxpj0j1
   212. nytimes.com##.css-oeful5.e1ppw5w20
-  213. wired.com###google_ads_iframe_3379\/conde\.wired\/mid-content\/science\/article\/1_0
+  213. wired.com###google_ads_iframe_3379/conde.wired/mid-content/science/article/1_0
   214. wired.com##.AdWrapper-fFweuL.dIvDeZ.ad.ad--mid-content
-  215. wired.com###google_ads_iframe_3379\/conde\.wired\/rail\/science\/article\/2_0__container__
+  215. wired.com###google_ads_iframe_3379/conde.wired/rail/science/article/2_0__container__
   216. wired.com##.AdWrapper-fFweuL.dIvDeZ.ad.ad--in-content
-  217. wired.com###google_ads_iframe_3379\/conde\.wired\/hero\/science\/article\/1_0__container__
+  217. wired.com###google_ads_iframe_3379/conde.wired/hero/science/article/1_0__container__
   218. wired.com##.StickyHeroAdWrapper-kvKqCQ.bBWMVU.ad-stickyhero.ad-stickyhero--standard.should-hold-space
-  219. wired.com###google_ads_iframe_3379\/conde\.wired\/rail\/science\/article\/1_0__container__
-  220. wired.com###google_ads_iframe_3379\/conde\.wired\/rail\/science\/article\/3_0__container__
-  221. wired.com###google_ads_iframe_3379\/conde\.wired\/rail\/science\/article\/4_0__container__
-  222. wired.com###google_ads_iframe_3379\/conde\.wired\/rail\/science\/article\/5_0
+  219. wired.com###google_ads_iframe_3379/conde.wired/rail/science/article/1_0__container__
+  220. wired.com###google_ads_iframe_3379/conde.wired/rail/science/article/3_0__container__
+  221. wired.com###google_ads_iframe_3379/conde.wired/rail/science/article/4_0__container__
+  222. wired.com###google_ads_iframe_3379/conde.wired/rail/science/article/5_0
   223. wired.com##.cm-hero-wrapper.journey-template--leaderboard
   224. wired.com###hero_0
   225. wired.com##.cns-ads-container
@@ -244,8 +244,8 @@ Steps to implement library in Google Chrome:
   230. vox.com##.m-ad.m-ad__dynamic_ad_unit.m-ad__athena.dfp_ad-wrapper--is-filled
   231. vox.com##.dynamic-js-slot.dfp_ad--held-area.dfp_ad--rendered.dfp_ad--is-filled
   232. vox.com###div-gpt-ad-athena_hub
-  233. vox.com###google_ads_iframe_\/172968584\/vox\/vox\.com\/front_page_15
-  234. vox.com###google_ads_iframe_\/172968584\/vox\/vox\.com\/front_page_3
+  233. vox.com###google_ads_iframe_/172968584/vox/vox.com/front_page_15
+  234. vox.com###google_ads_iframe_/172968584/vox/vox.com/front_page_3
   235. vox.com##.m-ad.m-ad__dynamic_ad_unit.m-ad__desktop_leaderboard_variable.dfp_ad-wrapper--is-filled
   236. nbcnews.com##.header-and-footer--banner-ad.ad-container.topbannerAd.isScrolledToTop
   237. nbcnews.com##.header-and-footer--banner-ad.ad-container.topbannerAd
@@ -269,206 +269,206 @@ Steps to implement library in Google Chrome:
   255. nytimes.com##.css-fmiefx.e1j8vip02
   256. nytimes.com###mid1-slug
   257. nytimes.com##.css-1tag3rd.en616591
-  258. nytimes.com###google_ads_iframe_\/29390238\/nyt\/science\/sectionfront_2
+  258. nytimes.com###google_ads_iframe_/29390238/nyt/science/sectionfront_2
   259. nytimes.com###mid1-wrapper
   260. nytimes.com##.css-10a91js.en616590
   261. nytimes.com###mid2-wrapper
   262. nytimes.com##.css-nve9dy.en616590
-  263. nytimes.com###google_ads_iframe_\/29390238\/nyt\/science\/sectionfront_4__container__
-  264. nytimes.com###google_ads_iframe_\/29390238\/nyt\/science\/sectionfront_15
-  265. nytimes.com###google_ads_iframe_\/29390238\/nyt\/science\/sectionfront_13
-  266. nytimes.com###google_ads_iframe_\/29390238\/nyt\/science\/sectionfront_12
-  267. nytimes.com###google_ads_iframe_\/29390238\/nyt\/science\/sectionfront_9__container__
-  268. nytimes.com###google_ads_iframe_\/29390238\/nyt\/science\/sectionfront_8
-  269. nytimes.com###google_ads_iframe_\/29390238\/nyt\/business\/sectionfront_4__container__
-  270. nytimes.com###google_ads_iframe_\/29390238\/nyt\/business\/sectionfront_5__container__
-  271. nytimes.com###google_ads_iframe_\/29390238\/nyt\/business\/sectionfront_6__container__
-  272. nytimes.com###google_ads_iframe_\/29390238\/nyt\/business\/sectionfront_7
-  273. nytimes.com###google_ads_iframe_\/29390238\/nyt\/business\/sectionfront_8
-  274. nytimes.com###google_ads_iframe_\/29390238\/nyt\/business\/sectionfront_9
-  275. nytimes.com###google_ads_iframe_\/29390238\/nyt\/world\/sectionfront_4__container__
-  276. nytimes.com###google_ads_iframe_\/29390238\/nyt\/world\/sectionfront_5__container__
-  277. nytimes.com###google_ads_iframe_\/29390238\/nyt\/world\/sectionfront_7__container__
-  278. nytimes.com###google_ads_iframe_\/29390238\/nyt\/world\/sectionfront_6__container__
-  279. nytimes.com###google_ads_iframe_\/29390238\/nyt\/world\/sectionfront_8__container__
-  280. nytimes.com###google_ads_iframe_\/29390238\/nyt\/world\/sectionfront_10__container__
-  281. nytimes.com###google_ads_iframe_\/29390238\/nyt\/world\/sectionfront_11__container__
-  282. nytimes.com###google_ads_iframe_\/29390238\/nyt\/world\/sectionfront_12__container__
-  283. nytimes.com###google_ads_iframe_\/29390238\/nyt\/world\/sectionfront_13__container__
-  284. nytimes.com###google_ads_iframe_\/29390238\/nyt\/world\/sectionfront_14
-  285. nytimes.com###google_ads_iframe_\/29390238\/nyt\/world\/sectionfront_15__container__
+  263. nytimes.com###google_ads_iframe_/29390238/nyt/science/sectionfront_4__container__
+  264. nytimes.com###google_ads_iframe_/29390238/nyt/science/sectionfront_15
+  265. nytimes.com###google_ads_iframe_/29390238/nyt/science/sectionfront_13
+  266. nytimes.com###google_ads_iframe_/29390238/nyt/science/sectionfront_12
+  267. nytimes.com###google_ads_iframe_/29390238/nyt/science/sectionfront_9__container__
+  268. nytimes.com###google_ads_iframe_/29390238/nyt/science/sectionfront_8
+  269. nytimes.com###google_ads_iframe_/29390238/nyt/business/sectionfront_4__container__
+  270. nytimes.com###google_ads_iframe_/29390238/nyt/business/sectionfront_5__container__
+  271. nytimes.com###google_ads_iframe_/29390238/nyt/business/sectionfront_6__container__
+  272. nytimes.com###google_ads_iframe_/29390238/nyt/business/sectionfront_7
+  273. nytimes.com###google_ads_iframe_/29390238/nyt/business/sectionfront_8
+  274. nytimes.com###google_ads_iframe_/29390238/nyt/business/sectionfront_9
+  275. nytimes.com###google_ads_iframe_/29390238/nyt/world/sectionfront_4__container__
+  276. nytimes.com###google_ads_iframe_/29390238/nyt/world/sectionfront_5__container__
+  277. nytimes.com###google_ads_iframe_/29390238/nyt/world/sectionfront_7__container__
+  278. nytimes.com###google_ads_iframe_/29390238/nyt/world/sectionfront_6__container__
+  279. nytimes.com###google_ads_iframe_/29390238/nyt/world/sectionfront_8__container__
+  280. nytimes.com###google_ads_iframe_/29390238/nyt/world/sectionfront_10__container__
+  281. nytimes.com###google_ads_iframe_/29390238/nyt/world/sectionfront_11__container__
+  282. nytimes.com###google_ads_iframe_/29390238/nyt/world/sectionfront_12__container__
+  283. nytimes.com###google_ads_iframe_/29390238/nyt/world/sectionfront_13__container__
+  284. nytimes.com###google_ads_iframe_/29390238/nyt/world/sectionfront_14
+  285. nytimes.com###google_ads_iframe_/29390238/nyt/world/sectionfront_15__container__
   286. nytimes.com###mid3
   287. nytimes.com##.ad.mid3-wrapper.css-rfqw0c
-  288. nytimes.com###google_ads_iframe_\/29390238\/nyt\/world\/sectionfront_
-  289. nytimes.com###google_ads_iframe_\/29390238\/nyt\/world\/sectionfront_9
-  290. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/sectionfront_4__container__
-  291. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/sectionfront_6__container__
-  292. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/sectionfront_7__container__
-  293. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/sectionfront_8
-  294. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/sectionfront_9__container__
-  295. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/sectionfront_10__container__
-  296. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/sectionfront_11__container__
-  297. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/sectionfront_12__container__
-  298. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/sectionfront_14__container__
-  299. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/sectionfront_13__container__
-  300. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/politics\/sectionfront_3__container__
-  301. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/politics\/sectionfront_7__container__
-  302. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/politics\/sectionfront_8__container__
-  303. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/politics\/sectionfront_10__container__
-  304. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/politics\/sectionfront_11__container__
-  305. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/politics\/sectionfront_12__container__
-  306. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/politics\/sectionfront_13__container__
-  307. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/politics\/sectionfront_14__container__
-  308. nytimes.com###google_ads_iframe_\/29390238\/nyt\/sports\/sectionfront_8__container__
-  309. nytimes.com###google_ads_iframe_\/29390238\/nyt\/sports\/sectionfront_13
-  310. nytimes.com###google_ads_iframe_\/29390238\/nyt\/sports\/sectionfront_7__container__
-  311. nytimes.com###google_ads_iframe_\/29390238\/nyt\/health\/sectionfront_4
-  312. nytimes.com###google_ads_iframe_\/29390238\/nyt\/health\/sectionfront_6
-  313. nytimes.com###google_ads_iframe_\/29390238\/nyt\/health\/sectionfront_7
-  314. nytimes.com###google_ads_iframe_\/29390238\/nyt\/health\/sectionfront_8
-  315. nytimes.com###google_ads_iframe_\/29390238\/nyt\/health\/sectionfront_9
-  316. nytimes.com###google_ads_iframe_\/29390238\/nyt\/health\/sectionfront_10
-  317. nytimes.com###google_ads_iframe_\/29390238\/nyt\/health\/sectionfront_11
-  318. nytimes.com###google_ads_iframe_\/29390238\/nyt\/health\/sectionfront_12
-  319. nytimes.com###google_ads_iframe_\/29390238\/nyt\/health\/sectionfront_13
-  320. nytimes.com###google_ads_iframe_\/29390238\/nyt\/health\/sectionfront_14
-  321. nytimes.com###google_ads_iframe_\/29390238\/nyt\/health\/sectionfront_15
-  322. nytimes.com###google_ads_iframe_\/29390238\/nyt\/nyregion\/sectionfront_6__container__
-  323. nytimes.com###google_ads_iframe_\/29390238\/nyt\/nyregion\/sectionfront_7__container__
-  324. nytimes.com###google_ads_iframe_\/29390238\/nyt\/nyregion\/sectionfront_8__container__
-  325. nytimes.com###google_ads_iframe_\/29390238\/nyt\/nyregion\/sectionfront_10__container__
-  326. nytimes.com###google_ads_iframe_\/29390238\/nyt\/nyregion\/sectionfront_11__container__
-  327. nytimes.com###google_ads_iframe_\/29390238\/nyt\/nyregion\/sectionfront_12__container__
-  328. nytimes.com###google_ads_iframe_\/29390238\/nyt\/nyregion\/sectionfront_13
-  329. nytimes.com###google_ads_iframe_\/29390238\/nyt\/nyregion\/sectionfront_14__container__
-  330. nytimes.com###google_ads_iframe_\/29390238\/nyt\/nyregion\/sectionfront_9__container__
-  331. nytimes.com###google_ads_iframe_\/29390238\/nyt\/opinion\/sectionfront_7__container__
-  332. nytimes.com###google_ads_iframe_\/29390238\/nyt\/opinion\/sectionfront_8__container__
-  333. nytimes.com###google_ads_iframe_\/29390238\/nyt\/opinion\/sectionfront_10__container__
-  334. nytimes.com###google_ads_iframe_\/29390238\/nyt\/opinion\/sectionfront_11__container__
-  335. nytimes.com###google_ads_iframe_\/29390238\/nyt\/opinion\/sectionfront_13__container__
-  336. nytimes.com###google_ads_iframe_\/29390238\/nyt\/opinion\/sectionfront_14__container__
-  337. nytimes.com###google_ads_iframe_\/29390238\/nyt\/technology\/sectionfront_4__container__
-  338. nytimes.com###google_ads_iframe_\/29390238\/nyt\/technology\/sectionfront_6__container__
-  339. nytimes.com###google_ads_iframe_\/29390238\/nyt\/technology\/sectionfront_7__container__
-  340. nytimes.com###google_ads_iframe_\/29390238\/nyt\/technology\/sectionfront_8__container__
-  341. nytimes.com###google_ads_iframe_\/29390238\/nyt\/technology\/sectionfront_9
-  342. nytimes.com###google_ads_iframe_\/29390238\/nyt\/technology\/sectionfront_10__container__
-  343. nytimes.com###google_ads_iframe_\/29390238\/nyt\/technology\/sectionfront_11__container__
-  344. nytimes.com###google_ads_iframe_\/29390238\/nyt\/technology\/sectionfront_12__container__
-  345. nytimes.com###google_ads_iframe_\/29390238\/nyt\/technology\/sectionfront_13__container__
-  346. nytimes.com###google_ads_iframe_\/29390238\/nyt\/technology\/sectionfront_14__container__
-  347. nytimes.com###google_ads_iframe_\/29390238\/nyt\/technology\/sectionfront_9__container__
-  348. nytimes.com###google_ads_iframe_\/29390238\/nyt\/arts\/sectionfront_7
-  349. nytimes.com###google_ads_iframe_\/29390238\/nyt\/arts\/sectionfront_8__container__
-  350. nytimes.com###google_ads_iframe_\/29390238\/nyt\/arts\/sectionfront_9__container__
-  351. nytimes.com###google_ads_iframe_\/29390238\/nyt\/arts\/sectionfront_10
-  352. nytimes.com###google_ads_iframe_\/29390238\/nyt\/arts\/sectionfront_11__container__
-  353. nytimes.com###google_ads_iframe_\/29390238\/nyt\/arts\/sectionfront_12__container__
-  354. nytimes.com###google_ads_iframe_\/29390238\/nyt\/arts\/sectionfront_13
-  355. nytimes.com###google_ads_iframe_\/29390238\/nyt\/arts\/sectionfront_14__container__
-  356. nytimes.com###google_ads_iframe_\/29390238\/nyt\/arts\/sectionfront_15__container__
-  357. nytimes.com###google_ads_iframe_\/29390238\/nyt\/arts\/sectionfront_10__container__
-  358. nytimes.com###google_ads_iframe_\/29390238\/nyt\/arts\/sectionfront_4__container__
-  359. nytimes.com###google_ads_iframe_\/29390238\/nyt\/books\/sectionfront_4
-  360. nytimes.com###google_ads_iframe_\/29390238\/nyt\/books\/sectionfront_6
-  361. nytimes.com###google_ads_iframe_\/29390238\/nyt\/books\/sectionfront_7
-  362. nytimes.com###google_ads_iframe_\/29390238\/nyt\/books\/sectionfront_8
-  363. nytimes.com###google_ads_iframe_\/29390238\/nyt\/books\/sectionfront_9
-  364. nytimes.com###google_ads_iframe_\/29390238\/nyt\/books\/sectionfront_10
-  365. nytimes.com###google_ads_iframe_\/29390238\/nyt\/books\/sectionfront_11
-  366. nytimes.com###google_ads_iframe_\/29390238\/nyt\/books\/sectionfront_12
-  367. nytimes.com###google_ads_iframe_\/29390238\/nyt\/books\/sectionfront_13
-  368. nytimes.com###google_ads_iframe_\/29390238\/nyt\/books\/sectionfront_14
-  369. nytimes.com###google_ads_iframe_\/29390238\/nyt\/fashion\/sectionfront_4
-  370. nytimes.com###google_ads_iframe_\/29390238\/nyt\/fashion\/sectionfront_6__container__
-  371. nytimes.com###google_ads_iframe_\/29390238\/nyt\/fashion\/sectionfront_7__container__
-  372. nytimes.com###google_ads_iframe_\/29390238\/nyt\/fashion\/sectionfront_8__container__
-  373. nytimes.com###google_ads_iframe_\/29390238\/nyt\/fashion\/sectionfront_9__container__
-  374. nytimes.com###google_ads_iframe_\/29390238\/nyt\/fashion\/sectionfront_10
-  375. nytimes.com###google_ads_iframe_\/29390238\/nyt\/fashion\/sectionfront_11
-  376. nytimes.com###google_ads_iframe_\/29390238\/nyt\/fashion\/sectionfront_12__container__
-  377. nytimes.com###google_ads_iframe_\/29390238\/nyt\/fashion\/sectionfront_13
-  378. nytimes.com###google_ads_iframe_\/29390238\/nyt\/fashion\/sectionfront_14__container__
-  379. nytimes.com###google_ads_iframe_\/29390238\/nyt\/dining\/sectionfront_4__container__
-  380. nytimes.com###google_ads_iframe_\/29390238\/nyt\/dining\/sectionfront_6__container__
-  381. nytimes.com###google_ads_iframe_\/29390238\/nyt\/dining\/sectionfront_7
-  382. nytimes.com###google_ads_iframe_\/29390238\/nyt\/dining\/sectionfront_8__container__
-  383. nytimes.com###google_ads_iframe_\/29390238\/nyt\/dining\/sectionfront_9__container__
-  384. nytimes.com###google_ads_iframe_\/29390238\/nyt\/dining\/sectionfront_10__container__
-  385. nytimes.com###google_ads_iframe_\/29390238\/nyt\/dining\/sectionfront_11__container__
-  386. nytimes.com###google_ads_iframe_\/29390238\/nyt\/dining\/sectionfront_13__container__
-  387. nytimes.com###google_ads_iframe_\/29390238\/nyt\/dining\/sectionfront_14__container__
-  388. nytimes.com###google_ads_iframe_\/29390238\/nyt\/dining\/sectionfront_12__container__
-  389. nytimes.com###google_ads_iframe_\/29390238\/nyt\/travel\/sectionfront_5__container__
-  390. nytimes.com###google_ads_iframe_\/29390238\/nyt\/travel\/sectionfront_6__container__
-  391. nytimes.com###google_ads_iframe_\/29390238\/nyt\/travel\/sectionfront_7__container__
-  392. nytimes.com###google_ads_iframe_\/29390238\/nyt\/travel\/sectionfront_8__container__
-  393. nytimes.com###google_ads_iframe_\/29390238\/nyt\/travel\/sectionfront_9__container__
-  394. nytimes.com###google_ads_iframe_\/29390238\/nyt\/travel\/sectionfront_10
-  395. nytimes.com###google_ads_iframe_\/29390238\/nyt\/travel\/sectionfront_11__container__
-  396. nytimes.com###google_ads_iframe_\/29390238\/nyt\/travel\/sectionfront_12__container__
-  397. nytimes.com###google_ads_iframe_\/29390238\/nyt\/travel\/sectionfront_13
-  398. nytimes.com###google_ads_iframe_\/29390238\/nyt\/travel\/sectionfront_14
-  399. nytimes.com###google_ads_iframe_\/29390238\/nyt\/travel\/sectionfront_15__container__
-  400. nytimes.com###google_ads_iframe_\/29390238\/nyt\/travel\/sectionfront_10__container__
-  401. nytimes.com###google_ads_iframe_\/29390238\/nyt\/travel\/sectionfront_13__container__
-  402. nytimes.com###google_ads_iframe_\/29390238\/nyt\/magazine\/sectionfront_7__container__
-  403. nytimes.com###google_ads_iframe_\/29390238\/nyt\/magazine\/sectionfront_8__container__
-  404. nytimes.com###google_ads_iframe_\/29390238\/nyt\/magazine\/sectionfront_9__container__
-  405. nytimes.com###google_ads_iframe_\/29390238\/nyt\/magazine\/sectionfront_10__container__
-  406. nytimes.com###google_ads_iframe_\/29390238\/nyt\/magazine\/sectionfront_11__container__
-  407. nytimes.com###google_ads_iframe_\/29390238\/nyt\/magazine\/sectionfront_12__container__
-  408. nytimes.com###google_ads_iframe_\/29390238\/nyt\/magazine\/sectionfront_13__container__
-  409. nytimes.com###google_ads_iframe_\/29390238\/nyt\/magazine\/sectionfront_3
-  410. nytimes.com###google_ads_iframe_\/29390238\/nyt\/tmagazine\/sectionfront_4
-  411. nytimes.com###google_ads_iframe_\/29390238\/nyt\/tmagazine\/sectionfront_6
-  412. nytimes.com###google_ads_iframe_\/29390238\/nyt\/tmagazine\/sectionfront_7
-  413. nytimes.com###google_ads_iframe_\/29390238\/nyt\/tmagazine\/sectionfront_8
-  414. nytimes.com###google_ads_iframe_\/29390238\/nyt\/tmagazine\/sectionfront_9
-  415. nytimes.com###google_ads_iframe_\/29390238\/nyt\/tmagazine\/sectionfront_10
-  416. nytimes.com###google_ads_iframe_\/29390238\/nyt\/tmagazine\/sectionfront_11
-  417. nytimes.com###google_ads_iframe_\/29390238\/nyt\/tmagazine\/sectionfront_12
-  418. nytimes.com###google_ads_iframe_\/29390238\/nyt\/tmagazine\/sectionfront_13
-  419. nytimes.com###google_ads_iframe_\/29390238\/nyt\/tmagazine\/sectionfront_14
-  420. nytimes.com###google_ads_iframe_\/29390238\/nyt\/realestate\/sectionfront_12__container__
-  421. nytimes.com###google_ads_iframe_\/29390238\/nyt\/realestate\/sectionfront_13__container__
-  422. nytimes.com###google_ads_iframe_\/29390238\/nyt\/realestate\/sectionfront_14__container__
-  423. nytimes.com###google_ads_iframe_\/29390238\/nyt\/realestate\/sectionfront_15
-  424. nytimes.com###google_ads_iframe_\/29390238\/nyt\/realestate\/sectionfront_16__container__
-  425. nytimes.com###google_ads_iframe_\/29390238\/nyt\/realestate\/sectionfront_17__container__
-  426. nytimes.com###google_ads_iframe_\/29390238\/nyt\/realestate\/sectionfront_18
-  427. nytimes.com###google_ads_iframe_\/29390238\/nyt\/realestate\/sectionfront_19__container__
+  288. nytimes.com###google_ads_iframe_/29390238/nyt/world/sectionfront_
+  289. nytimes.com###google_ads_iframe_/29390238/nyt/world/sectionfront_9
+  290. nytimes.com###google_ads_iframe_/29390238/nyt/us/sectionfront_4__container__
+  291. nytimes.com###google_ads_iframe_/29390238/nyt/us/sectionfront_6__container__
+  292. nytimes.com###google_ads_iframe_/29390238/nyt/us/sectionfront_7__container__
+  293. nytimes.com###google_ads_iframe_/29390238/nyt/us/sectionfront_8
+  294. nytimes.com###google_ads_iframe_/29390238/nyt/us/sectionfront_9__container__
+  295. nytimes.com###google_ads_iframe_/29390238/nyt/us/sectionfront_10__container__
+  296. nytimes.com###google_ads_iframe_/29390238/nyt/us/sectionfront_11__container__
+  297. nytimes.com###google_ads_iframe_/29390238/nyt/us/sectionfront_12__container__
+  298. nytimes.com###google_ads_iframe_/29390238/nyt/us/sectionfront_14__container__
+  299. nytimes.com###google_ads_iframe_/29390238/nyt/us/sectionfront_13__container__
+  300. nytimes.com###google_ads_iframe_/29390238/nyt/us/politics/sectionfront_3__container__
+  301. nytimes.com###google_ads_iframe_/29390238/nyt/us/politics/sectionfront_7__container__
+  302. nytimes.com###google_ads_iframe_/29390238/nyt/us/politics/sectionfront_8__container__
+  303. nytimes.com###google_ads_iframe_/29390238/nyt/us/politics/sectionfront_10__container__
+  304. nytimes.com###google_ads_iframe_/29390238/nyt/us/politics/sectionfront_11__container__
+  305. nytimes.com###google_ads_iframe_/29390238/nyt/us/politics/sectionfront_12__container__
+  306. nytimes.com###google_ads_iframe_/29390238/nyt/us/politics/sectionfront_13__container__
+  307. nytimes.com###google_ads_iframe_/29390238/nyt/us/politics/sectionfront_14__container__
+  308. nytimes.com###google_ads_iframe_/29390238/nyt/sports/sectionfront_8__container__
+  309. nytimes.com###google_ads_iframe_/29390238/nyt/sports/sectionfront_13
+  310. nytimes.com###google_ads_iframe_/29390238/nyt/sports/sectionfront_7__container__
+  311. nytimes.com###google_ads_iframe_/29390238/nyt/health/sectionfront_4
+  312. nytimes.com###google_ads_iframe_/29390238/nyt/health/sectionfront_6
+  313. nytimes.com###google_ads_iframe_/29390238/nyt/health/sectionfront_7
+  314. nytimes.com###google_ads_iframe_/29390238/nyt/health/sectionfront_8
+  315. nytimes.com###google_ads_iframe_/29390238/nyt/health/sectionfront_9
+  316. nytimes.com###google_ads_iframe_/29390238/nyt/health/sectionfront_10
+  317. nytimes.com###google_ads_iframe_/29390238/nyt/health/sectionfront_11
+  318. nytimes.com###google_ads_iframe_/29390238/nyt/health/sectionfront_12
+  319. nytimes.com###google_ads_iframe_/29390238/nyt/health/sectionfront_13
+  320. nytimes.com###google_ads_iframe_/29390238/nyt/health/sectionfront_14
+  321. nytimes.com###google_ads_iframe_/29390238/nyt/health/sectionfront_15
+  322. nytimes.com###google_ads_iframe_/29390238/nyt/nyregion/sectionfront_6__container__
+  323. nytimes.com###google_ads_iframe_/29390238/nyt/nyregion/sectionfront_7__container__
+  324. nytimes.com###google_ads_iframe_/29390238/nyt/nyregion/sectionfront_8__container__
+  325. nytimes.com###google_ads_iframe_/29390238/nyt/nyregion/sectionfront_10__container__
+  326. nytimes.com###google_ads_iframe_/29390238/nyt/nyregion/sectionfront_11__container__
+  327. nytimes.com###google_ads_iframe_/29390238/nyt/nyregion/sectionfront_12__container__
+  328. nytimes.com###google_ads_iframe_/29390238/nyt/nyregion/sectionfront_13
+  329. nytimes.com###google_ads_iframe_/29390238/nyt/nyregion/sectionfront_14__container__
+  330. nytimes.com###google_ads_iframe_/29390238/nyt/nyregion/sectionfront_9__container__
+  331. nytimes.com###google_ads_iframe_/29390238/nyt/opinion/sectionfront_7__container__
+  332. nytimes.com###google_ads_iframe_/29390238/nyt/opinion/sectionfront_8__container__
+  333. nytimes.com###google_ads_iframe_/29390238/nyt/opinion/sectionfront_10__container__
+  334. nytimes.com###google_ads_iframe_/29390238/nyt/opinion/sectionfront_11__container__
+  335. nytimes.com###google_ads_iframe_/29390238/nyt/opinion/sectionfront_13__container__
+  336. nytimes.com###google_ads_iframe_/29390238/nyt/opinion/sectionfront_14__container__
+  337. nytimes.com###google_ads_iframe_/29390238/nyt/technology/sectionfront_4__container__
+  338. nytimes.com###google_ads_iframe_/29390238/nyt/technology/sectionfront_6__container__
+  339. nytimes.com###google_ads_iframe_/29390238/nyt/technology/sectionfront_7__container__
+  340. nytimes.com###google_ads_iframe_/29390238/nyt/technology/sectionfront_8__container__
+  341. nytimes.com###google_ads_iframe_/29390238/nyt/technology/sectionfront_9
+  342. nytimes.com###google_ads_iframe_/29390238/nyt/technology/sectionfront_10__container__
+  343. nytimes.com###google_ads_iframe_/29390238/nyt/technology/sectionfront_11__container__
+  344. nytimes.com###google_ads_iframe_/29390238/nyt/technology/sectionfront_12__container__
+  345. nytimes.com###google_ads_iframe_/29390238/nyt/technology/sectionfront_13__container__
+  346. nytimes.com###google_ads_iframe_/29390238/nyt/technology/sectionfront_14__container__
+  347. nytimes.com###google_ads_iframe_/29390238/nyt/technology/sectionfront_9__container__
+  348. nytimes.com###google_ads_iframe_/29390238/nyt/arts/sectionfront_7
+  349. nytimes.com###google_ads_iframe_/29390238/nyt/arts/sectionfront_8__container__
+  350. nytimes.com###google_ads_iframe_/29390238/nyt/arts/sectionfront_9__container__
+  351. nytimes.com###google_ads_iframe_/29390238/nyt/arts/sectionfront_10
+  352. nytimes.com###google_ads_iframe_/29390238/nyt/arts/sectionfront_11__container__
+  353. nytimes.com###google_ads_iframe_/29390238/nyt/arts/sectionfront_12__container__
+  354. nytimes.com###google_ads_iframe_/29390238/nyt/arts/sectionfront_13
+  355. nytimes.com###google_ads_iframe_/29390238/nyt/arts/sectionfront_14__container__
+  356. nytimes.com###google_ads_iframe_/29390238/nyt/arts/sectionfront_15__container__
+  357. nytimes.com###google_ads_iframe_/29390238/nyt/arts/sectionfront_10__container__
+  358. nytimes.com###google_ads_iframe_/29390238/nyt/arts/sectionfront_4__container__
+  359. nytimes.com###google_ads_iframe_/29390238/nyt/books/sectionfront_4
+  360. nytimes.com###google_ads_iframe_/29390238/nyt/books/sectionfront_6
+  361. nytimes.com###google_ads_iframe_/29390238/nyt/books/sectionfront_7
+  362. nytimes.com###google_ads_iframe_/29390238/nyt/books/sectionfront_8
+  363. nytimes.com###google_ads_iframe_/29390238/nyt/books/sectionfront_9
+  364. nytimes.com###google_ads_iframe_/29390238/nyt/books/sectionfront_10
+  365. nytimes.com###google_ads_iframe_/29390238/nyt/books/sectionfront_11
+  366. nytimes.com###google_ads_iframe_/29390238/nyt/books/sectionfront_12
+  367. nytimes.com###google_ads_iframe_/29390238/nyt/books/sectionfront_13
+  368. nytimes.com###google_ads_iframe_/29390238/nyt/books/sectionfront_14
+  369. nytimes.com###google_ads_iframe_/29390238/nyt/fashion/sectionfront_4
+  370. nytimes.com###google_ads_iframe_/29390238/nyt/fashion/sectionfront_6__container__
+  371. nytimes.com###google_ads_iframe_/29390238/nyt/fashion/sectionfront_7__container__
+  372. nytimes.com###google_ads_iframe_/29390238/nyt/fashion/sectionfront_8__container__
+  373. nytimes.com###google_ads_iframe_/29390238/nyt/fashion/sectionfront_9__container__
+  374. nytimes.com###google_ads_iframe_/29390238/nyt/fashion/sectionfront_10
+  375. nytimes.com###google_ads_iframe_/29390238/nyt/fashion/sectionfront_11
+  376. nytimes.com###google_ads_iframe_/29390238/nyt/fashion/sectionfront_12__container__
+  377. nytimes.com###google_ads_iframe_/29390238/nyt/fashion/sectionfront_13
+  378. nytimes.com###google_ads_iframe_/29390238/nyt/fashion/sectionfront_14__container__
+  379. nytimes.com###google_ads_iframe_/29390238/nyt/dining/sectionfront_4__container__
+  380. nytimes.com###google_ads_iframe_/29390238/nyt/dining/sectionfront_6__container__
+  381. nytimes.com###google_ads_iframe_/29390238/nyt/dining/sectionfront_7
+  382. nytimes.com###google_ads_iframe_/29390238/nyt/dining/sectionfront_8__container__
+  383. nytimes.com###google_ads_iframe_/29390238/nyt/dining/sectionfront_9__container__
+  384. nytimes.com###google_ads_iframe_/29390238/nyt/dining/sectionfront_10__container__
+  385. nytimes.com###google_ads_iframe_/29390238/nyt/dining/sectionfront_11__container__
+  386. nytimes.com###google_ads_iframe_/29390238/nyt/dining/sectionfront_13__container__
+  387. nytimes.com###google_ads_iframe_/29390238/nyt/dining/sectionfront_14__container__
+  388. nytimes.com###google_ads_iframe_/29390238/nyt/dining/sectionfront_12__container__
+  389. nytimes.com###google_ads_iframe_/29390238/nyt/travel/sectionfront_5__container__
+  390. nytimes.com###google_ads_iframe_/29390238/nyt/travel/sectionfront_6__container__
+  391. nytimes.com###google_ads_iframe_/29390238/nyt/travel/sectionfront_7__container__
+  392. nytimes.com###google_ads_iframe_/29390238/nyt/travel/sectionfront_8__container__
+  393. nytimes.com###google_ads_iframe_/29390238/nyt/travel/sectionfront_9__container__
+  394. nytimes.com###google_ads_iframe_/29390238/nyt/travel/sectionfront_10
+  395. nytimes.com###google_ads_iframe_/29390238/nyt/travel/sectionfront_11__container__
+  396. nytimes.com###google_ads_iframe_/29390238/nyt/travel/sectionfront_12__container__
+  397. nytimes.com###google_ads_iframe_/29390238/nyt/travel/sectionfront_13
+  398. nytimes.com###google_ads_iframe_/29390238/nyt/travel/sectionfront_14
+  399. nytimes.com###google_ads_iframe_/29390238/nyt/travel/sectionfront_15__container__
+  400. nytimes.com###google_ads_iframe_/29390238/nyt/travel/sectionfront_10__container__
+  401. nytimes.com###google_ads_iframe_/29390238/nyt/travel/sectionfront_13__container__
+  402. nytimes.com###google_ads_iframe_/29390238/nyt/magazine/sectionfront_7__container__
+  403. nytimes.com###google_ads_iframe_/29390238/nyt/magazine/sectionfront_8__container__
+  404. nytimes.com###google_ads_iframe_/29390238/nyt/magazine/sectionfront_9__container__
+  405. nytimes.com###google_ads_iframe_/29390238/nyt/magazine/sectionfront_10__container__
+  406. nytimes.com###google_ads_iframe_/29390238/nyt/magazine/sectionfront_11__container__
+  407. nytimes.com###google_ads_iframe_/29390238/nyt/magazine/sectionfront_12__container__
+  408. nytimes.com###google_ads_iframe_/29390238/nyt/magazine/sectionfront_13__container__
+  409. nytimes.com###google_ads_iframe_/29390238/nyt/magazine/sectionfront_3
+  410. nytimes.com###google_ads_iframe_/29390238/nyt/tmagazine/sectionfront_4
+  411. nytimes.com###google_ads_iframe_/29390238/nyt/tmagazine/sectionfront_6
+  412. nytimes.com###google_ads_iframe_/29390238/nyt/tmagazine/sectionfront_7
+  413. nytimes.com###google_ads_iframe_/29390238/nyt/tmagazine/sectionfront_8
+  414. nytimes.com###google_ads_iframe_/29390238/nyt/tmagazine/sectionfront_9
+  415. nytimes.com###google_ads_iframe_/29390238/nyt/tmagazine/sectionfront_10
+  416. nytimes.com###google_ads_iframe_/29390238/nyt/tmagazine/sectionfront_11
+  417. nytimes.com###google_ads_iframe_/29390238/nyt/tmagazine/sectionfront_12
+  418. nytimes.com###google_ads_iframe_/29390238/nyt/tmagazine/sectionfront_13
+  419. nytimes.com###google_ads_iframe_/29390238/nyt/tmagazine/sectionfront_14
+  420. nytimes.com###google_ads_iframe_/29390238/nyt/realestate/sectionfront_12__container__
+  421. nytimes.com###google_ads_iframe_/29390238/nyt/realestate/sectionfront_13__container__
+  422. nytimes.com###google_ads_iframe_/29390238/nyt/realestate/sectionfront_14__container__
+  423. nytimes.com###google_ads_iframe_/29390238/nyt/realestate/sectionfront_15
+  424. nytimes.com###google_ads_iframe_/29390238/nyt/realestate/sectionfront_16__container__
+  425. nytimes.com###google_ads_iframe_/29390238/nyt/realestate/sectionfront_17__container__
+  426. nytimes.com###google_ads_iframe_/29390238/nyt/realestate/sectionfront_18
+  427. nytimes.com###google_ads_iframe_/29390238/nyt/realestate/sectionfront_19__container__
   428. nytimes.com###mid4-wrapper
   429. nytimes.com##.css-1ge58mc.en616590
   430. nytimes.com###bottom
   431. nytimes.com##.ad.bottom-wrapper.css-rfqw0c
   432. nytimes.com##.css-1ej6u1y
-  433. nytimes.com###google_ads_iframe_\/29390238\/nyt\/upshot\/sectionfront_4__container__
-  434. nytimes.com###google_ads_iframe_\/29390238\/nyt\/readercenter\/sectionfront_5
-  435. nytimes.com###google_ads_iframe_\/29390238\/nyt\/parenting\/sectionfront_4__container__
+  433. nytimes.com###google_ads_iframe_/29390238/nyt/upshot/sectionfront_4__container__
+  434. nytimes.com###google_ads_iframe_/29390238/nyt/readercenter/sectionfront_5
+  435. nytimes.com###google_ads_iframe_/29390238/nyt/parenting/sectionfront_4__container__
   436. nytimes.com###bottom-wrapper
   437. nytimes.com##.css-zz666k
   438. nytimes.com##.pz-section.pz-section-filled.pz-ad-box
-  439. nytimes.com###google_ads_iframe_\/29390238\/nyt\/learning\/sectionfront_5
-  440. nytimes.com###google_ads_iframe_\/29390238\/nyt\/podcasts\/podcasts\/spotlight_7
-  441. nytimes.com###google_ads_iframe_\/29390238\/nyt\/podcasts\/podcasts\/spotlight_8__container__
-  442. nytimes.com###google_ads_iframe_\/29390238\/nyt\/todayspaper\/todaysnewyorktimes\/column_6
+  439. nytimes.com###google_ads_iframe_/29390238/nyt/learning/sectionfront_5
+  440. nytimes.com###google_ads_iframe_/29390238/nyt/podcasts/podcasts/spotlight_7
+  441. nytimes.com###google_ads_iframe_/29390238/nyt/podcasts/podcasts/spotlight_8__container__
+  442. nytimes.com###google_ads_iframe_/29390238/nyt/todayspaper/todaysnewyorktimes/column_6
   443. nytimes.com###mid5-wrapper
   444. nytimes.com##.css-1ymuof4.en616590
   445. nytimes.com###mid3-wrapper
   446. nytimes.com##.css-gdusa9.en616590
-  447. nytimes.com###google_ads_iframe_\/29390238\/nyt\/corrections\/sectionfront_4__container__
+  447. nytimes.com###google_ads_iframe_/29390238/nyt/corrections/sectionfront_4__container__
   448. nytimes.com##.css-1n6734t.e1xxpj0j1
   449. nytimes.com##.css-1odt4j.e1xxpj0j1
   450. yahoo.com###sb_rel_my-adsMAST-iframe
-  451. yahoo.com##.D\(f\).Fld\(c\).Fxg\(1\).Flxb\(100\%\)
-  452. yahoo.com##.Pos\(r\).show-then-hide-ad-confirmation_D\(n\).D\(f\).stream-grid-view_Fld\(c\).hide-ad_D\(n\)
-  453. yahoo.com##.stream-item.wafer-beacon.Mih\(119px\)
+  451. yahoo.com##.D(f).Fld(c).Fxg(1).Flxb(100%)
+  452. yahoo.com##.Pos(r).show-then-hide-ad-confirmation_D(n).D(f).stream-grid-view_Fld(c).hide-ad_D(n)
+  453. yahoo.com##.stream-item.wafer-beacon.Mih(119px)
   454. yahoo.com###sb_rel_my-adsLREC4-iframe
   455. yahoo.com###my-adsMAST
   456. yahoo.com##.Pos-r.Themable.Ta-c.Pt-10.Pb-10.Stage.Whs-nw.rspblbrd
-  457. fandom.com###google_ads_iframe_\/5441\/wka1b\.LB\/top_leaderboard\/desktop\/ns-home\/_fandom-all_0__container__
+  457. fandom.com###google_ads_iframe_/5441/wka1b.LB/top_leaderboard/desktop/ns-home/fandom-all_0__container_
   458. fandom.com##.iframe-container
   459. fandom.com###top_leaderboard
   460. fandom.com##.gpt-ad.expanded-slot.bfaa-template.slot-responsive.theme-hivi
@@ -501,10 +501,10 @@ Steps to implement library in Google Chrome:
   487. cnn.com##.zn.zn-business-zone-6.zn-single-column.zn--idx-5.zn--ordinary.t-light.zn-has-multiple-containers.zn-has-3-containers
   488. cnn.com##.cn.cn-list-hierarchical-xs.cn--idx-1.cn-container_0A3810A8-30F3-0B7B-DDA5-A4A10C3E080E
   489. cnn.com##.cn.cn-list-hierarchical-xs.cn--idx-2.cn-container_20FBBA01-CCDB-DCAD-6BC6-1428BA6AF5F4
-  490. money.cnn.com###google_ads_iframe_\/8663477\/CNNBusiness\/markets_0
+  490. money.cnn.com###google_ads_iframe_/8663477/CNNBusiness/markets_0
   491. money.cnn.com##.module.markets-overview-ads
-  492. money.cnn.com###google_ads_iframe_\/8663477\/CNNBusiness\/markets\/landing_3__container__
-  493. money.cnn.com###google_ads_iframe_\/8663477\/CNNBusiness\/markets\/landing_2__container__
+  492. money.cnn.com###google_ads_iframe_/8663477/CNNBusiness/markets/landing_3__container__
+  493. money.cnn.com###google_ads_iframe_/8663477/CNNBusiness/markets/landing_2__container__
   494. money.cnn.com###bd1
   495. money.cnn.com##.row.three-equal-columns.module-small-header
   496. money.cnn.com##.paid-partner-section-delimiter
@@ -541,7 +541,7 @@ Steps to implement library in Google Chrome:
   527. cnn.com##div[style="transition: padding-top 0.6s cubic-bezier(0.52, 0.005, 0, 1.005) 0s; padding-top: 300px;"]
   528. cnn.com###ad_rect_atf_01
   529. cnn.com##.Ad__tag.Ad__hasLabel.adfuel-rendered
-  530. cnn.com###google_ads_iframe_\/21848839049\/CNNTravel\/home3dh_0
+  530. cnn.com###google_ads_iframe_/21848839049/CNNTravel/home3dh_0
   531. cnn.com###football-zone-6
   532. cnn.com##.zn.zn-football-zone-6.zn-balanced.zn--idx-4.zn--ordinary.t-light.zn-has-multiple-containers.zn-has-3-containers
   533. cnn.com##.ob-widget.ob-strip-layout.AR_18
@@ -561,27 +561,27 @@ Steps to implement library in Google Chrome:
   547. target.com##.l-container-fixed.h-border-t.h-padding-a-default
   548. weather.com##.ContentMedia--secondaryContainer--3kFQZ.ContentMedia--flexwrap--1ZmD4.ContentMedia--mediaInline--2c2lM.ContentMedia--mediaStacked--Lf1F-
   549. accuweather.com##.glacier-ad.top.content-module
-  550. accuweather.com###google_ads_iframe_\/6581\/web\/us\/top_right\/news_info\/country_home_0
+  550. accuweather.com###google_ads_iframe_/6581/web/us/top_right/news_info/country_home_0
   551. accuweather.com##.glacier-ad.bottom.content-module
-  552. accuweather.com###google_ads_iframe_\/6581\/web\/us\/top_right\/weather\/extended_0__container__
+  552. accuweather.com###google_ads_iframe_/6581/web/us/top_right/weather/extended_0__container__
   553. accuweather.com##.accuweather_d_weather_native_pbjs_textcontent
   554. accuweather.com##.accuweather_d_weather_native_pbjs_container
-  555. accuweather.com###google_ads_iframe_\/6581\/web\/us\/top_right\/weather\/radar_0
-  556. accuweather.com###google_ads_iframe_\/6581\/web\/us\/bottom_right\/weather\/radar_0
-  557. accuweather.com###google_ads_iframe_\/6581\/web\/us\/bottom_right\/weather\/radar_0__container__
-  558. accuweather.com###google_ads_iframe_\/6581\/web\/us\/top_right\/weather\/minutecast_0__container__
-  559. accuweather.com###google_ads_iframe_\/6581\/web\/us\/top_right\/weather\/month_0__container__
-  560. accuweather.com###google_ads_iframe_\/6581\/web\/us\/top_right\/weather\/air_quality_0
-  561. accuweather.com###google_ads_iframe_\/6581\/web\/us\/top_right\/news_info\/severe_0
-  562. accuweather.com###google_ads_iframe_\/6581\/web\/us\/top_right\/news_info\/accuwx_ready_0
-  563. accuweather.com###google_ads_iframe_\/6581\/web\/us\/bottom_right\/news_info\/accuwx_ready_0
-  564. accuweather.com###google_ads_iframe_\/6581\/web\/us\/top_right\/news_info\/winter_0__container__
-  565. zillow.com###google_ads_iframe_\/7449\/zillow\/search_results_1\/buy_general\/search_1_0__container__
+  555. accuweather.com###google_ads_iframe_/6581/web/us/top_right/weather/radar_0
+  556. accuweather.com###google_ads_iframe_/6581/web/us/bottom_right/weather/radar_0
+  557. accuweather.com###google_ads_iframe_/6581/web/us/bottom_right/weather/radar_0__container__
+  558. accuweather.com###google_ads_iframe_/6581/web/us/top_right/weather/minutecast_0__container__
+  559. accuweather.com###google_ads_iframe_/6581/web/us/top_right/weather/month_0__container__
+  560. accuweather.com###google_ads_iframe_/6581/web/us/top_right/weather/air_quality_0
+  561. accuweather.com###google_ads_iframe_/6581/web/us/top_right/news_info/severe_0
+  562. accuweather.com###google_ads_iframe_/6581/web/us/top_right/news_info/accuwx_ready_0
+  563. accuweather.com###google_ads_iframe_/6581/web/us/bottom_right/news_info/accuwx_ready_0
+  564. accuweather.com###google_ads_iframe_/6581/web/us/top_right/news_info/winter_0__container__
+  565. zillow.com###google_ads_iframe_/7449/zillow/search_results_1/buy_general/search_1_0__container__
   566. zillow.com##.nav-ad-gpt-container
   567. zillow.com###nav-ad-container
   568. zillow.com###search-page-display-ad
   569. zillow.com##.generic-display-ad-container
-  570. bestbuy.com###google_ads_iframe_\/6011\/BestBuyDesktopWeb\/best_buy_0
+  570. bestbuy.com###google_ads_iframe_/6011/BestBuyDesktopWeb/best_buy_0
   571. bestbuy.com###gpt-shop-display-ad-21033649
   572. bestbuy.com##.inner-container
   573. bestbuy.com##.app-container.outer-container.text-bottom
@@ -689,7 +689,7 @@ Steps to implement library in Google Chrome:
   675. dropbox.com##.dwg-footer-plank__social.dwg-box
   676. cnn.com##.Flex-sc-1sqrs56-0.sc-hSdWYo.kqOMew
   677. pagecloud.com##.trial
-  678. pagecloud.com##.object.struct.m\:Pos\(a\).Pos\(a\).D\(f\).Jc\(sb\).Fxd\(r\).Ai\(c\)
+  678. pagecloud.com##.object.struct.m:Pos(a).Pos(a).D(f).Jc(sb).Fxd(r).Ai(c)
   679. cloudflare.com##.mb3.mb3-ns.mb3-m.mb0-l.lh-1.mt0.mt3-ns
   680. forbes.com##.tp-container-inner
   681. forbes.com##.inline__piano.homepage-inline1.home-page--inline
@@ -726,9 +726,9 @@ Steps to implement library in Google Chrome:
   712. wsj.com##.WSJTheme--adWrapper--39BAjA82
   713. wsj.com##div[style="height: 1000px;"]
   714. wsj.com##.style--icon--3tPS3jUI
-  715. thenai.org##.flex.flex-col.items-center.space-y-4.xl\:space-y-6
+  715. thenai.org##.flex.flex-col.items-center.space-y-4.xl:space-y-6
   716. android.com##.social-network__link
-  717. booking.com##.bui-card.bui-u-bleed\@small.bui-spacer--large.ge-branded_container--index.js-ds-layout-events-genius-banner
+  717. booking.com##.bui-card.bui-u-bleed@small.bui-spacer--large.ge-branded_container--index.js-ds-layout-events-genius-banner
   718. booking.com##.emk_footer_update.emk_footer_centered.emk_footer_update_space
   719. time.com##.newsletter-outer
   720. time.com##.component.newsletter-signup-promo
@@ -761,7 +761,7 @@ Steps to implement library in Google Chrome:
   747. theguardian.com##.us-morning-briefing-post-election-2020
   748. theguardian.com##.footer__email-container.js-footer__email-container
   749. pexels.com##.footer__link.rd__button.rd__button--text-white
-  750. playstation.com##.box.p-ls\@mobile--xs.p-ls\@tablet--xs.p-ls\@desktop--2xl.mt-ls\@desktop--neg-xl.mb-ls\@desktop--neg-xl
+  750. playstation.com##.box.p-ls@mobile--xs.p-ls@tablet--xs.p-ls@desktop--2xl.mt-ls@desktop--neg-xl.mb-ls@desktop--neg-xl
   751. playstation.com##span[style="color: rgb(31,31,31);"]
   752. target.com##.styles__MediaContainer-sc-vbvkc1-1.gFKpSd.h-display-flex.h-flex-justify-space-between
   753. target.com##.styles__Container-sc-spydln-0.gTljeb
@@ -784,7 +784,7 @@ Steps to implement library in Google Chrome:
   770. merriam-webster.com##.footer-subscribe-button
   771. merriam-webster.com##.footer-subscribe-field
   772. merriam-webster.com##.footer-subscribe-msg
-  773. howstuffworks.com##.flex-1.mb-8.md\:mb-4
+  773. howstuffworks.com##.flex-1.mb-8.md:mb-4
   774. waitbutwhy.com###uid_9198d0b48e_mtq6mzu6ntq
   775. waitbutwhy.com###emailSidebar
   776. waitbutwhy.com##.container
@@ -806,8 +806,8 @@ Steps to implement library in Google Chrome:
   792. yale.edu##.social_properties
   793. indiegogo.com##.column.is-3-desktop.is-12-tablet.column-order-third
   794. sports.yahoo.com###Col2-18-NewsletterSubscription-Proxy
-  795. sports.yahoo.com##.W\(100\%\).Maw\(300px\).Pb\(15px\).smartphone_Px\(20px\).Pos\(r\).D\(ib\).Va\(t\)
-  796. news.yahoo.com##.Pos\(r\).D\(ib\).P\(0\).Lh\(n\)
+  795. sports.yahoo.com##.W(100%).Maw(300px).Pb(15px).smartphone_Px(20px).Pos(r).D(ib).Va(t)
+  796. news.yahoo.com##.Pos(r).D(ib).P(0).Lh(n)
   797. fortune.com###Homepage-InStream0
   798. fortune.com##.adTag__Homepage-InStream--2AoMT.fortune-ad-tag__homepage-instream
   799. starbucks.com##.flex.sb-footer-iconMarginAdjust
@@ -918,8 +918,8 @@ Steps to implement library in Google Chrome:
   904. paramountmovies.com##.social
   905. edx.org##.medium-column.d-flex.flex-row.justify-content-between.list-unstyled.p-0.mb-4
   906. bigthink.com##.flex.flex-row.flex-nowrap.gap-x-4
-  907. bigthink.com##.py-\[30px\].md\:py-\[50px\].bg-black.dark.bigthink-wide-row
-  908. bigthink.com##.relative.z-10.p-7.md\:p-10.lg\:p-12.md\:w-3\/4
+  907. bigthink.com##.py-[30px].md:py-[50px].bg-black.dark.bigthink-wide-row
+  908. bigthink.com##.relative.z-10.p-7.md:p-10.lg:p-12.md:w-3/4
   909. audiotoolset.com##.list-unstyled.social-icon.mb-0.mt-4
   910. filmora.wondershare.com##.wsc-footer2020-subnav-iconlink.mr-2
   911. filmora.wondershare.com##.wsc-footer2020-subnav-iconlink
@@ -970,10 +970,10 @@ Steps to implement library in Google Chrome:
   956. tutorialspoint.com###google-bottom-ads
   957. tutorialspoint.com##.google-bottom-ads
   958. w3schools.com##.fa.fa-thumbs-o-up.w3-xxlarge.w3-hover-opacity
-  959. stackabuse.com##.px-6.py-6.rounded-lg.md\:py-12.md\:px-8.lg\:py-16.lg\:px-10.xl\:flex.xl\:items-center.xl\:justify-between.grid.grid-cols-1.xl\:grid-cols-2
-  960. stackabuse.com##.max-w-6xl.mx-auto.px-0.py-6.lg\:py-8
+  959. stackabuse.com##.px-6.py-6.rounded-lg.md:py-12.md:px-8.lg:py-16.lg:px-10.xl:flex.xl:items-center.xl:justify-between.grid.grid-cols-1.xl:grid-cols-2
+  960. stackabuse.com##.max-w-6xl.mx-auto.px-0.py-6.lg:py-8
   961. stackabuse.com##.my-4.flex.justify-center
-  962. stackabuse.com##.flex.justify-center.md\:order-2
+  962. stackabuse.com##.flex.justify-center.md:order-2
   963. javatpoint.com##div[style="margin-top:5px;text-align:center"]
   964. educative.io##.mr-1.flex.justify-center.h-12.w-12
   965. codecademy.com##.e14vpv2g1.gamut-vpiljb-ResetElement-Anchor-AnchorBase.e1bhhzie0
@@ -1025,7 +1025,7 @@ Steps to implement library in Google Chrome:
   1011. kdnuggets.com##.widget.widget_mc4wp_form_widget.FixedWidget__fixed_widget
   1012. kdnuggets.com###custom_html-3
   1013. kdnuggets.com##.widget_text.widget.widget_custom_html.FixedWidget__fixed_widget
-  1014. codereview.stackexchange.com##.\-list.\-social.md\:mb8
+  1014. codereview.stackexchange.com##.-list.-social.md:mb8
   1015. programiz.com##.ad1
   1016. programiz.com##.ad2
   1017. programiz.com##.social-icons
@@ -1062,11 +1062,11 @@ Steps to implement library in Google Chrome:
   1048. basellers.com##.footer-bar__box.footer-box__3
   1049. learnitixs.com###sidepop
   1050. learnitixs.com##.ltrpopclass.shr5-top-left.shr5-show
-  1051. stackexchange.com##.\-list.\-social.md\:mb8
+  1051. stackexchange.com##.-list.-social.md:mb8
   1052. onestopdataanalysis.com##.sidele.ghost
   1053. regenerativetoday.com###email-subscribers-form-2
   1054. regenerativetoday.com##.sidebar-box.widget_email-subscribers-form.clr
-  1055. stackexchange.com##.sm\:d-none.py24.bg-black-750.fc-black-200.ps-relative.js-dismissable-hero
+  1055. stackexchange.com##.sm:d-none.py24.bg-black-750.fc-black-200.ps-relative.js-dismissable-hero
   1056. stackexchange.com##.bt.bl.bb.bc-black-075.p12.pb6.fc-black-600.blr-sm.overflow-hidden
   1057. python.land###custom_html-8
   1058. python.land##.widget_text.widget.inner-padding.widget_custom_html.FixedWidget__fixed_widget
@@ -1121,7 +1121,7 @@ Steps to implement library in Google Chrome:
   1107. blog.hubspot.com##.post-content__social-share-container
   1108. blog.hubspot.com##.hsg-footer__social
   1109. blog.hubspot.com##.hsg-footer__contact-links
-  1110. stackabuse.com##.bg-gray-100.px-4.py-1.rounded-lg.shadow-lg.border.border-gray-400.md\:py-2.md\:px-6.lg\:py-3.lg\:px-8.flex.items-center.flex-col.xl\:flex-row
+  1110. stackabuse.com##.bg-gray-100.px-4.py-1.rounded-lg.shadow-lg.border.border-gray-400.md:py-2.md:px-6.lg:py-3.lg:px-8.flex.items-center.flex-col.xl:flex-row
   1111. stackabuse.com##.m-1
   1112. dailymotion.com##.FooterSubheader__socialNetworks___61FEe
   1113. about.facebook.com##._9bhp._9bhq._9bg-._a6to
@@ -1142,7 +1142,7 @@ Steps to implement library in Google Chrome:
   1128. nwea.org##.icon
   1129. nwea.org###newsletter
   1130. nwea.org##.spacer
-  1131. openai.com##.col-12.col-md-4.col-lg-4.col-xl-3.mb-0\.5
+  1131. openai.com##.col-12.col-md-4.col-lg-4.col-xl-3.mb-0.5
   1132. teachforamerica.org##.m-footer-form
   1133. wikileaks.org##.social-links
   1134. newyorker.com##.paywall-bar__wrapper.paywall-bar__expanded
@@ -1168,7 +1168,7 @@ Steps to implement library in Google Chrome:
   1154. afp.com##.w50.left.pt3.mt4.mb4.pb3.mt3.mt1m.pt1m.pr1.pl1.mb1m.pb1m.pr0m.pl0m.footer-logos
   1155. icij.org###__BVID__28
   1156. icij.org##.modal.fade.show
-  1157. icij.org###__BVID__28___BV_modal_backdrop_
+  1157. icij.org###_BVID__28___BV_modal_backdrop
   1158. icij.org##.modal-backdrop
   1159. washingtonpost.com##.signup-box-rr.newsletter-unit.border-bottom-airy.border-bottom-100-pct.bottomArticle
   1160. washingtonpost.com##.grey-bg
@@ -1227,7 +1227,7 @@ Steps to implement library in Google Chrome:
   1213. instructables.com##.footer-find-us
   1214. arduino.cc##.newsletter-form
   1215. aliexpress.com##a[style="background-image: url("https://ae01.alicdn.com/kf/Sf65a8c65a71149aeba5d2249a8b38477t.jpg_Q90.jpg_.webp");"]
-  1216. aliexpress.com###__top_banner_img__
+  1216. aliexpress.com###top_banner_img
   1217. aliexpress.com##.top-banner-container
   1218. alitools.io##.modal_bg.modal_bg_close-js
   1219. alitools.io###w13
@@ -1263,9 +1263,9 @@ Steps to implement library in Google Chrome:
   1249. digitalcameraworld.com##.grey-box
   1250. digitalcameraworld.com##.separator-heading
   1251. digitalcameraworld.com##.box.newsletter-signup
-  1252. stackoverflow.com##.site-footer--copyright.fs-fine.md\:mt24
+  1252. stackoverflow.com##.site-footer--copyright.fs-fine.md:mt24
   1253. intellipaat.com###getsitecontrol-31400
-  1254. askubuntu.com##.site-footer--copyright.fs-fine.md\:mt24
+  1254. askubuntu.com##.site-footer--copyright.fs-fine.md:mt24
   1255. patreon.com##.sc-bBHxTw.kkLseu
   1256. oreilly.com##.exitIntentOverlay.visible
   1257. interestingengineering.com###newsletter-modal
@@ -1284,7 +1284,7 @@ Steps to implement library in Google Chrome:
   1270. storylearning.com###iwtyal-survey-modal
   1271. storylearning.com##.iwtyal-survey-modal.iwtyal-survey-theme.iwtyal-survey-modal-12948.iwtyal-survey-panel-0.show-modal-center.iwtyal-survey-theme--new-sl-template-2.show-modal
   1272. skillcrush.com##.sc-popup__overlay
-  1273. skillcrush.com##.sc-popup__content.bg-primary-lightest.w-11\/12.md\:max-w-2xl.py-8.md\:w-4\/6.md\:pt-11.md\:pb-16
+  1273. skillcrush.com##.sc-popup__content.bg-primary-lightest.w-11/12.md:max-w-2xl.py-8.md:w-4/6.md:pt-11.md:pb-16
   1274. skillcrush.com##.footer__menu__social.footer__menu__social--twitter.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-521709
   1275. skillcrush.com##.footer__menu__social.footer__menu__social--facebook.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-521710
   1276. skillcrush.com##.footer__menu__social.footer__menu__social--linkedin.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-521711
@@ -1305,14 +1305,14 @@ Steps to implement library in Google Chrome:
   1291. ||ocw.mit.edu/images/Twitter.png
   1292. ||ocw.mit.edu/images/Youtube.png
   1293. ||ocw.mit.edu/images/LinkedIn.png
-  1294. theodinproject.com##.text-gray-700.text-4xl.hover\:text-gray-900.fab.fa-discord.odin-dark-icon
-  1295. theodinproject.com##.text-gray-700.hover\:text-gray-900.text-4xl.fab.fa-facebook.odin-dark-icon
-  1296. theodinproject.com##.text-gray-700.hover\:text-gray-900.text-4xl.fab.fa-twitter.odin-dark-icon
+  1294. theodinproject.com##.text-gray-700.text-4xl.hover:text-gray-900.fab.fa-discord.odin-dark-icon
+  1295. theodinproject.com##.text-gray-700.hover:text-gray-900.text-4xl.fab.fa-facebook.odin-dark-icon
+  1296. theodinproject.com##.text-gray-700.hover:text-gray-900.text-4xl.fab.fa-twitter.odin-dark-icon
   1297. sololearn.com##.sl-social-links__links-block
   1298. hackr.io###popup-smart-root-37180
   1299. coderbyte.com##.sm-row
   1300. classpert.com##.mR24
-  1301. classpert.com##.el\:m-list.el\:m-list--hrz.vA-m.d-ib
+  1301. classpert.com##.el:m-list.el:m-list--hrz.vA-m.d-ib
   1302. codegym.cc##.footer-soc__link.footer-soc__link--twitter.svelte-1kq6tc7
   1303. codegym.cc##.footer-soc__link.footer-soc__link--facebook.svelte-1kq6tc7
   1304. codegym.cc##.footer-soc__link.footer-soc__link--youtube.svelte-1kq6tc7
@@ -1358,7 +1358,7 @@ Steps to implement library in Google Chrome:
   1344. effusedprankle.com##.iconsWrapper
   1345. effusedprankle.com##.wrapper
   1346. videodownloaderpro.net##.other-links
-  1347. top10.netflix.com##.items-center.flex-shrink.hidden.pl-8.ml-5.space-x-3.text-sm.border-l.border-gray-600.md\:flex
+  1347. top10.netflix.com##.items-center.flex-shrink.hidden.pl-8.ml-5.space-x-3.text-sm.border-l.border-gray-600.md:flex
   1348. lego.com##.SocialCirclestyles__SocialButtons-vpabpf-0.cvkffs
   1349. lego.com##.FooterSocialsstyles__SocialWrapper-sc-191m4yh-0.ezjRui
   1350. legobraillebricks.com##.css-11f06mp
@@ -1512,7 +1512,7 @@ Steps to implement library in Google Chrome:
   1498. datadoghq.com##.col-6.col-lg-2.mb-1.mb-lg-0.d-flex.justify-content-lg-end
   1499. servicenow.com##.col-12.col-md-4
   1500. docusign.com##.css-4x5pqn
-  1501. pagerduty.com##.flex-grow.text-black.hover\:text-black.items-center.cursor-pointer.block
+  1501. pagerduty.com##.flex-grow.text-black.hover:text-black.items-center.cursor-pointer.block
   1502. workday.com##.cmp-socialmedia
   1503. adp.com##.sm-icn.sm-icn-facebook
   1504. adp.com##.sm-icn.sm-icn-twitter
@@ -1636,7 +1636,7 @@ Steps to implement library in Google Chrome:
   1622. anchoreditions.com##.sqs-block.button-block.sqs-block-button
   1623. columbusmonthly.com###gnt_atomsnc
   1624. columbusmonthly.com##.gnt_em.gnt_em_anc
-  1625. servicesdown.com##.hidden.md\:inline-block
+  1625. servicesdown.com##.hidden.md:inline-block
   1626. imagetostl.com##.pin-b.pin-c
   1627. adlock.com##.adl__spec__disc__wrap
   1628. adlock.com##.adl__spec__disc__bgwrap
@@ -1748,8 +1748,8 @@ Steps to implement library in Google Chrome:
   1734. open.spotify.com##.GenericModal__overlay.GenericModal__overlay--animated.GenericModal__overlay--afterOpen
   1735. open.spotify.com##.SocialLinks__SocialContainer-sc-kqbr2e-0.hyuTOt
   1736. integral-calculator.com##.i-elaberni-and
-  1737. macpaw.com##.footer-title.\-social
-  1738. macpaw.com##.social.\-less-items
+  1737. macpaw.com##.footer-title.-social
+  1738. macpaw.com##.social.-less-items
   1739. cnn.com##.ob-widget-header
   1740. sheepit-renderfarm.com##div[style="position:absolute;padding:5px;width:728px;height:90px;"]
   1741. cars.usnews.com##.AdAutos__AdContainer-sszsm-0.dKmxqc.pb4
@@ -1809,7 +1809,7 @@ Steps to implement library in Google Chrome:
   1795. cnn.com##.Box-sc-1fet97o-0.fAJFBm
   1796. cnn.com##.Flex-sc-1sqrs56-0.sc-brqgnP.imErBt
   1797. cnn.com##.Box-sc-1fet97o-0.sc-fBuWsC.cXJPpc
-  1798. theverge.com##.mx-auto.block.lg\:hidden
+  1798. theverge.com##.mx-auto.block.lg:hidden
   1799. europa.eu###ye-follow-facebook
   1800. europa.eu###ye-follow-twitter
   1801. macrotrends.net###ic_leaderboard
@@ -1836,7 +1836,7 @@ Steps to implement library in Google Chrome:
   1822. poetryintranslation.com##.fa.fa-2x.m-1.text-secondary.fa-reddit
   1823. poetryintranslation.com##.fa.fa-2x.m-1.text-secondary.fa-pinterest
   1824. poetryintranslation.com##.sharer-container-5-icons.clearfix
-  1825. dexerto.com##.flex.flex-col.items-center.w-full.md\:mx-0.lg\:mt-4
+  1825. dexerto.com##.flex.flex-col.items-center.w-full.md:mx-0.lg:mt-4
   1826. lospec.com##.neworbox
   1827. isthereanydeal.com###social
   1828. dbltap.com##.wrapper_cr7hpy
@@ -1862,7 +1862,7 @@ Steps to implement library in Google Chrome:
   1848. ||ci6.googleusercontent.com/proxy/brkQ0oKaunyFbzxiDhKRb0TDwz88aA5KMv0JYYdi0zKjyUDPuo4YEeWgpE34GTaA_aVsluf6WS4iL_xhXQwVQlzRkVI=s0-d-e1-ft#https://www.backblaze.com/pics/instagram-logo.png
   1849. ||ci6.googleusercontent.com/proxy/xDmfoO6jX-tIMijhJn8lG6uCQZhbSvZyxrPfSzFm5WQI7N0-7P0PFNxfdXL3FsuH6UhMG3iCcha9QAK2vGUTIFB1=s0-d-e1-ft#https://www.backblaze.com/pics/icon-twitter.gif
   1850. themuse.com##.mfe-footer__grid__column.mfe-footer__grid__column--social
-  1851. gamingdebates.com##. 64527edf3dc909024faa1dc129f70e6
+  1851. gamingdebates.com##.� 64527edf3dc909024faa1dc129f70e6
   1852. podcastmaniac.com###widget_catchbox_adwidget-3
   1853. podcastmaniac.com##.widget.widget_widget_catchbox_adwidget
   1854. podcastmaniac.com##.social-profile
@@ -1907,9 +1907,9 @@ Steps to implement library in Google Chrome:
   1893. socialblade.com##.sidebar-module
   1894. ||github.githubassets.com/images/modules/site/icons/footer/twitch.svg
   1895. ||github.githubassets.com/images/modules/site/icons/footer/tiktok.svg
-  1896. beta.elevenlabs.io##.text-\[\#FF0000\].hover\:opacity-70
-  1897. beta.elevenlabs.io##.text-\[\#5865F2\].hover\:opacity-70
-  1898. beta.elevenlabs.io##.text-\[\#1DA1F2\].hover\:opacity-70
+  1896. beta.elevenlabs.io##.text-[#FF0000].hover:opacity-70
+  1897. beta.elevenlabs.io##.text-[#5865F2].hover:opacity-70
+  1898. beta.elevenlabs.io##.text-[#1DA1F2].hover:opacity-70
   1899. pythontutorial.net##.donation
   1900. gravityfalls.fandom.com###WikiaBarWrapper
   1901. gravityfalls.fandom.com##.WikiaBarWrapper
@@ -2025,7 +2025,7 @@ Steps to implement library in Google Chrome:
   2011. news.com.au##.footer_branding_instagram
   2012. news.com.au##.footer_branding_youtube
   2013. news.com.au##.footer_branding_tiktok
-  2014. developer.chrome.com##.color-secondary-text.display-flex.gap-top-300.lg\:gap-top-0
+  2014. developer.chrome.com##.color-secondary-text.display-flex.gap-top-300.lg:gap-top-0
   2015. towardsdatascience.com##.bk.gl.gm.gn
   2016. moon.ly##.text-white.p-2.rounded-full.shadow.bg-twitter
   2017. bloomberg.com##.TFzkUry4aOem-CyqyIdTk_11._2k381fOuPu7I60Attdcpuv_11._3Wi1EtZnpBVKuoB9QDZ2PT_11._9nQQM2vd9drjwhp127G0X_11.D_GF6orU3dMSKQtrAv05Q_11._1XLr0QV0l787_m7zHliVkG_11
@@ -2138,7 +2138,7 @@ Steps to implement library in Google Chrome:
   2124. rockpapershotgun.com##.light-registration-promo
   2125. rockpapershotgun.com##.merch_component
   2126. metacritic.com##.sharing-pinterest
-  2127. mm-signin.centurylink.com##.chi-col.\-w-lg--3.\-w-xl--3.\-align--right.\-d--none.\-d-lg--flex.\-justify-content--center
+  2127. mm-signin.centurylink.com##.chi-col.-w-lg--3.-w-xl--3.-align--right.-d--none.-d-lg--flex.-justify-content--center
   2128. kaleidescape.com##.sc-kGXeez.cArceM
   2129. bestbuy.com###sign-in-toast-overlay
   2130. bestbuy.com##.c-overlay.bottom.overlay-styles
@@ -2201,10 +2201,10 @@ Steps to implement library in Google Chrome:
   2187. jimdo.com##.index-module--list--0a9d7
   2188. gutenberg.org###social-media
   2189. gutenberg.org##.icon-list
-  2190. dreamhost.com##.flex.justify-around.space-y-3.text-base.lg\:block
+  2190. dreamhost.com##.flex.justify-around.space-y-3.text-base.lg:block
   2191. brevo.com##.dist_marketing-footer-header-wrapper-list__MtE8X
   2192. wpengine.com##._5qy9kcm
-  2193. semrush.com##.srf-menu-items.\-icons-left
+  2193. semrush.com##.srf-menu-items.-icons-left
   2194. snowflake.com##.snowflake-grid.aem-GridColumn.aem-GridColumn--mobile--12.d-flex.snowflake-footer-socials-grid
   2195. vmware.com##.fa.fa-twitter.text-indigo.pr-4
   2196. vmware.com##.fa.fa-facebook.text-indigo.pr-4
@@ -2218,7 +2218,7 @@ Steps to implement library in Google Chrome:
   2204. databricks.com###onetrust-group-container
   2205. databricks.com##.ot-sdk-twelve.ot-sdk-columns
   2206. databricks.com##.ot-sdk-container
-  2207. databricks.com##.flex.flex-wrap.gap-1\.5
+  2207. databricks.com##.flex.flex-wrap.gap-1.5
   2208. auth0.com##.sc-5aba37fd-7.hBNnUf
   2209. vercel.com##.footer_bird__3RjDI
   2210. okta.com##.TwitterIcon
@@ -2308,694 +2308,696 @@ Steps to implement library in Google Chrome:
   2294. soundcloud.com##.banner.sc-type-medium.sc-text-body.sc-p-2x.m-alert.l-inner-fullwidth
   2295. quizlet.com##.SetPageTerms-embeddedDesktopAdz
   2296. quizlet.com##.SetPageTerms-embeddedDesktopAdWrapper
-  2297. engadget.com##.rwd-outer-container.W\(100vw\).D\(f\).Jc\(sa\).Bgc\(engadgetGray\).Bgc\(engadgetSteelGray\)--md
-  2298. baeldung.com###google_ads_iframe_/15184186,7114245/baeldung_right_rail_3_0
-  2299. baeldung.com###google_ads_iframe_/15184186,7114245/baeldung_leaderboard_mid_3_0
-  2300. mashable.com##.flex.flex-row.text-white.flex-wrap.my-8.md:mb-8.md:mt-5.md:space-x-8
-  2301. nytimes.com###google_ads_iframe_/29390238/nyt/homepage_0__container__
-  2302. wired.com###google_ads_iframe_3379/conde.wired/mid-content/science/article/1_0
-  2303. wired.com###google_ads_iframe_3379/conde.wired/rail/science/article/2_0__container__
-  2304. wired.com###google_ads_iframe_3379/conde.wired/hero/science/article/1_0__container__
-  2305. wired.com###google_ads_iframe_3379/conde.wired/rail/science/article/1_0__container__
-  2306. wired.com###google_ads_iframe_3379/conde.wired/rail/science/article/3_0__container__
-  2307. wired.com###google_ads_iframe_3379/conde.wired/rail/science/article/4_0__container__
-  2308. wired.com###google_ads_iframe_3379/conde.wired/rail/science/article/5_0
-  2309. vox.com###google_ads_iframe_/172968584/vox/vox.com/front_page_15
-  2310. vox.com###google_ads_iframe_/172968584/vox/vox.com/front_page_3
-  2311. nytimes.com###google_ads_iframe_/29390238/nyt/science/sectionfront_2
-  2312. nytimes.com###google_ads_iframe_/29390238/nyt/science/sectionfront_4__container__
-  2313. nytimes.com###google_ads_iframe_/29390238/nyt/science/sectionfront_15
-  2314. nytimes.com###google_ads_iframe_/29390238/nyt/science/sectionfront_13
-  2315. nytimes.com###google_ads_iframe_/29390238/nyt/science/sectionfront_12
-  2316. nytimes.com###google_ads_iframe_/29390238/nyt/science/sectionfront_9__container__
-  2317. nytimes.com###google_ads_iframe_/29390238/nyt/science/sectionfront_8
-  2318. nytimes.com###google_ads_iframe_/29390238/nyt/business/sectionfront_4__container__
-  2319. nytimes.com###google_ads_iframe_/29390238/nyt/business/sectionfront_5__container__
-  2320. nytimes.com###google_ads_iframe_/29390238/nyt/business/sectionfront_6__container__
-  2321. nytimes.com###google_ads_iframe_/29390238/nyt/business/sectionfront_7
-  2322. nytimes.com###google_ads_iframe_/29390238/nyt/business/sectionfront_8
-  2323. nytimes.com###google_ads_iframe_/29390238/nyt/business/sectionfront_9
-  2324. nytimes.com###google_ads_iframe_/29390238/nyt/world/sectionfront_4__container__
-  2325. nytimes.com###google_ads_iframe_/29390238/nyt/world/sectionfront_5__container__
-  2326. nytimes.com###google_ads_iframe_/29390238/nyt/world/sectionfront_7__container__
-  2327. nytimes.com###google_ads_iframe_/29390238/nyt/world/sectionfront_6__container__
-  2328. nytimes.com###google_ads_iframe_/29390238/nyt/world/sectionfront_8__container__
-  2329. nytimes.com###google_ads_iframe_/29390238/nyt/world/sectionfront_10__container__
-  2330. nytimes.com###google_ads_iframe_/29390238/nyt/world/sectionfront_11__container__
-  2331. nytimes.com###google_ads_iframe_/29390238/nyt/world/sectionfront_12__container__
-  2332. nytimes.com###google_ads_iframe_/29390238/nyt/world/sectionfront_13__container__
-  2333. nytimes.com###google_ads_iframe_/29390238/nyt/world/sectionfront_14
-  2334. nytimes.com###google_ads_iframe_/29390238/nyt/world/sectionfront_15__container__
-  2335. nytimes.com###google_ads_iframe_/29390238/nyt/world/sectionfront_
-  2336. nytimes.com###google_ads_iframe_/29390238/nyt/world/sectionfront_9
-  2337. nytimes.com###google_ads_iframe_/29390238/nyt/us/sectionfront_4__container__
-  2338. nytimes.com###google_ads_iframe_/29390238/nyt/us/sectionfront_6__container__
-  2339. nytimes.com###google_ads_iframe_/29390238/nyt/us/sectionfront_7__container__
-  2340. nytimes.com###google_ads_iframe_/29390238/nyt/us/sectionfront_8
-  2341. nytimes.com###google_ads_iframe_/29390238/nyt/us/sectionfront_9__container__
-  2342. nytimes.com###google_ads_iframe_/29390238/nyt/us/sectionfront_10__container__
-  2343. nytimes.com###google_ads_iframe_/29390238/nyt/us/sectionfront_11__container__
-  2344. nytimes.com###google_ads_iframe_/29390238/nyt/us/sectionfront_12__container__
-  2345. nytimes.com###google_ads_iframe_/29390238/nyt/us/sectionfront_14__container__
-  2346. nytimes.com###google_ads_iframe_/29390238/nyt/us/sectionfront_13__container__
-  2347. nytimes.com###google_ads_iframe_/29390238/nyt/us/politics/sectionfront_3__container__
-  2348. nytimes.com###google_ads_iframe_/29390238/nyt/us/politics/sectionfront_7__container__
-  2349. nytimes.com###google_ads_iframe_/29390238/nyt/us/politics/sectionfront_8__container__
-  2350. nytimes.com###google_ads_iframe_/29390238/nyt/us/politics/sectionfront_10__container__
-  2351. nytimes.com###google_ads_iframe_/29390238/nyt/us/politics/sectionfront_11__container__
-  2352. nytimes.com###google_ads_iframe_/29390238/nyt/us/politics/sectionfront_12__container__
-  2353. nytimes.com###google_ads_iframe_/29390238/nyt/us/politics/sectionfront_13__container__
-  2354. nytimes.com###google_ads_iframe_/29390238/nyt/us/politics/sectionfront_14__container__
-  2355. nytimes.com###google_ads_iframe_/29390238/nyt/sports/sectionfront_8__container__
-  2356. nytimes.com###google_ads_iframe_/29390238/nyt/sports/sectionfront_13
-  2357. nytimes.com###google_ads_iframe_/29390238/nyt/sports/sectionfront_7__container__
-  2358. nytimes.com###google_ads_iframe_/29390238/nyt/health/sectionfront_4
-  2359. nytimes.com###google_ads_iframe_/29390238/nyt/health/sectionfront_6
-  2360. nytimes.com###google_ads_iframe_/29390238/nyt/health/sectionfront_7
-  2361. nytimes.com###google_ads_iframe_/29390238/nyt/health/sectionfront_8
-  2362. nytimes.com###google_ads_iframe_/29390238/nyt/health/sectionfront_9
-  2363. nytimes.com###google_ads_iframe_/29390238/nyt/health/sectionfront_10
-  2364. nytimes.com###google_ads_iframe_/29390238/nyt/health/sectionfront_11
-  2365. nytimes.com###google_ads_iframe_/29390238/nyt/health/sectionfront_12
-  2366. nytimes.com###google_ads_iframe_/29390238/nyt/health/sectionfront_13
-  2367. nytimes.com###google_ads_iframe_/29390238/nyt/health/sectionfront_14
-  2368. nytimes.com###google_ads_iframe_/29390238/nyt/health/sectionfront_15
-  2369. nytimes.com###google_ads_iframe_/29390238/nyt/nyregion/sectionfront_6__container__
-  2370. nytimes.com###google_ads_iframe_/29390238/nyt/nyregion/sectionfront_7__container__
-  2371. nytimes.com###google_ads_iframe_/29390238/nyt/nyregion/sectionfront_8__container__
-  2372. nytimes.com###google_ads_iframe_/29390238/nyt/nyregion/sectionfront_10__container__
-  2373. nytimes.com###google_ads_iframe_/29390238/nyt/nyregion/sectionfront_11__container__
-  2374. nytimes.com###google_ads_iframe_/29390238/nyt/nyregion/sectionfront_12__container__
-  2375. nytimes.com###google_ads_iframe_/29390238/nyt/nyregion/sectionfront_13
-  2376. nytimes.com###google_ads_iframe_/29390238/nyt/nyregion/sectionfront_14__container__
-  2377. nytimes.com###google_ads_iframe_/29390238/nyt/nyregion/sectionfront_9__container__
-  2378. nytimes.com###google_ads_iframe_/29390238/nyt/opinion/sectionfront_7__container__
-  2379. nytimes.com###google_ads_iframe_/29390238/nyt/opinion/sectionfront_8__container__
-  2380. nytimes.com###google_ads_iframe_/29390238/nyt/opinion/sectionfront_10__container__
-  2381. nytimes.com###google_ads_iframe_/29390238/nyt/opinion/sectionfront_11__container__
-  2382. nytimes.com###google_ads_iframe_/29390238/nyt/opinion/sectionfront_13__container__
-  2383. nytimes.com###google_ads_iframe_/29390238/nyt/opinion/sectionfront_14__container__
-  2384. nytimes.com###google_ads_iframe_/29390238/nyt/technology/sectionfront_4__container__
-  2385. nytimes.com###google_ads_iframe_/29390238/nyt/technology/sectionfront_6__container__
-  2386. nytimes.com###google_ads_iframe_/29390238/nyt/technology/sectionfront_7__container__
-  2387. nytimes.com###google_ads_iframe_/29390238/nyt/technology/sectionfront_8__container__
-  2388. nytimes.com###google_ads_iframe_/29390238/nyt/technology/sectionfront_9
-  2389. nytimes.com###google_ads_iframe_/29390238/nyt/technology/sectionfront_10__container__
-  2390. nytimes.com###google_ads_iframe_/29390238/nyt/technology/sectionfront_11__container__
-  2391. nytimes.com###google_ads_iframe_/29390238/nyt/technology/sectionfront_12__container__
-  2392. nytimes.com###google_ads_iframe_/29390238/nyt/technology/sectionfront_13__container__
-  2393. nytimes.com###google_ads_iframe_/29390238/nyt/technology/sectionfront_14__container__
-  2394. nytimes.com###google_ads_iframe_/29390238/nyt/technology/sectionfront_9__container__
-  2395. nytimes.com###google_ads_iframe_/29390238/nyt/arts/sectionfront_7
-  2396. nytimes.com###google_ads_iframe_/29390238/nyt/arts/sectionfront_8__container__
-  2397. nytimes.com###google_ads_iframe_/29390238/nyt/arts/sectionfront_9__container__
-  2398. nytimes.com###google_ads_iframe_/29390238/nyt/arts/sectionfront_10
-  2399. nytimes.com###google_ads_iframe_/29390238/nyt/arts/sectionfront_11__container__
-  2400. nytimes.com###google_ads_iframe_/29390238/nyt/arts/sectionfront_12__container__
-  2401. nytimes.com###google_ads_iframe_/29390238/nyt/arts/sectionfront_13
-  2402. nytimes.com###google_ads_iframe_/29390238/nyt/arts/sectionfront_14__container__
-  2403. nytimes.com###google_ads_iframe_/29390238/nyt/arts/sectionfront_15__container__
-  2404. nytimes.com###google_ads_iframe_/29390238/nyt/arts/sectionfront_10__container__
-  2405. nytimes.com###google_ads_iframe_/29390238/nyt/arts/sectionfront_4__container__
-  2406. nytimes.com###google_ads_iframe_/29390238/nyt/books/sectionfront_4
-  2407. nytimes.com###google_ads_iframe_/29390238/nyt/books/sectionfront_6
-  2408. nytimes.com###google_ads_iframe_/29390238/nyt/books/sectionfront_7
-  2409. nytimes.com###google_ads_iframe_/29390238/nyt/books/sectionfront_8
-  2410. nytimes.com###google_ads_iframe_/29390238/nyt/books/sectionfront_9
-  2411. nytimes.com###google_ads_iframe_/29390238/nyt/books/sectionfront_10
-  2412. nytimes.com###google_ads_iframe_/29390238/nyt/books/sectionfront_11
-  2413. nytimes.com###google_ads_iframe_/29390238/nyt/books/sectionfront_12
-  2414. nytimes.com###google_ads_iframe_/29390238/nyt/books/sectionfront_13
-  2415. nytimes.com###google_ads_iframe_/29390238/nyt/books/sectionfront_14
-  2416. nytimes.com###google_ads_iframe_/29390238/nyt/fashion/sectionfront_4
-  2417. nytimes.com###google_ads_iframe_/29390238/nyt/fashion/sectionfront_6__container__
-  2418. nytimes.com###google_ads_iframe_/29390238/nyt/fashion/sectionfront_7__container__
-  2419. nytimes.com###google_ads_iframe_/29390238/nyt/fashion/sectionfront_8__container__
-  2420. nytimes.com###google_ads_iframe_/29390238/nyt/fashion/sectionfront_9__container__
-  2421. nytimes.com###google_ads_iframe_/29390238/nyt/fashion/sectionfront_10
-  2422. nytimes.com###google_ads_iframe_/29390238/nyt/fashion/sectionfront_11
-  2423. nytimes.com###google_ads_iframe_/29390238/nyt/fashion/sectionfront_12__container__
-  2424. nytimes.com###google_ads_iframe_/29390238/nyt/fashion/sectionfront_13
-  2425. nytimes.com###google_ads_iframe_/29390238/nyt/fashion/sectionfront_14__container__
-  2426. nytimes.com###google_ads_iframe_/29390238/nyt/dining/sectionfront_4__container__
-  2427. nytimes.com###google_ads_iframe_/29390238/nyt/dining/sectionfront_6__container__
-  2428. nytimes.com###google_ads_iframe_/29390238/nyt/dining/sectionfront_7
-  2429. nytimes.com###google_ads_iframe_/29390238/nyt/dining/sectionfront_8__container__
-  2430. nytimes.com###google_ads_iframe_/29390238/nyt/dining/sectionfront_9__container__
-  2431. nytimes.com###google_ads_iframe_/29390238/nyt/dining/sectionfront_10__container__
-  2432. nytimes.com###google_ads_iframe_/29390238/nyt/dining/sectionfront_11__container__
-  2433. nytimes.com###google_ads_iframe_/29390238/nyt/dining/sectionfront_13__container__
-  2434. nytimes.com###google_ads_iframe_/29390238/nyt/dining/sectionfront_14__container__
-  2435. nytimes.com###google_ads_iframe_/29390238/nyt/dining/sectionfront_12__container__
-  2436. nytimes.com###google_ads_iframe_/29390238/nyt/travel/sectionfront_5__container__
-  2437. nytimes.com###google_ads_iframe_/29390238/nyt/travel/sectionfront_6__container__
-  2438. nytimes.com###google_ads_iframe_/29390238/nyt/travel/sectionfront_7__container__
-  2439. nytimes.com###google_ads_iframe_/29390238/nyt/travel/sectionfront_8__container__
-  2440. nytimes.com###google_ads_iframe_/29390238/nyt/travel/sectionfront_9__container__
-  2441. nytimes.com###google_ads_iframe_/29390238/nyt/travel/sectionfront_10
-  2442. nytimes.com###google_ads_iframe_/29390238/nyt/travel/sectionfront_11__container__
-  2443. nytimes.com###google_ads_iframe_/29390238/nyt/travel/sectionfront_12__container__
-  2444. nytimes.com###google_ads_iframe_/29390238/nyt/travel/sectionfront_13
-  2445. nytimes.com###google_ads_iframe_/29390238/nyt/travel/sectionfront_14
-  2446. nytimes.com###google_ads_iframe_/29390238/nyt/travel/sectionfront_15__container__
-  2447. nytimes.com###google_ads_iframe_/29390238/nyt/travel/sectionfront_10__container__
-  2448. nytimes.com###google_ads_iframe_/29390238/nyt/travel/sectionfront_13__container__
-  2449. nytimes.com###google_ads_iframe_/29390238/nyt/magazine/sectionfront_7__container__
-  2450. nytimes.com###google_ads_iframe_/29390238/nyt/magazine/sectionfront_8__container__
-  2451. nytimes.com###google_ads_iframe_/29390238/nyt/magazine/sectionfront_9__container__
-  2452. nytimes.com###google_ads_iframe_/29390238/nyt/magazine/sectionfront_10__container__
-  2453. nytimes.com###google_ads_iframe_/29390238/nyt/magazine/sectionfront_11__container__
-  2454. nytimes.com###google_ads_iframe_/29390238/nyt/magazine/sectionfront_12__container__
-  2455. nytimes.com###google_ads_iframe_/29390238/nyt/magazine/sectionfront_13__container__
-  2456. nytimes.com###google_ads_iframe_/29390238/nyt/magazine/sectionfront_3
-  2457. nytimes.com###google_ads_iframe_/29390238/nyt/tmagazine/sectionfront_4
-  2458. nytimes.com###google_ads_iframe_/29390238/nyt/tmagazine/sectionfront_6
-  2459. nytimes.com###google_ads_iframe_/29390238/nyt/tmagazine/sectionfront_7
-  2460. nytimes.com###google_ads_iframe_/29390238/nyt/tmagazine/sectionfront_8
-  2461. nytimes.com###google_ads_iframe_/29390238/nyt/tmagazine/sectionfront_9
-  2462. nytimes.com###google_ads_iframe_/29390238/nyt/tmagazine/sectionfront_10
-  2463. nytimes.com###google_ads_iframe_/29390238/nyt/tmagazine/sectionfront_11
-  2464. nytimes.com###google_ads_iframe_/29390238/nyt/tmagazine/sectionfront_12
-  2465. nytimes.com###google_ads_iframe_/29390238/nyt/tmagazine/sectionfront_13
-  2466. nytimes.com###google_ads_iframe_/29390238/nyt/tmagazine/sectionfront_14
-  2467. nytimes.com###google_ads_iframe_/29390238/nyt/realestate/sectionfront_12__container__
-  2468. nytimes.com###google_ads_iframe_/29390238/nyt/realestate/sectionfront_13__container__
-  2469. nytimes.com###google_ads_iframe_/29390238/nyt/realestate/sectionfront_14__container__
-  2470. nytimes.com###google_ads_iframe_/29390238/nyt/realestate/sectionfront_15
-  2471. nytimes.com###google_ads_iframe_/29390238/nyt/realestate/sectionfront_16__container__
-  2472. nytimes.com###google_ads_iframe_/29390238/nyt/realestate/sectionfront_17__container__
-  2473. nytimes.com###google_ads_iframe_/29390238/nyt/realestate/sectionfront_18
-  2474. nytimes.com###google_ads_iframe_/29390238/nyt/realestate/sectionfront_19__container__
-  2475. nytimes.com###google_ads_iframe_/29390238/nyt/upshot/sectionfront_4__container__
-  2476. nytimes.com###google_ads_iframe_/29390238/nyt/readercenter/sectionfront_5
-  2477. nytimes.com###google_ads_iframe_/29390238/nyt/parenting/sectionfront_4__container__
-  2478. nytimes.com###google_ads_iframe_/29390238/nyt/learning/sectionfront_5
-  2479. nytimes.com###google_ads_iframe_/29390238/nyt/podcasts/podcasts/spotlight_7
-  2480. nytimes.com###google_ads_iframe_/29390238/nyt/podcasts/podcasts/spotlight_8__container__
-  2481. nytimes.com###google_ads_iframe_/29390238/nyt/todayspaper/todaysnewyorktimes/column_6
-  2482. nytimes.com###google_ads_iframe_/29390238/nyt/corrections/sectionfront_4__container__
-  2483. yahoo.com##.D(f).Fld(c).Fxg(1).Flxb(100%)
-  2484. yahoo.com##.Pos(r).show-then-hide-ad-confirmation_D(n).D(f).stream-grid-view_Fld(c).hide-ad_D(n)
-  2485. yahoo.com##.stream-item.wafer-beacon.Mih(119px)
-  2486. fandom.com###google_ads_iframe_/5441/wka1b.LB/top_leaderboard/desktop/ns-home/fandom-all_0__container_
-  2487. money.cnn.com###google_ads_iframe_/8663477/CNNBusiness/markets_0
-  2488. money.cnn.com###google_ads_iframe_/8663477/CNNBusiness/markets/landing_3__container__
-  2489. money.cnn.com###google_ads_iframe_/8663477/CNNBusiness/markets/landing_2__container__
-  2490. cnn.com###google_ads_iframe_/21848839049/CNNTravel/home3dh_0
-  2491. accuweather.com###google_ads_iframe_/6581/web/us/top_right/news_info/country_home_0
-  2492. accuweather.com###google_ads_iframe_/6581/web/us/top_right/weather/extended_0__container__
-  2493. accuweather.com###google_ads_iframe_/6581/web/us/top_right/weather/radar_0
-  2494. accuweather.com###google_ads_iframe_/6581/web/us/bottom_right/weather/radar_0
-  2495. accuweather.com###google_ads_iframe_/6581/web/us/bottom_right/weather/radar_0__container__
-  2496. accuweather.com###google_ads_iframe_/6581/web/us/top_right/weather/minutecast_0__container__
-  2497. accuweather.com###google_ads_iframe_/6581/web/us/top_right/weather/month_0__container__
-  2498. accuweather.com###google_ads_iframe_/6581/web/us/top_right/weather/air_quality_0
-  2499. accuweather.com###google_ads_iframe_/6581/web/us/top_right/news_info/severe_0
-  2500. accuweather.com###google_ads_iframe_/6581/web/us/top_right/news_info/accuwx_ready_0
-  2501. accuweather.com###google_ads_iframe_/6581/web/us/bottom_right/news_info/accuwx_ready_0
-  2502. accuweather.com###google_ads_iframe_/6581/web/us/top_right/news_info/winter_0__container__
-  2503. zillow.com###google_ads_iframe_/7449/zillow/search_results_1/buy_general/search_1_0__container__
-  2504. bestbuy.com###google_ads_iframe_/6011/BestBuyDesktopWeb/best_buy_0
-  2505. pagecloud.com##.object.struct.m:Pos(a).Pos(a).D(f).Jc(sb).Fxd(r).Ai(c)
-  2506. thenai.org##.flex.flex-col.items-center.space-y-4.xl:space-y-6
-  2507. booking.com##.bui-card.bui-u-bleed@small.bui-spacer--large.ge-branded_container--index.js-ds-layout-events-genius-banner
-  2508. playstation.com##.box.p-ls@mobile--xs.p-ls@tablet--xs.p-ls@desktop--2xl.mt-ls@desktop--neg-xl.mb-ls@desktop--neg-xl
-  2509. howstuffworks.com##.flex-1.mb-8.md:mb-4
-  2510. sports.yahoo.com##.W(100%).Maw(300px).Pb(15px).smartphone_Px(20px).Pos(r).D(ib).Va(t)
-  2511. news.yahoo.com##.Pos(r).D(ib).P(0).Lh(n)
-  2512. bigthink.com##.py-[30px].md:py-[50px].bg-black.dark.bigthink-wide-row
-  2513. bigthink.com##.relative.z-10.p-7.md:p-10.lg:p-12.md:w-3/4
-  2514. stackabuse.com##.px-6.py-6.rounded-lg.md:py-12.md:px-8.lg:py-16.lg:px-10.xl:flex.xl:items-center.xl:justify-between.grid.grid-cols-1.xl:grid-cols-2
-  2515. stackabuse.com##.max-w-6xl.mx-auto.px-0.py-6.lg:py-8
-  2516. stackabuse.com##.flex.justify-center.md:order-2
-  2517. codereview.stackexchange.com##.-list.-social.md:mb8
-  2518. stackexchange.com##.-list.-social.md:mb8
-  2519. stackexchange.com##.sm:d-none.py24.bg-black-750.fc-black-200.ps-relative.js-dismissable-hero
-  2520. stackabuse.com##.bg-gray-100.px-4.py-1.rounded-lg.shadow-lg.border.border-gray-400.md:py-2.md:px-6.lg:py-3.lg:px-8.flex.items-center.flex-col.xl:flex-row
-  2521. openai.com##.col-12.col-md-4.col-lg-4.col-xl-3.mb-0.5
-  2522. icij.org###_BVID__28___BV_modal_backdrop
-  2523. aliexpress.com##a[style="background-image: url("https://ae01.alicdn.com/kf/Sf65a8c65a71149aeba5d2249a8b38477t.jpg_Q90.jpg_.webp");"]
-  2524. aliexpress.com###top_banner_img
-  2525. stackoverflow.com##.site-footer--copyright.fs-fine.md:mt24
-  2526. askubuntu.com##.site-footer--copyright.fs-fine.md:mt24
-  2527. skillcrush.com##.sc-popup__content.bg-primary-lightest.w-11/12.md:max-w-2xl.py-8.md:w-4/6.md:pt-11.md:pb-16
-  2528. theodinproject.com##.text-gray-700.text-4xl.hover:text-gray-900.fab.fa-discord.odin-dark-icon
-  2529. theodinproject.com##.text-gray-700.hover:text-gray-900.text-4xl.fab.fa-facebook.odin-dark-icon
-  2530. theodinproject.com##.text-gray-700.hover:text-gray-900.text-4xl.fab.fa-twitter.odin-dark-icon
-  2531. classpert.com##.el:m-list.el:m-list--hrz.vA-m.d-ib
-  2532. top10.netflix.com##.items-center.flex-shrink.hidden.pl-8.ml-5.space-x-3.text-sm.border-l.border-gray-600.md:flex
-  2533. pagerduty.com##.flex-grow.text-black.hover:text-black.items-center.cursor-pointer.block
-  2534. servicesdown.com##.hidden.md:inline-block
-  2535. macpaw.com##.footer-title.-social
-  2536. macpaw.com##.social.-less-items
-  2537. theverge.com##.mx-auto.block.lg:hidden
-  2538. dexerto.com##.flex.flex-col.items-center.w-full.md:mx-0.lg:mt-4
-  2539. gamingdebates.com##.� 64527edf3dc909024faa1dc129f70e6
-  2540. beta.elevenlabs.io##.text-[#FF0000].hover:opacity-70
-  2541. beta.elevenlabs.io##.text-[#5865F2].hover:opacity-70
-  2542. beta.elevenlabs.io##.text-[#1DA1F2].hover:opacity-70
-  2543. developer.chrome.com##.color-secondary-text.display-flex.gap-top-300.lg:gap-top-0
-  2544. dexerto.com##.flex-col.w-full.py-[14.5px].px-5.bg-neutral-grey-4.md:py-5.md:flex-row.md:items-center.md:justify-between.md:gap-x-5.col-span-full.lg:col-span-7.my-8.flex
-  2545. stackoverflow.com##.s-btn.s-btn__link.w100.fc-blue-700.h:fc-blue-900.p8.fs-caption.mr8.mt8.d-block.bar-md.bg-blue-050.lh-md.js-gps-track
-  2546. mm-signin.centurylink.com##.chi-col.-w-lg--3.-w-xl--3.-align--right.-d--none.-d-lg--flex.-justify-content--center
-  2547. dreamhost.com##.flex.justify-around.space-y-3.text-base.lg:block
-  2548. semrush.com##.srf-menu-items.-icons-left
-  2549. databricks.com##.flex.flex-wrap.gap-1.5
-  2550. garagesalefinder.com##.reveal-modal-bg
-  2551. garagesalefinder.com###subscribeForm
-  2552. garagesalefinder.com##.subscribe.subscribeForm.reveal-modal.small.fndt.open
-  2553. garagesalefinder.com##.top-map-ad
-  2554. garagesalefinder.com##.share-buttons
-  2555. theodinproject.com##.flex.space-x-6
-  2556. tutorialspoint.com##.bg-primary.bg-opacity-10.rounded-3.p-5.h-100
-  2557. stanford.edu##.fa.fa-youtube-play
-  2558. stanford.edu##.fa.fa-twitter
-  2559. stanford.edu##.fa.fa-facebook-square
-  2560. stanford.edu##.fa.fa-instagram
-  2561. cam.ac.uk##.icon.social.icon-facebook
-  2562. cam.ac.uk##.icon.social.icon-instagram
-  2563. cam.ac.uk##.icon.social.icon-twitter
-  2564. cam.ac.uk##.icon.social.icon-youtube
-  2565. cam.ac.uk##.icon.social.icon-tiktok
-  2566. caltech.edu##.connect-with-us-block__icons__icon.connect-with-us-block__icons__icon--facebook
-  2567. caltech.edu##.connect-with-us-block__icons__icon.connect-with-us-block__icons__icon--twitter
-  2568. caltech.edu##.connect-with-us-block__icons__icon.connect-with-us-block__icons__icon--instagram
-  2569. caltech.edu##.connect-with-us-block__icons__icon.connect-with-us-block__icons__icon--youtube
-  2570. edx.org##.ot-sdk-row
-  2571. princeton.edu##.menu-item.sprite-before.facebook
-  2572. princeton.edu##.menu-item.sprite-before.twitter
-  2573. princeton.edu##.menu-item.sprite-before.instagram
-  2574. princeton.edu##.menu-item.sprite-before.snapchat
-  2575. princeton.edu##.menu-item.sprite-before.youtube
-  2576. princeton.edu##.menu-item.sprite-before.social-media-directory
-  2577. uchicago.edu##.fa.fa-youtube.Footer_socialIcon___4mnL
-  2578. uchicago.edu##.fa.fa-twitter.Footer_socialIcon___4mnL
-  2579. uchicago.edu##.fa.fa-instagram.Footer_socialIcon___4mnL
-  2580. uchicago.edu##.fa.fa-facebook.Footer_socialIcon___4mnL
-  2581. ||u-tokyo.ac.jp/content/100074655.jpg
-  2582. ||u-tokyo.ac.jp/content/100074651.jpg
-  2583. ||u-tokyo.ac.jp/content/100074629.jpg
-  2584. utoronto.ca##.footer-social-icons-wrapper
-  2585. imperial.ac.uk##.ot-sdk-row
-  2586. unimelb.edu.au##.tealium_explicit_consent_inner_section
-  2587. unimelb.edu.au##.page-footer-alt__social-item
-  2588. ||nus.edu.sg/images/default-source/base/facebook.png
-  2589. ||nus.edu.sg/images/default-source/base/twitter.png
-  2590. ||nus.edu.sg/images/default-source/base/instagram.png
-  2591. ||nus.edu.sg/images/default-source/base/youtube.png
-  2592. ||nus.edu.sg/images/default-source/icons/ico-white-wechat.png
-  2593. yardsales.net##.reveal-modal-bg
-  2594. yardsales.net###subscribeForm
-  2595. yardsales.net##.subscribe.subscribeForm.reveal-modal.small.fndt.open
-  2596. yardsales.net##.share-buttons
-  2597. yardsales.net##.box.text-center
-  2598. ucsb.edu##.columns.columns-3
-  2599. unc.edu##.widget.widget_unc_social_media_links
-  2600. unc.edu##.social-icons.has-video
-  2601. unimelb.edu.au##.tealium_privacy_prompt.tealium_explicit_consent
-  2602. ||ucdavis.edu/sites/default/files/2021-05/tiktok-icon-branded.svg
-  2603. ||ucdavis.edu/sites/default/files/2021-05/youtube-icon-branded.svg
-  2604. ||ucdavis.edu/sites/default/files/2021-05/twitter-icon-branded.svg
-  2605. ||ucdavis.edu/sites/default/files/2021-05/instagram-icon-branded.svg
-  2606. ||ucdavis.edu/sites/default/files/2021-05/facebook-icon-branded_0.svg
-  2607. ||ucdavis.edu/sites/default/files/2023-03/giphy-icon-branded.svg
-  2608. bristol.ac.uk##.NonGrid-module--social--1hCac
-  2609. sydney.edu.au##.b-icon.b-icon--align-top.b-component--md-tighter.b-icon--social-media.b-icon--twitter
-  2610. sydney.edu.au##.b-icon.b-icon--align-top.b-component--md-tighter.b-icon--social-media.b-icon--facebook
-  2611. sydney.edu.au##.b-icon.b-icon--align-top.b-component--md-tighter.b-icon--social-media.b-icon--instagram
-  2612. sydney.edu.au##.b-icon.b-icon--align-top.b-component--md-tighter.b-icon--social-media.b-icon--youtube
-  2613. sydney.edu.au##.b-text--colour-dark.b-text--font-label.b-text--nowrap.b-text--vertical
-  2614. ucsc.edu##.social-media
-  2615. ucr.edu##.mdi.mdi-facebook-box
-  2616. ucr.edu##.mdi.mdi-music-box
-  2617. ucr.edu##.mdi.mdi-instagram
-  2618. ucr.edu##.mdi.mdi-youtube-play
-  2619. ucr.edu##.mdi.mdi-twitter-box
-  2620. ubc.ca##.icon-instagram-sign
-  2621. ubc.ca##.icon-twitter-sign
-  2622. ubc.ca##.icon-youtube
-  2623. ubc.ca##.social-media-icon-link
-  2624. uq.edu.au##.uq-footer__meta-icons--facebook.uq-footer__meta-icons.gtm-processed
-  2625. uq.edu.au##.uq-footer__meta-icons--twitter.uq-footer__meta-icons.gtm-processed
-  2626. uq.edu.au##.uq-footer__meta-icons--youtube.uq-footer__meta-icons.gtm-processed
-  2627. uq.edu.au##.uq-footer__meta-icons--instagram.uq-footer__meta-icons.gtm-processed
-  2628. uva.nl##.icon.icon--solo
-  2629. uva.nl##.c-socialfollow__title
-  2630. helsinki.fi##.hy-footer-base__some
-  2631. auckland.ac.nz##.offset-md-3.offset-xl-6.col-md-9.col-xl-6
-  2632. uzh.ch##.FooterSocialMediaList
-  2633. ku.dk##.icon.icon-facebook
-  2634. ku.dk##.icon.icon-instagram
-  2635. ku.dk##.icon.icon-twitter
-  2636. ku.dk##.icon.icon-youtube
-  2637. kcl.ac.uk###onetrust-group-container
-  2638. kcl.ac.uk##.ot-sdk-twelve.ot-sdk-columns
-  2639. kcl.ac.uk##.footer__connect-with-us
-  2640. univie.ac.at##.icon-facebook
-  2641. univie.ac.at##.icon-instagram
-  2642. univie.ac.at##.icon-youtube
-  2643. univie.ac.at##.icon-twitter
-  2644. ||snu.ac.kr/_skin/kor/layout/image/footer-facebook_lg.png
-  2645. ||snu.ac.kr/_skin/kor/layout/image/footer-youtube_lg.png
-  2646. ||snu.ac.kr/_skin/kor/layout/image/footer-instagram_lg.png
-  2647. manchester.ac.uk##.fourcol.last
-  2648. ||marketing-pages.anu.edu.au/_anu/images/share/youtube.png
-  2649. ||marketing-pages.anu.edu.au/_anu/images/share/twitter.png
-  2650. ||marketing-pages.anu.edu.au/_anu/images/share/facebook.png
-  2651. uio.no###vrtx-main-content-17
-  2652. uio.no##.vrtx-frontpage-box.vrtx-more-false.grey-box
-  2653. ||web.ub.edu/documents/2685349/2686580/Twitter.svg/ceffd793-045e-aa9f-798c-1e1711eac88c?t=1662540803879
-  2654. ||web.ub.edu/documents/2685349/2686580/Instagram.svg/7a2e1bad-0842-d3f1-065c-04899bc3f582?t=1662540803573
-  2655. ||web.ub.edu/documents/2685349/2686580/Facebook.svg/60ce83b7-72e4-4180-17d6-13c87b7230dc?t=1662540804143
-  2656. ||web.ub.edu/documents/2685349/2686580/Tik.svg/f7dcb68f-141f-c925-f798-ea539dbbdafa?t=1669210135534
-  2657. ||web.ub.edu/documents/2685349/2686580/Youtube.svg/97b61596-a3f6-1297-30f3-41bf5f9b37c3?t=1662540803381
-  2658. lmu.de##.footer__navigation-list-link
-  2659. kyoto-u.ac.jp###block-sns-link
-  2660. kyoto-u.ac.jp##.sns-link-block.block.block-block-content.block-block-content2bdc5a4f-0816-4596-b81d-ab9ed03c7c0d.block--bundle-basic
-  2661. umich.edu##.fab.fa-facebook-f
-  2662. umich.edu##.fab.fa-twitter
-  2663. umich.edu##.fab.fa-youtube
-  2664. umich.edu##.fab.fa-instagram
-  2665. ucla.edu##.social-icon--facebook
-  2666. ucla.edu##.social-icon--instagram
-  2667. ucla.edu##.social-icon--twitter
-  2668. ucla.edu##.social-icon--youtube
-  2669. ucla.edu##.social-icon--tiktok
-  2670. ucla.edu##.social-icon--snapchat
-  2671. ucla.edu##.social-icon
-  2672. wisc.edu###uw-icon-facebook
-  2673. wisc.edu###uw-icon-twitter
-  2674. wisc.edu###uw-icon-youtube
-  2675. wisc.edu##.last
-  2676. wisc.edu###uw-icon-instagram
-  2677. illinois.edu##.ot-sdk-row
-  2678. ||utexas.edu/sites/all/themes/utexas/img/general/what-starts-here-hover.jpg
-  2679. utexas.edu##.icon-wrap
-  2680. uci.edu##.uci-icon-list
-  2681. usc.edu###menu-item-1741
-  2682. usc.edu##.icon-only-facebook-white.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-1741
-  2683. usc.edu###menu-item-1744
-  2684. usc.edu##.icon-only-instagram-white.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-1744
-  2685. usc.edu###menu-item-1740
-  2686. usc.edu##.icon-only-twitter-white.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-1740
-  2687. usc.edu###menu-item-1739
-  2688. usc.edu##.icon-only-youtube-white.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-1739
-  2689. ||alumni.unc.edu/wp-content/themes/unc_gaa_theme/images/framework/brand_svgs/facebook-f.svg
-  2690. ||alumni.unc.edu/wp-content/themes/unc_gaa_theme/images/framework/brand_svgs/twitter.svg
-  2691. ||alumni.unc.edu/wp-content/themes/unc_gaa_theme/images/framework/brand_svgs/instagram.svg
-  2692. ||alumni.unc.edu/wp-content/themes/unc_gaa_theme/images/framework/brand_svgs/tiktok.svg
-  2693. ||alumni.unc.edu/wp-content/themes/unc_gaa_theme/images/framework/brand_svgs/youtube.svg
-  2694. alumni.unc.edu##.full_width_wrapper.background_bright_blue.mm_mc_social_bar_basic_wrapper.module_wrapper.parallax_background_image.clearfix
-  2695. umd.edu##.list-inline.social-links.text-center.hidden-xs.hidden-sm
-  2696. twin-cities.umn.edu##.social-menu__link.fb
-  2697. twin-cities.umn.edu##.social-menu__link.in
-  2698. twin-cities.umn.edu##.social-menu__link.tiktok
-  2699. twin-cities.umn.edu##.social-menu__link.tw
-  2700. twin-cities.umn.edu##.social-menu__link.yt
-  2701. canva.com##.e6nTMQ
-  2702. ||forms.visme.co/formsPlayer/_embed/pv4kwj94-visme-blog-newsletter-signup?fullPage=true
-  2703. visme.co##.visme-shortcode.visme-cta-signup.visme-shortcode--normal.visme-shortcode--dark.visme-cta-signup--has-image
-  2704. visme.co##.cta_button_container.f
-  2705. visme.co##.padding-container
-  2706. ||blog.visme.co/wp-content/themes/blog/img/03_sidebar_design.png
-  2707. visme.co##.box-info.last-box
-  2708. about.easil.com##.tw-list-reset.tw-leading-normal.tw-mb-8
-  2709. snappa.com##.soc-icns
-  2710. create.vista.com##.policy-banner__inner
-  2711. create.vista.com##.bottom-block__social-list-item
-  2712. getstencil.com##.social.float-right
-  2713. picmonkey.com##.styles-module--social_navigation--J3n4p
-  2714. airtable.com##.FooterNav-module_navLink__3g9pM.BkLink-module_bkLink__2Rqnp.BkLink-module_prependedIcon__10Bl-
-  2715. zapier.com##.css-9oyo18.e1k4zq0k0
-  2716. zapier.com##.css-fwyq30
-  2717. zapier.com##.css-tc01hv
-  2718. zapier.com##.css-v5jf9x
-  2719. zapier.com##.css-vcdjtr
-  2720. zapier.com##.css-oe00k0
-  2721. zapier.com##.css-1crv5ql
-  2722. zapier.com##.css-1xtho2l
-  2723. mulesoft.com##.icon-muletheme-twitter
-  2724. mulesoft.com##.icon-muletheme-instagram
-  2725. mulesoft.com##.icon-muletheme-facebook
-  2726. mulesoft.com##.icon-muletheme-videos
-  2727. mulesoft.com##.icon-muletheme-twitch
-  2728. ||the-numbers.com/images/icons/instagram_TN.svg
-  2729. ||the-numbers.com/images/icons/tiktok_TN.svg
-  2730. thesaurus.com##.TeixwVbjB8cchva8bDlg
-  2731. mecabricks.com###advertising
-  2732. crunchbase.com##.social-media-list
-  2733. ycombinator.com##.flex.space-x-6.md:order-2
-  2734. yourstory.com##.sc-jPgKOH.dfqkUF
-  2735. yourstory.com##.sc-kmzTNl.gKexCq
-  2736. engadget.com##.rwd-outer-container.W(100vw).D(f).Jc(sa).Bgc(engadgetGray).Bgc(engadgetSteelGray)--md
-  2737. ziprecruiter.com##.facebook
-  2738. ziprecruiter.com##.twitter
-  2739. ziprecruiter.com##.instagram
-  2740. roberthalf.com##.onetrust-pc-dark-filter.ot-fade-in
-  2741. roberthalf.com###onetrust-group-container
-  2742. roberthalf.com##.ot-sdk-twelve.ot-sdk-columns
-  2743. roberthalf.com##.ot-floating-button__open
-  2744. roberthalf.com##.ot-floating-button__front.custom-persistent-icon
-  2745. roberthalf.com##.nav-link.rh-footer__nav-link.rh-footer__social-nav-link.social.facebook
-  2746. roberthalf.com##.nav-link.rh-footer__nav-link.rh-footer__social-nav-link.social.twitter
-  2747. roberthalf.com##.nav-link.rh-footer__nav-link.rh-footer__social-nav-link.social.youtube
-  2748. roberthalf.com##.nav-link.rh-footer__nav-link.rh-footer__social-nav-link.social.instagram
-  2749. careerbuildercareers.com##.fa.fa-facebook
-  2750. job.com##.css-1hupo3l-S_a_link.eufl5ki0
-  2751. hiring.monster.com##.exit-strategy-popup-container
-  2752. hiring.monster.com###exit-strategy-popup
-  2753. hiring.monster.com##.exit-strategy-popup.track.visible
-  2754. hiring.monster.com##.menu.flex.mx-0.mt-0.mb-30.p-0.text-left.tablet-portrait-max:items-center.tablet-portrait-max:justify-evenly.tablet-portrait-max:my-30.tablet-portrait-max:text-center.container
-  2755. quadeducationgroup.com##.webinar-popup-overlay
-  2756. quadeducationgroup.com##.webinar-popup
-  2757. quadeducationgroup.com##.exit-popup-overlay
-  2758. quadeducationgroup.com##.exit-popup-inner
-  2759. fairygodboss.com##.grid-column__StyledColumn-sc-1daj0ht-0.dhzASz.CookiesBanner___StyledGridColumn-sc-1enj51e-2.ifWMmI
-  2760. fairygodboss.com##.View__Styled-sc-tbps05-0.gNBMWA
-  2761. ||hired.com/assets/unity/instagram-ae207a980317d003a119eee6b75338e29ff4fdda9bcdc54d1770701e356ceb00.svg
-  2762. ||hired.com/assets/unity/twitter-bdf41d71beea12b12242eccc247889680a23274481b0000241b62d27e7f16c0e.svg
-  2763. ||hired.com/assets/unity/facebook-8b29b9b02808fa40cd6520202beb62506a9f7c99e10ee53c121f59129ed4cf8d.svg
-  2764. idealist.org##.sc-1pfcxqe-0.iXuioE
-  2765. mediabistro.com##.fa.fa-instagram
-  2766. mediabistro.com##.fa.fa-twitter
-  2767. mediabistro.com##.fa.fa-facebook
-  2768. ||careersherpa.net/wp-content/themes/sherpa/images/SocialDefault.png
-  2769. careersherpa.net##.icon-facebook
-  2770. careersherpa.net##.icon-twitter
-  2771. careersherpa.net###enews-ext-2
-  2772. careersherpa.net##.widget.enews-widget
-  2773. linkup.com##.flex.items-center.justify-center.p-[6px].rounded-full.border.hover:text-blue.focus:text-blue
-  2774. youtube.com##.ytp-button.ytp-suggested-action-badge.ytp-suggested-action-badge-with-controls.ytp-suggested-action-badge-expanded.ytp-suggested-action-badge-content-forward
-  2775. capturacorp.com##.fab.fa-twitter
-  2776. capturacorp.com##.fab.fa-facebook-f
-  2777. capturacorp.com##.fab.fa-youtube
-  2778. godaddy.com##.list-inline.social-media-links
-  2779. godaddy.com##.m13a91nw
-  2780. chilimath.com##.bmc-btn
-  2781. ||byjus-m6esco4vh.whjr.dev/images/socials/inst.svg?auto=format&fit=max&w=64
-  2782. ||byjus-m6esco4vh.whjr.dev/images/socials/yt.svg?auto=format&fit=max&w=64
-  2783. ||byjus-m6esco4vh.whjr.dev/images/socials/twitter.svg?auto=format&fit=max&w=64
-  2784. ||byjus-m6esco4vh.whjr.dev/images/socials/fb.svg?auto=format&fit=max&w=64
-  2785. byjus.com##.text-white.font-bold.uppercase.mb-3
-  2786. tynker.com##.button.secondary.margin-bottom-0
-  2787. tynker.com##.bfs-fixed-banner
-  2788. dictionary.com##.atw-socials
-  2789. thesaurus.com##.fa.fa-twitter
-  2790. thesaurus.com##.fa.fa-facebook
-  2791. dictionary.com##.css-mut7y8.ej78dbk1
-  2792. collinsdictionary.com##.f-b.logo-reseaux.top
-  2793. freethesaurus.com##.facebook
-  2794. freethesaurus.com##.twitter
-  2795. dictionary.cambridge.org##.pr.bo.lp-20.lpt-25.lmb-25
-  2796. dictionary.cambridge.org##.hdn.hdib-m.hul-u.hul-ib.lmb-0.lpl-20.lp-xs_l-25.han.hax
-  2797. dictionary.cambridge.org##.ot-sdk-row
-  2798. dictionary.cambridge.org##.hfl.hax.htc.tc-w.lc1.lc-xsa.lb-ch.lbb0-xs.lpt-10.lp-xs_t-0
-  2799. dictionaryblog.cambridge.org###menu-item-7617
-  2800. dictionaryblog.cambridge.org##.follow.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-7617.focus
-  2801. dictionaryblog.cambridge.org###menu-item-7616
-  2802. dictionaryblog.cambridge.org##.facebook.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-7616.focus
-  2803. dictionaryblog.cambridge.org###menu-item-7615
-  2804. dictionaryblog.cambridge.org##.twitter.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-7615
-  2805. dictionary.cambridge.org##.pr.hdib.i.i-facebook.lp-5.lmr-10
-  2806. dictionary.cambridge.org##.hfr.lpt-5
-  2807. dictionary.cambridge.org##.hfr.lpt-10
-  2808. dictionary.cambridge.org##.hfr.lpb-2
-  2809. dictionary.cambridge.org##.i.i-facebook.fs16
-  2810. dictionary.cambridge.org##.i.i-instagram.fs16
-  2811. dictionary.cambridge.org##.i.i-twitter.fs16
-  2812. getty.edu##.g-footer__social
-  2813. macmillanthesaurus.com##.ot-sdk-row
-  2814. macmillanthesaurus.com##.col-xs-12.col-sm-4.start-sm.center-xs
-  2815. ||cdn.loc.gov/images/img-foot/youtube.gif
-  2816. ||cdn.loc.gov/images/img-foot/twitter.gif
-  2817. ||cdn.loc.gov/images/img-foot/facebook.gif
-  2818. ||cdn.loc.gov/images/img-foot/pinterest.gif
-  2819. eige.europa.eu##.facebook
-  2820. eige.europa.eu##.twitter
-  2821. eige.europa.eu##.youtube
-  2822. eige.europa.eu##.wt-link.wtShare.wtSocialNetworkLink.wt_twitter.unselected
-  2823. percentagecalculator.guru##.fab.fa-youtube
-  2824. percentagecalculator.guru##.fab.fa-twitter
-  2825. percentagecalculator.guru##.fab.fa-facebook-f
-  2826. calculat.io##.calc67-container.--vertical.vertical-300x300
-  2827. calculat.io##.calc67-container.calc67--1.sticky-calc67.mb--1_5.--adblock
-  2828. calculat.io##.calc67-container.calc67--1.sticky-calc67.mb--1_5
-  2829. mathsolver.microsoft.com##.ItemSection_sectionTitle__vSxKo
-  2830. mathsolver.microsoft.com##.ItemSection_itemSection__lnxRj
-  2831. nintendo.com##.Footerstyles__BrandBar-sc-oetfq2-15.bykGfZ
-  2832. open.spotify.com##.SocialLinks__SocialContainer-sc-kqbr2e-0.lebRvI
-  2833. ted.com##.mb-10.flex.flex-row.gap-5
-  2834. tripadvisor.com##.QnnKe.z
-  2835. tripadvisor.com##.ZkqhQ.Gi.B1.Z.BB.Cj.Za
-  2836. tripadvisor.com##.zlkck.A
-  2837. webmd.com##.social-media-wrap
-  2838. codevocab.com##.footer-social-inner-wrap.element-social-inner-wrap.social-show-label-false.ast-social-color-type-official.ast-social-stack-none.ast-social-element-style-filled
-  2839. app.grammarly.com##._bebd3200-business_banner-banner
-  2840. mashable.com##.px-3.hover:text-primary-400
-  2841. mashable.com##.flex.overflow-hidden.relative.flex-col.items-end.px-4.mx-auto.mt-12.md:flex-row.max-w-9xl.bg-warmgray-100
-  2842. mashable.com##.px-4.hover:text-primary-400
-  2843. theverge.com##.rounded-full.bg-white.transition.hover:bg-black
-  2844. theverge.com##.dfp_ad--full-width.dfp_ad--outbrain.outbrain_feature
-  2845. theverge.com##.duet--cta--newsletter.flex.w-full.flex-col.border-t.px-12.pt-16.font-polysans-mono.text-14.font-light.leading-130.-tracking-2.md:text-15.text-blurple.border-blurple
-  2846. theverge.com##.duet--article--share-buttons.flex.leading-[0]
-  2847. theverge.com##.dfp_ad--full-width.dfp_ad--outbrain.outbrain_article
-  2848. pcmag.com##.hover:text-gray-darkest.inline-block
-  2849. pcmag.com##.flex.items-end
-  2850. pcmag.com##.rounded.bg-gray-lightest.text-center.md:px-32.md:py-8.p-4.mt-8.container-xs
-  2851. cnet.com##.c-newsletterSubscribe.g-grid-container.g-inner-spacing-bottom-medium.g-inner-spacing-top-xlarge.g-border-thin-dark-top.g-outer-spacing-bottom-large
-  2852. cnet.com##.c-newsletterSticky
-  2853. cnet.com##.c-globalAuthor_twitter.u-flexbox.u-flexbox-alignCenter.u-flexbox-alignSelfCenter
-  2854. info.wrightsmedia.com##.footer-social-icons
-  2855. cnet.com##.social-link.twitter
-  2856. cnet.com##.social-link.facebook
-  2857. cnet.com##.social-link.tiktok
-  2858. cnet.com##.social-link.youtube
-  2859. cnet.com##.social-link.instagram
-  2860. engadget.com##.Bgc(white).W(100vw).D(f).Ai(st).Pos(r).Z(1).Jc(c).M(MarginCenter)
-  2861. engadget.com##.Bdstartw(1px).Bdc(engadgetFontGray).Bdstarts(s).Mstart(15px).Pstart(20px)
-  2862. engadget.com###LB-MULTI_ATF
-  2863. engadget.com##.Pb(25px).Pt(25px).D(f).Ai(c).Jc(c).Z(100).Flxg(1).Mih(90px)
-  2864. healthline.com##.css-145tu44.css-1azb1jl
-  2865. healthline.com##.icon-hl-instagram.css-191bu3f
-  2866. healthline.com##.icon-hl-pinterest.css-xveias
-  2867. healthline.com##.icon-hl-twitter.css-191bu3f
-  2868. healthline.com##.icon-hl-facebook.css-191bu3f
-  2869. mayoclinic.org##.cmp-icon.icon__twitter.left-aligned
-  2870. mayoclinic.org##.cmp-icon.icon__youtube.left-aligned
-  2871. mayoclinic.org##.cmp-icon.icon__facebook.left-aligned
-  2872. mayoclinic.org##.cmp-icon.icon__instagram.left-aligned
-  2873. smithsonianmag.com##.home-newsletter
-  2874. smithsonianmag.com##.renew-btn-alternate
-  2875. smithsonianmag.com##.subscribe-btn
-  2876. smithsonianmag.com##.fab.fa-twitter
-  2877. smithsonianmag.com##.separator
-  2878. smithsonianmag.com##.in-article-newsletter.history
-  2879. smithsonianmag.com##.in-article-newsletter
-  2880. ||crpdgolf.com/wp-content/uploads/2022/04/Social-Logos_White-Web_Facebook.png
-  2881. ||crpdgolf.com/wp-content/uploads/2022/04/Social-Logos_White-Web_Instagram.png
-  2882. ||crpdgolf.com/wp-content/uploads/2022/04/Social-Logos_White-Web_Twitter.png
-  2883. shopify.com##.block.h-8.w-8.fill-black.hover:fill-shade-70
-  2884. shopify.com##.relative.inset-x-0.top-0.flex.items-center.justify-center.overflow-hidden.z-20.deafult:text-black.default:bg-shopify-green-10
-  2885. shopify.com##.block.h-8.w-8.fill-white.hover:fill-shade-30
-  2886. theguardian.com##.message-component.message-row.gu-content
-  2887. reuters.com##.site-footer__social__1LJQI
-  2888. reuters.com##.newsletter-card__container__x9CMX.right_rail.newsletters-row__card__3cq_N
-  2889. ||cloudfront-us-east-2.images.arcpublishing.com/reuters/LGPI5ZGLQZHD7CMN4K5OCNT5RQ.png
-  2890. bloomberg.com###immersive-desktop-43076-4
-  2891. bloomberg.com##.BaseAd_baseAd-dXBqvbLRJy0-.FullWidthAd_fullWidthAd-waQ2dCOMRb8-.ImmersiveAd_immersive-DKpmbm3v2oE-.ad_newDesktopImmersive__WkVZl
-  2892. bloomberg.com##.navi-bar__button.navi-bar__button--subscribe.navi-subscribe-link
-  2893. bloomberg.com###ecogov_newsletters_1
-  2894. bloomberg.com##.styles_rightRail__qFoZx.styles_StoryListTrending__MmhnW
-  2895. bloomberg.com###tech_newsletter
-  2896. bloomberg.com##.styles_NewsletterDefault__E0tsz
-  2897. bloomberg.com##.BaseAd_baseAd-dXBqvbLRJy0-.BaseAd_adPlaceholder-W4Hid5G045M-.BoxAd_boxAd-rTusT9mNmWo-
-  2898. bloomberg.com##.StoryCardSmall_adWrapper_3-3-7-T31Su
-  2899. kayak.com##.react-social-media-sites__icon
-  2900. expedia.com##.uitk-menu-container.animation-disabled.uitk-menu-open.uitk-menu-pos-right.uitk-menu-container-autoposition.uitk-menu-container-has-intersection-root-el
-  2901. expedia.com##.uitk-card-placeholder.uitk-card-placeholder-animate-from-light.uitk-card.uitk-card-roundcorner-all.uitk-card-empty.uitk-card-placeholder-ratio-1-3
-  2902. expedia.com##.ot-sdk-row
-  2903. booking.com##.a826ba81c4.fa2f36ad22.afd256fc79.d08f526e0d.ed11e24d01.ef9845d4b3.bd09386e88
-  2904. homedepot.com###messageBar
-  2905. homedepot.com##.MessageBar.MessageBar--web
-  2906. lowes.com##.sc-eDvSVe.bCoIih
-  2907. lowes.com##.c5r4s8_engage-common-0.eAQGAJ
-  2908. lowes.com##.sc-krih58-3.jpwhhm
-  2909. target.com##.styles__MediaContainer-sc-vbvkc1-1.jlxyDU.h-display-flex.h-flex-justify-space-between
-  2910. houzz.com##.hzFooter--icon.hzi-font.hzi-Twitter-Circle
-  2911. houzz.com##.hzFooter--icon.hzi-font.hzi-Facebook-Circle
-  2912. houzz.com##.hzFooter--icon.hzi-font.hzi-Youtube-Circle
-  2913. autotrader.com##.icon-bar.margin-vertical-5
-  2914. caranddriver.com##.css-1v5xah6.emkv89h0
-  2915. allrecipes.com##.loc.newsletter-link-wrapper.utility-nav__newsletter.utility-nav__full-menu-item
-  2916. foodnetwork.com##.o-Capsule__a-Input.a-Input
-  2917. foodnetwork.com##.o-Capsule__a-Button.a-Button
-  2918. foodnetwork.com##.o-Newsletter__a-Description
-  2919. foodnetwork.com###mod-newsletter-1
-  2920. foodnetwork.com##.o-Capsule.o-Newsletter
-  2921. epicurious.com##.newsletter.fullwidth
-  2922. ||s.gr-assets.com/assets/site_footer/footer_instagram-d59e3887020f12bcdb12e6c539579d85.svg
-  2923. ||s.gr-assets.com/assets/site_footer/footer_twitter-126b3ee80481a763f7fccb06ca03053c.svg
-  2924. ||s.gr-assets.com/assets/site_footer/footer_facebook-ea4ab848f8e86c5f5c98311bc9495a1b.svg
-  2925. goodreads.com##.Overlay.Overlay--floating
-  2926. goodreads.com##.Icon.InstagramIcon
-  2927. goodreads.com##.Icon.TwitterIcon
-  2928. goodreads.com##.Icon.FacebookIcon
-  2929. entrepreneur.com##.rounded-full.inline-flex.justify-center.items-center.hover:shadow-md.text-gray-800.bg-gray-100.hover:bg-gray-200.mx-1.h-12.w-12.share-snapchat
-  2930. entrepreneur.com##.flex.flex-col.lg:flex-row.lg:justify-center
-  2931. entrepreneur.com##.items-center.border.text-lg.font-medium.text-black.bg-yellow-300.hover:bg-yellow-400.focus:outline-white.focus:outline-offset-2.focus:outline-slate-900.active:bg-yellow-400.border-transparent.shadow-md.rounded-md.w-auto.py-3.px-3.sm:px-6.mx-2.hidden.md:flex.subButton.inline-flex
-  2932. entrepreneur.com###top-subs-promo
-  2933. entrepreneur.com##.w-full.border-b.border-gray-200.py-4.bg-gray-100.text-center.font-medium.mx-auto
-  2934. entrepreneur.com###anchorcontainer
-  2935. entrepreneur.com##.fixed.-bottom-[50px].sm:-bottom-[90px].transition-all.w-full.box-content.bg-gray-100.border-t-2.border-gray-200.h-[50px].sm:h-[90px].py-2.z-10
-  2936. coursera.org##.banner-alert.isLohp
-  2937. zoom.us##.twitter
-  2938. zoom.us##.youtube-play
-  2939. zoom.us##.facebook
-  2940. zoom.us##.instagram
-  2941. asana.com##.css-1t2ep54.e1u7ykqd5
-  2942. 500px.com##.StyledLayout__Box-b9gazd-0.dtaski
-  2943. deviantart.com##._1LNZO.XN05V._2Och2._2HvYQ._1rFXc._3Cbmi
-  2944. deviantart.com##.ldkIM
-  2945. asos.com##._3oMZ131
-  2946. zara.com##.ot-sdk-container
-  2947. zara.com###onetrust-banner-sdk
-  2948. zara.com##.otFloatingRoundedCorner.ot-bottom-left.ot-wo-title
-  2949. nordstrom.com##._sx96
-  2950. nordstrom.com##._wqmZ
-  2951. www2.hm.com##.ot-sdk-container
-  2952. www2.hm.com##.zijP
-  2953. sephora.com##.css-rzwxtl
-  2954. sephora.com##.css-1q0bpb9
-  2955. ikea.com##.ot-sdk-row
-  2956. discogs.com##.icon.icon-twitter
-  2957. discogs.com##.icon.icon-youtube
-  2958. discogs.com##.icon.icon-instagram
-  2959. discogs.com##.icon.icon-pinterest
-  2960. lonelyplanet.com##.mb-4.text-sm.font-semibold.uppercase
-  2961. lonelyplanet.com##.flex.space-x-4.lg:space-x-2
-  2962. lonelyplanet.com##.hidden.w-12.lg:block.pr-3.lg:pr-0.text-sm.font-semibold.text-center.lg:pb-2
-  2963. lonelyplanet.com##.border.border-black-200.border-r-0.lg:border-b-0.flex.lg:flex-col.lg:w-12
-  2964. us.trip.com##.mc-ft__social-item.social-icon-facebook
-  2965. us.trip.com##.mc-ft__social-item.social-icon-instagram
-  2966. us.trip.com##.mc-ft__social-item.social-icon-youtube
-  2967. us.trip.com##.gguide
-  2968. us.trip.com##.oh-pwa
-  2969. weather.com##.AccountLinks--accountButton--3orCZ.Button--default--2gfm1
-  2970. weather.com##.Footer--socialContainer--3z8CW
-  2971. imgur.com##.EmeraldButton.Button
-  2972. adblockplus.org##.cookiebar-nav
-  2973. adblockplus.org##.cookiebar-text
-  2974. dictionary.com##.svg-inline--fa.fa-instagram.SocialLinks-module_social_f39af12b409a20858b1e
-  2975. dictionary.com##.svg-inline--fa.fa-pinterest-p.SocialLinks-module_social_f39af12b409a20858b1e
-  2976. dictionary.com##.svg-inline--fa.fa-youtube.SocialLinks-module_social_f39af12b409a20858b1e
-  2977. dictionary.com##.Cl8rAJN4wBETC2TTA2vN
-  2978. dictionary.com##.s3vhSLXHRujbrXyT_upA
-  2979. thesaurus.com##.svg-inline--fa.fa-instagram.SocialLinks-module_social_f39af12b409a20858b1e
-  2980. thesaurus.com##.svg-inline--fa.fa-pinterest-p.SocialLinks-module_social_f39af12b409a20858b1e
-  2981. thesaurus.com##.svg-inline--fa.fa-youtube.SocialLinks-module_social_f39af12b409a20858b1e
-  2982. thesaurus.com##.VjF9Im9IWGOADVNZpYcq
+  2297. engadget.com##.rwd-outer-container.W(100vw).D(f).Jc(sa).Bgc(engadgetGray).Bgc(engadgetSteelGray)--md
+  2298. garagesalefinder.com##.reveal-modal-bg
+  2299. garagesalefinder.com###subscribeForm
+  2300. garagesalefinder.com##.subscribe.subscribeForm.reveal-modal.small.fndt.open
+  2301. garagesalefinder.com##.top-map-ad
+  2302. garagesalefinder.com##.share-buttons
+  2303. theodinproject.com##.flex.space-x-6
+  2304. tutorialspoint.com##.bg-primary.bg-opacity-10.rounded-3.p-5.h-100
+  2305. stanford.edu##.fa.fa-youtube-play
+  2306. stanford.edu##.fa.fa-twitter
+  2307. stanford.edu##.fa.fa-facebook-square
+  2308. stanford.edu##.fa.fa-instagram
+  2309. cam.ac.uk##.icon.social.icon-facebook
+  2310. cam.ac.uk##.icon.social.icon-instagram
+  2311. cam.ac.uk##.icon.social.icon-twitter
+  2312. cam.ac.uk##.icon.social.icon-youtube
+  2313. cam.ac.uk##.icon.social.icon-tiktok
+  2314. caltech.edu##.connect-with-us-block__icons__icon.connect-with-us-block__icons__icon--facebook
+  2315. caltech.edu##.connect-with-us-block__icons__icon.connect-with-us-block__icons__icon--twitter
+  2316. caltech.edu##.connect-with-us-block__icons__icon.connect-with-us-block__icons__icon--instagram
+  2317. caltech.edu##.connect-with-us-block__icons__icon.connect-with-us-block__icons__icon--youtube
+  2318. edx.org##.ot-sdk-row
+  2319. princeton.edu##.menu-item.sprite-before.facebook
+  2320. princeton.edu##.menu-item.sprite-before.twitter
+  2321. princeton.edu##.menu-item.sprite-before.instagram
+  2322. princeton.edu##.menu-item.sprite-before.snapchat
+  2323. princeton.edu##.menu-item.sprite-before.youtube
+  2324. princeton.edu##.menu-item.sprite-before.social-media-directory
+  2325. uchicago.edu##.fa.fa-youtube.Footer_socialIcon___4mnL
+  2326. uchicago.edu##.fa.fa-twitter.Footer_socialIcon___4mnL
+  2327. uchicago.edu##.fa.fa-instagram.Footer_socialIcon___4mnL
+  2328. uchicago.edu##.fa.fa-facebook.Footer_socialIcon___4mnL
+  2329. ||u-tokyo.ac.jp/content/100074655.jpg
+  2330. ||u-tokyo.ac.jp/content/100074651.jpg
+  2331. ||u-tokyo.ac.jp/content/100074629.jpg
+  2332. utoronto.ca##.footer-social-icons-wrapper
+  2333. imperial.ac.uk##.ot-sdk-row
+  2334. unimelb.edu.au##.tealium_explicit_consent_inner_section
+  2335. unimelb.edu.au##.page-footer-alt__social-item
+  2336. ||nus.edu.sg/images/default-source/base/facebook.png
+  2337. ||nus.edu.sg/images/default-source/base/twitter.png
+  2338. ||nus.edu.sg/images/default-source/base/instagram.png
+  2339. ||nus.edu.sg/images/default-source/base/youtube.png
+  2340. ||nus.edu.sg/images/default-source/icons/ico-white-wechat.png
+  2341. yardsales.net##.reveal-modal-bg
+  2342. yardsales.net###subscribeForm
+  2343. yardsales.net##.subscribe.subscribeForm.reveal-modal.small.fndt.open
+  2344. yardsales.net##.share-buttons
+  2345. yardsales.net##.box.text-center
+  2346. ucsb.edu##.columns.columns-3
+  2347. unc.edu##.widget.widget_unc_social_media_links
+  2348. unc.edu##.social-icons.has-video
+  2349. unimelb.edu.au##.tealium_privacy_prompt.tealium_explicit_consent
+  2350. ||ucdavis.edu/sites/default/files/2021-05/tiktok-icon-branded.svg
+  2351. ||ucdavis.edu/sites/default/files/2021-05/youtube-icon-branded.svg
+  2352. ||ucdavis.edu/sites/default/files/2021-05/twitter-icon-branded.svg
+  2353. ||ucdavis.edu/sites/default/files/2021-05/instagram-icon-branded.svg
+  2354. ||ucdavis.edu/sites/default/files/2021-05/facebook-icon-branded_0.svg
+  2355. ||ucdavis.edu/sites/default/files/2023-03/giphy-icon-branded.svg
+  2356. bristol.ac.uk##.NonGrid-module--social--1hCac
+  2357. sydney.edu.au##.b-icon.b-icon--align-top.b-component--md-tighter.b-icon--social-media.b-icon--twitter
+  2358. sydney.edu.au##.b-icon.b-icon--align-top.b-component--md-tighter.b-icon--social-media.b-icon--facebook
+  2359. sydney.edu.au##.b-icon.b-icon--align-top.b-component--md-tighter.b-icon--social-media.b-icon--instagram
+  2360. sydney.edu.au##.b-icon.b-icon--align-top.b-component--md-tighter.b-icon--social-media.b-icon--youtube
+  2361. sydney.edu.au##.b-text--colour-dark.b-text--font-label.b-text--nowrap.b-text--vertical
+  2362. ucsc.edu##.social-media
+  2363. ucr.edu##.mdi.mdi-facebook-box
+  2364. ucr.edu##.mdi.mdi-music-box
+  2365. ucr.edu##.mdi.mdi-instagram
+  2366. ucr.edu##.mdi.mdi-youtube-play
+  2367. ucr.edu##.mdi.mdi-twitter-box
+  2368. ubc.ca##.icon-instagram-sign
+  2369. ubc.ca##.icon-twitter-sign
+  2370. ubc.ca##.icon-youtube
+  2371. ubc.ca##.social-media-icon-link
+  2372. uq.edu.au##.uq-footer__meta-icons--facebook.uq-footer__meta-icons.gtm-processed
+  2373. uq.edu.au##.uq-footer__meta-icons--twitter.uq-footer__meta-icons.gtm-processed
+  2374. uq.edu.au##.uq-footer__meta-icons--youtube.uq-footer__meta-icons.gtm-processed
+  2375. uq.edu.au##.uq-footer__meta-icons--instagram.uq-footer__meta-icons.gtm-processed
+  2376. uva.nl##.icon.icon--solo
+  2377. uva.nl##.c-socialfollow__title
+  2378. helsinki.fi##.hy-footer-base__some
+  2379. auckland.ac.nz##.offset-md-3.offset-xl-6.col-md-9.col-xl-6
+  2380. uzh.ch##.FooterSocialMediaList
+  2381. ku.dk##.icon.icon-facebook
+  2382. ku.dk##.icon.icon-instagram
+  2383. ku.dk##.icon.icon-twitter
+  2384. ku.dk##.icon.icon-youtube
+  2385. kcl.ac.uk###onetrust-group-container
+  2386. kcl.ac.uk##.ot-sdk-twelve.ot-sdk-columns
+  2387. kcl.ac.uk##.footer__connect-with-us
+  2388. univie.ac.at##.icon-facebook
+  2389. univie.ac.at##.icon-instagram
+  2390. univie.ac.at##.icon-youtube
+  2391. univie.ac.at##.icon-twitter
+  2392. ||snu.ac.kr/_skin/kor/layout/image/footer-facebook_lg.png
+  2393. ||snu.ac.kr/_skin/kor/layout/image/footer-youtube_lg.png
+  2394. ||snu.ac.kr/_skin/kor/layout/image/footer-instagram_lg.png
+  2395. manchester.ac.uk##.fourcol.last
+  2396. ||marketing-pages.anu.edu.au/_anu/images/share/youtube.png
+  2397. ||marketing-pages.anu.edu.au/_anu/images/share/twitter.png
+  2398. ||marketing-pages.anu.edu.au/_anu/images/share/facebook.png
+  2399. uio.no###vrtx-main-content-17
+  2400. uio.no##.vrtx-frontpage-box.vrtx-more-false.grey-box
+  2401. ||web.ub.edu/documents/2685349/2686580/Twitter.svg/ceffd793-045e-aa9f-798c-1e1711eac88c?t=1662540803879
+  2402. ||web.ub.edu/documents/2685349/2686580/Instagram.svg/7a2e1bad-0842-d3f1-065c-04899bc3f582?t=1662540803573
+  2403. ||web.ub.edu/documents/2685349/2686580/Facebook.svg/60ce83b7-72e4-4180-17d6-13c87b7230dc?t=1662540804143
+  2404. ||web.ub.edu/documents/2685349/2686580/Tik.svg/f7dcb68f-141f-c925-f798-ea539dbbdafa?t=1669210135534
+  2405. ||web.ub.edu/documents/2685349/2686580/Youtube.svg/97b61596-a3f6-1297-30f3-41bf5f9b37c3?t=1662540803381
+  2406. lmu.de##.footer__navigation-list-link
+  2407. kyoto-u.ac.jp###block-sns-link
+  2408. kyoto-u.ac.jp##.sns-link-block.block.block-block-content.block-block-content2bdc5a4f-0816-4596-b81d-ab9ed03c7c0d.block--bundle-basic
+  2409. umich.edu##.fab.fa-facebook-f
+  2410. umich.edu##.fab.fa-twitter
+  2411. umich.edu##.fab.fa-youtube
+  2412. umich.edu##.fab.fa-instagram
+  2413. ucla.edu##.social-icon--facebook
+  2414. ucla.edu##.social-icon--instagram
+  2415. ucla.edu##.social-icon--twitter
+  2416. ucla.edu##.social-icon--youtube
+  2417. ucla.edu##.social-icon--tiktok
+  2418. ucla.edu##.social-icon--snapchat
+  2419. ucla.edu##.social-icon
+  2420. wisc.edu###uw-icon-facebook
+  2421. wisc.edu###uw-icon-twitter
+  2422. wisc.edu###uw-icon-youtube
+  2423. wisc.edu##.last
+  2424. wisc.edu###uw-icon-instagram
+  2425. illinois.edu##.ot-sdk-row
+  2426. ||utexas.edu/sites/all/themes/utexas/img/general/what-starts-here-hover.jpg
+  2427. utexas.edu##.icon-wrap
+  2428. uci.edu##.uci-icon-list
+  2429. usc.edu###menu-item-1741
+  2430. usc.edu##.icon-only-facebook-white.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-1741
+  2431. usc.edu###menu-item-1744
+  2432. usc.edu##.icon-only-instagram-white.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-1744
+  2433. usc.edu###menu-item-1740
+  2434. usc.edu##.icon-only-twitter-white.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-1740
+  2435. usc.edu###menu-item-1739
+  2436. usc.edu##.icon-only-youtube-white.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-1739
+  2437. ||alumni.unc.edu/wp-content/themes/unc_gaa_theme/images/framework/brand_svgs/facebook-f.svg
+  2438. ||alumni.unc.edu/wp-content/themes/unc_gaa_theme/images/framework/brand_svgs/twitter.svg
+  2439. ||alumni.unc.edu/wp-content/themes/unc_gaa_theme/images/framework/brand_svgs/instagram.svg
+  2440. ||alumni.unc.edu/wp-content/themes/unc_gaa_theme/images/framework/brand_svgs/tiktok.svg
+  2441. ||alumni.unc.edu/wp-content/themes/unc_gaa_theme/images/framework/brand_svgs/youtube.svg
+  2442. alumni.unc.edu##.full_width_wrapper.background_bright_blue.mm_mc_social_bar_basic_wrapper.module_wrapper.parallax_background_image.clearfix
+  2443. umd.edu##.list-inline.social-links.text-center.hidden-xs.hidden-sm
+  2444. twin-cities.umn.edu##.social-menu__link.fb
+  2445. twin-cities.umn.edu##.social-menu__link.in
+  2446. twin-cities.umn.edu##.social-menu__link.tiktok
+  2447. twin-cities.umn.edu##.social-menu__link.tw
+  2448. twin-cities.umn.edu##.social-menu__link.yt
+  2449. canva.com##.e6nTMQ
+  2450. ||forms.visme.co/formsPlayer/_embed/pv4kwj94-visme-blog-newsletter-signup?fullPage=true
+  2451. visme.co##.visme-shortcode.visme-cta-signup.visme-shortcode--normal.visme-shortcode--dark.visme-cta-signup--has-image
+  2452. visme.co##.cta_button_container.f
+  2453. visme.co##.padding-container
+  2454. ||blog.visme.co/wp-content/themes/blog/img/03_sidebar_design.png
+  2455. visme.co##.box-info.last-box
+  2456. about.easil.com##.tw-list-reset.tw-leading-normal.tw-mb-8
+  2457. snappa.com##.soc-icns
+  2458. create.vista.com##.policy-banner__inner
+  2459. create.vista.com##.bottom-block__social-list-item
+  2460. getstencil.com##.social.float-right
+  2461. picmonkey.com##.styles-module--social_navigation--J3n4p
+  2462. airtable.com##.FooterNav-module_navLink__3g9pM.BkLink-module_bkLink__2Rqnp.BkLink-module_prependedIcon__10Bl-
+  2463. zapier.com##.css-9oyo18.e1k4zq0k0
+  2464. zapier.com##.css-fwyq30
+  2465. zapier.com##.css-tc01hv
+  2466. zapier.com##.css-v5jf9x
+  2467. zapier.com##.css-vcdjtr
+  2468. zapier.com##.css-oe00k0
+  2469. zapier.com##.css-1crv5ql
+  2470. zapier.com##.css-1xtho2l
+  2471. mulesoft.com##.icon-muletheme-twitter
+  2472. mulesoft.com##.icon-muletheme-instagram
+  2473. mulesoft.com##.icon-muletheme-facebook
+  2474. mulesoft.com##.icon-muletheme-videos
+  2475. mulesoft.com##.icon-muletheme-twitch
+  2476. ||the-numbers.com/images/icons/instagram_TN.svg
+  2477. ||the-numbers.com/images/icons/tiktok_TN.svg
+  2478. thesaurus.com##.TeixwVbjB8cchva8bDlg
+  2479. mecabricks.com###advertising
+  2480. crunchbase.com##.social-media-list
+  2481. ycombinator.com##.flex.space-x-6.md:order-2
+  2482. yourstory.com##.sc-jPgKOH.dfqkUF
+  2483. yourstory.com##.sc-kmzTNl.gKexCq
+  2484. ziprecruiter.com##.facebook
+  2485. ziprecruiter.com##.twitter
+  2486. ziprecruiter.com##.instagram
+  2487. roberthalf.com##.onetrust-pc-dark-filter.ot-fade-in
+  2488. roberthalf.com###onetrust-group-container
+  2489. roberthalf.com##.ot-sdk-twelve.ot-sdk-columns
+  2490. roberthalf.com##.ot-floating-button__open
+  2491. roberthalf.com##.ot-floating-button__front.custom-persistent-icon
+  2492. roberthalf.com##.nav-link.rh-footer__nav-link.rh-footer__social-nav-link.social.facebook
+  2493. roberthalf.com##.nav-link.rh-footer__nav-link.rh-footer__social-nav-link.social.twitter
+  2494. roberthalf.com##.nav-link.rh-footer__nav-link.rh-footer__social-nav-link.social.youtube
+  2495. roberthalf.com##.nav-link.rh-footer__nav-link.rh-footer__social-nav-link.social.instagram
+  2496. careerbuildercareers.com##.fa.fa-facebook
+  2497. job.com##.css-1hupo3l-S_a_link.eufl5ki0
+  2498. hiring.monster.com##.exit-strategy-popup-container
+  2499. hiring.monster.com###exit-strategy-popup
+  2500. hiring.monster.com##.exit-strategy-popup.track.visible
+  2501. hiring.monster.com##.menu.flex.mx-0.mt-0.mb-30.p-0.text-left.tablet-portrait-max:items-center.tablet-portrait-max:justify-evenly.tablet-portrait-max:my-30.tablet-portrait-max:text-center.container
+  2502. quadeducationgroup.com##.webinar-popup-overlay
+  2503. quadeducationgroup.com##.webinar-popup
+  2504. quadeducationgroup.com##.exit-popup-overlay
+  2505. quadeducationgroup.com##.exit-popup-inner
+  2506. fairygodboss.com##.grid-column__StyledColumn-sc-1daj0ht-0.dhzASz.CookiesBanner___StyledGridColumn-sc-1enj51e-2.ifWMmI
+  2507. fairygodboss.com##.View__Styled-sc-tbps05-0.gNBMWA
+  2508. ||hired.com/assets/unity/instagram-ae207a980317d003a119eee6b75338e29ff4fdda9bcdc54d1770701e356ceb00.svg
+  2509. ||hired.com/assets/unity/twitter-bdf41d71beea12b12242eccc247889680a23274481b0000241b62d27e7f16c0e.svg
+  2510. ||hired.com/assets/unity/facebook-8b29b9b02808fa40cd6520202beb62506a9f7c99e10ee53c121f59129ed4cf8d.svg
+  2511. idealist.org##.sc-1pfcxqe-0.iXuioE
+  2512. mediabistro.com##.fa.fa-instagram
+  2513. mediabistro.com##.fa.fa-twitter
+  2514. mediabistro.com##.fa.fa-facebook
+  2515. ||careersherpa.net/wp-content/themes/sherpa/images/SocialDefault.png
+  2516. careersherpa.net##.icon-facebook
+  2517. careersherpa.net##.icon-twitter
+  2518. careersherpa.net###enews-ext-2
+  2519. careersherpa.net##.widget.enews-widget
+  2520. linkup.com##.flex.items-center.justify-center.p-[6px].rounded-full.border.hover:text-blue.focus:text-blue
+  2521. youtube.com##.ytp-button.ytp-suggested-action-badge.ytp-suggested-action-badge-with-controls.ytp-suggested-action-badge-expanded.ytp-suggested-action-badge-content-forward
+  2522. capturacorp.com##.fab.fa-twitter
+  2523. capturacorp.com##.fab.fa-facebook-f
+  2524. capturacorp.com##.fab.fa-youtube
+  2525. godaddy.com##.list-inline.social-media-links
+  2526. godaddy.com##.m13a91nw
+  2527. chilimath.com##.bmc-btn
+  2528. ||byjus-m6esco4vh.whjr.dev/images/socials/inst.svg?auto=format&fit=max&w=64
+  2529. ||byjus-m6esco4vh.whjr.dev/images/socials/yt.svg?auto=format&fit=max&w=64
+  2530. ||byjus-m6esco4vh.whjr.dev/images/socials/twitter.svg?auto=format&fit=max&w=64
+  2531. ||byjus-m6esco4vh.whjr.dev/images/socials/fb.svg?auto=format&fit=max&w=64
+  2532. byjus.com##.text-white.font-bold.uppercase.mb-3
+  2533. tynker.com##.button.secondary.margin-bottom-0
+  2534. tynker.com##.bfs-fixed-banner
+  2535. dictionary.com##.atw-socials
+  2536. thesaurus.com##.fa.fa-twitter
+  2537. thesaurus.com##.fa.fa-facebook
+  2538. dictionary.com##.css-mut7y8.ej78dbk1
+  2539. collinsdictionary.com##.f-b.logo-reseaux.top
+  2540. freethesaurus.com##.facebook
+  2541. freethesaurus.com##.twitter
+  2542. dictionary.cambridge.org##.pr.bo.lp-20.lpt-25.lmb-25
+  2543. dictionary.cambridge.org##.hdn.hdib-m.hul-u.hul-ib.lmb-0.lpl-20.lp-xs_l-25.han.hax
+  2544. dictionary.cambridge.org##.ot-sdk-row
+  2545. dictionary.cambridge.org##.hfl.hax.htc.tc-w.lc1.lc-xsa.lb-ch.lbb0-xs.lpt-10.lp-xs_t-0
+  2546. dictionaryblog.cambridge.org###menu-item-7617
+  2547. dictionaryblog.cambridge.org##.follow.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-7617.focus
+  2548. dictionaryblog.cambridge.org###menu-item-7616
+  2549. dictionaryblog.cambridge.org##.facebook.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-7616.focus
+  2550. dictionaryblog.cambridge.org###menu-item-7615
+  2551. dictionaryblog.cambridge.org##.twitter.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-7615
+  2552. dictionary.cambridge.org##.pr.hdib.i.i-facebook.lp-5.lmr-10
+  2553. dictionary.cambridge.org##.hfr.lpt-5
+  2554. dictionary.cambridge.org##.hfr.lpt-10
+  2555. dictionary.cambridge.org##.hfr.lpb-2
+  2556. dictionary.cambridge.org##.i.i-facebook.fs16
+  2557. dictionary.cambridge.org##.i.i-instagram.fs16
+  2558. dictionary.cambridge.org##.i.i-twitter.fs16
+  2559. getty.edu##.g-footer__social
+  2560. macmillanthesaurus.com##.ot-sdk-row
+  2561. macmillanthesaurus.com##.col-xs-12.col-sm-4.start-sm.center-xs
+  2562. ||cdn.loc.gov/images/img-foot/youtube.gif
+  2563. ||cdn.loc.gov/images/img-foot/twitter.gif
+  2564. ||cdn.loc.gov/images/img-foot/facebook.gif
+  2565. ||cdn.loc.gov/images/img-foot/pinterest.gif
+  2566. eige.europa.eu##.facebook
+  2567. eige.europa.eu##.twitter
+  2568. eige.europa.eu##.youtube
+  2569. eige.europa.eu##.wt-link.wtShare.wtSocialNetworkLink.wt_twitter.unselected
+  2570. percentagecalculator.guru##.fab.fa-youtube
+  2571. percentagecalculator.guru##.fab.fa-twitter
+  2572. percentagecalculator.guru##.fab.fa-facebook-f
+  2573. calculat.io##.calc67-container.--vertical.vertical-300x300
+  2574. calculat.io##.calc67-container.calc67--1.sticky-calc67.mb--1_5.--adblock
+  2575. calculat.io##.calc67-container.calc67--1.sticky-calc67.mb--1_5
+  2576. mathsolver.microsoft.com##.ItemSection_sectionTitle__vSxKo
+  2577. mathsolver.microsoft.com##.ItemSection_itemSection__lnxRj
+  2578. nintendo.com##.Footerstyles__BrandBar-sc-oetfq2-15.bykGfZ
+  2579. open.spotify.com##.SocialLinks__SocialContainer-sc-kqbr2e-0.lebRvI
+  2580. ted.com##.mb-10.flex.flex-row.gap-5
+  2581. tripadvisor.com##.QnnKe.z
+  2582. tripadvisor.com##.ZkqhQ.Gi.B1.Z.BB.Cj.Za
+  2583. tripadvisor.com##.zlkck.A
+  2584. webmd.com##.social-media-wrap
+  2585. codevocab.com##.footer-social-inner-wrap.element-social-inner-wrap.social-show-label-false.ast-social-color-type-official.ast-social-stack-none.ast-social-element-style-filled
+  2586. app.grammarly.com##._bebd3200-business_banner-banner
+  2587. mashable.com##.px-3.hover:text-primary-400
+  2588. mashable.com##.flex.overflow-hidden.relative.flex-col.items-end.px-4.mx-auto.mt-12.md:flex-row.max-w-9xl.bg-warmgray-100
+  2589. mashable.com##.px-4.hover:text-primary-400
+  2590. theverge.com##.rounded-full.bg-white.transition.hover:bg-black
+  2591. theverge.com##.dfp_ad--full-width.dfp_ad--outbrain.outbrain_feature
+  2592. theverge.com##.duet--cta--newsletter.flex.w-full.flex-col.border-t.px-12.pt-16.font-polysans-mono.text-14.font-light.leading-130.-tracking-2.md:text-15.text-blurple.border-blurple
+  2593. theverge.com##.duet--article--share-buttons.flex.leading-[0]
+  2594. theverge.com##.dfp_ad--full-width.dfp_ad--outbrain.outbrain_article
+  2595. pcmag.com##.hover:text-gray-darkest.inline-block
+  2596. pcmag.com##.flex.items-end
+  2597. pcmag.com##.rounded.bg-gray-lightest.text-center.md:px-32.md:py-8.p-4.mt-8.container-xs
+  2598. cnet.com##.c-newsletterSubscribe.g-grid-container.g-inner-spacing-bottom-medium.g-inner-spacing-top-xlarge.g-border-thin-dark-top.g-outer-spacing-bottom-large
+  2599. cnet.com##.c-newsletterSticky
+  2600. cnet.com##.c-globalAuthor_twitter.u-flexbox.u-flexbox-alignCenter.u-flexbox-alignSelfCenter
+  2601. info.wrightsmedia.com##.footer-social-icons
+  2602. cnet.com##.social-link.twitter
+  2603. cnet.com##.social-link.facebook
+  2604. cnet.com##.social-link.tiktok
+  2605. cnet.com##.social-link.youtube
+  2606. cnet.com##.social-link.instagram
+  2607. engadget.com##.Bgc(white).W(100vw).D(f).Ai(st).Pos(r).Z(1).Jc(c).M(MarginCenter)
+  2608. engadget.com##.Bdstartw(1px).Bdc(engadgetFontGray).Bdstarts(s).Mstart(15px).Pstart(20px)
+  2609. engadget.com###LB-MULTI_ATF
+  2610. engadget.com##.Pb(25px).Pt(25px).D(f).Ai(c).Jc(c).Z(100).Flxg(1).Mih(90px)
+  2611. healthline.com##.css-145tu44.css-1azb1jl
+  2612. healthline.com##.icon-hl-instagram.css-191bu3f
+  2613. healthline.com##.icon-hl-pinterest.css-xveias
+  2614. healthline.com##.icon-hl-twitter.css-191bu3f
+  2615. healthline.com##.icon-hl-facebook.css-191bu3f
+  2616. mayoclinic.org##.cmp-icon.icon__twitter.left-aligned
+  2617. mayoclinic.org##.cmp-icon.icon__youtube.left-aligned
+  2618. mayoclinic.org##.cmp-icon.icon__facebook.left-aligned
+  2619. mayoclinic.org##.cmp-icon.icon__instagram.left-aligned
+  2620. smithsonianmag.com##.home-newsletter
+  2621. smithsonianmag.com##.renew-btn-alternate
+  2622. smithsonianmag.com##.subscribe-btn
+  2623. smithsonianmag.com##.fab.fa-twitter
+  2624. smithsonianmag.com##.separator
+  2625. smithsonianmag.com##.in-article-newsletter.history
+  2626. smithsonianmag.com##.in-article-newsletter
+  2627. ||crpdgolf.com/wp-content/uploads/2022/04/Social-Logos_White-Web_Facebook.png
+  2628. ||crpdgolf.com/wp-content/uploads/2022/04/Social-Logos_White-Web_Instagram.png
+  2629. ||crpdgolf.com/wp-content/uploads/2022/04/Social-Logos_White-Web_Twitter.png
+  2630. shopify.com##.block.h-8.w-8.fill-black.hover:fill-shade-70
+  2631. shopify.com##.relative.inset-x-0.top-0.flex.items-center.justify-center.overflow-hidden.z-20.deafult:text-black.default:bg-shopify-green-10
+  2632. shopify.com##.block.h-8.w-8.fill-white.hover:fill-shade-30
+  2633. theguardian.com##.message-component.message-row.gu-content
+  2634. reuters.com##.site-footer__social__1LJQI
+  2635. reuters.com##.newsletter-card__container__x9CMX.right_rail.newsletters-row__card__3cq_N
+  2636. ||cloudfront-us-east-2.images.arcpublishing.com/reuters/LGPI5ZGLQZHD7CMN4K5OCNT5RQ.png
+  2637. bloomberg.com###immersive-desktop-43076-4
+  2638. bloomberg.com##.BaseAd_baseAd-dXBqvbLRJy0-.FullWidthAd_fullWidthAd-waQ2dCOMRb8-.ImmersiveAd_immersive-DKpmbm3v2oE-.ad_newDesktopImmersive__WkVZl
+  2639. bloomberg.com##.navi-bar__button.navi-bar__button--subscribe.navi-subscribe-link
+  2640. bloomberg.com###ecogov_newsletters_1
+  2641. bloomberg.com##.styles_rightRail__qFoZx.styles_StoryListTrending__MmhnW
+  2642. bloomberg.com###tech_newsletter
+  2643. bloomberg.com##.styles_NewsletterDefault__E0tsz
+  2644. bloomberg.com##.BaseAd_baseAd-dXBqvbLRJy0-.BaseAd_adPlaceholder-W4Hid5G045M-.BoxAd_boxAd-rTusT9mNmWo-
+  2645. bloomberg.com##.StoryCardSmall_adWrapper_3-3-7-T31Su
+  2646. kayak.com##.react-social-media-sites__icon
+  2647. expedia.com##.uitk-menu-container.animation-disabled.uitk-menu-open.uitk-menu-pos-right.uitk-menu-container-autoposition.uitk-menu-container-has-intersection-root-el
+  2648. expedia.com##.uitk-card-placeholder.uitk-card-placeholder-animate-from-light.uitk-card.uitk-card-roundcorner-all.uitk-card-empty.uitk-card-placeholder-ratio-1-3
+  2649. expedia.com##.ot-sdk-row
+  2650. booking.com##.a826ba81c4.fa2f36ad22.afd256fc79.d08f526e0d.ed11e24d01.ef9845d4b3.bd09386e88
+  2651. homedepot.com###messageBar
+  2652. homedepot.com##.MessageBar.MessageBar--web
+  2653. lowes.com##.sc-eDvSVe.bCoIih
+  2654. lowes.com##.c5r4s8_engage-common-0.eAQGAJ
+  2655. lowes.com##.sc-krih58-3.jpwhhm
+  2656. target.com##.styles__MediaContainer-sc-vbvkc1-1.jlxyDU.h-display-flex.h-flex-justify-space-between
+  2657. houzz.com##.hzFooter--icon.hzi-font.hzi-Twitter-Circle
+  2658. houzz.com##.hzFooter--icon.hzi-font.hzi-Facebook-Circle
+  2659. houzz.com##.hzFooter--icon.hzi-font.hzi-Youtube-Circle
+  2660. autotrader.com##.icon-bar.margin-vertical-5
+  2661. caranddriver.com##.css-1v5xah6.emkv89h0
+  2662. allrecipes.com##.loc.newsletter-link-wrapper.utility-nav__newsletter.utility-nav__full-menu-item
+  2663. foodnetwork.com##.o-Capsule__a-Input.a-Input
+  2664. foodnetwork.com##.o-Capsule__a-Button.a-Button
+  2665. foodnetwork.com##.o-Newsletter__a-Description
+  2666. foodnetwork.com###mod-newsletter-1
+  2667. foodnetwork.com##.o-Capsule.o-Newsletter
+  2668. epicurious.com##.newsletter.fullwidth
+  2669. ||s.gr-assets.com/assets/site_footer/footer_instagram-d59e3887020f12bcdb12e6c539579d85.svg
+  2670. ||s.gr-assets.com/assets/site_footer/footer_twitter-126b3ee80481a763f7fccb06ca03053c.svg
+  2671. ||s.gr-assets.com/assets/site_footer/footer_facebook-ea4ab848f8e86c5f5c98311bc9495a1b.svg
+  2672. goodreads.com##.Overlay.Overlay--floating
+  2673. goodreads.com##.Icon.InstagramIcon
+  2674. goodreads.com##.Icon.TwitterIcon
+  2675. goodreads.com##.Icon.FacebookIcon
+  2676. entrepreneur.com##.rounded-full.inline-flex.justify-center.items-center.hover:shadow-md.text-gray-800.bg-gray-100.hover:bg-gray-200.mx-1.h-12.w-12.share-snapchat
+  2677. entrepreneur.com##.flex.flex-col.lg:flex-row.lg:justify-center
+  2678. entrepreneur.com##.items-center.border.text-lg.font-medium.text-black.bg-yellow-300.hover:bg-yellow-400.focus:outline-white.focus:outline-offset-2.focus:outline-slate-900.active:bg-yellow-400.border-transparent.shadow-md.rounded-md.w-auto.py-3.px-3.sm:px-6.mx-2.hidden.md:flex.subButton.inline-flex
+  2679. entrepreneur.com###top-subs-promo
+  2680. entrepreneur.com##.w-full.border-b.border-gray-200.py-4.bg-gray-100.text-center.font-medium.mx-auto
+  2681. entrepreneur.com###anchorcontainer
+  2682. entrepreneur.com##.fixed.-bottom-[50px].sm:-bottom-[90px].transition-all.w-full.box-content.bg-gray-100.border-t-2.border-gray-200.h-[50px].sm:h-[90px].py-2.z-10
+  2683. coursera.org##.banner-alert.isLohp
+  2684. zoom.us##.twitter
+  2685. zoom.us##.youtube-play
+  2686. zoom.us##.facebook
+  2687. zoom.us##.instagram
+  2688. asana.com##.css-1t2ep54.e1u7ykqd5
+  2689. 500px.com##.StyledLayout__Box-b9gazd-0.dtaski
+  2690. deviantart.com##._1LNZO.XN05V._2Och2._2HvYQ._1rFXc._3Cbmi
+  2691. deviantart.com##.ldkIM
+  2692. asos.com##._3oMZ131
+  2693. zara.com##.ot-sdk-container
+  2694. zara.com###onetrust-banner-sdk
+  2695. zara.com##.otFloatingRoundedCorner.ot-bottom-left.ot-wo-title
+  2696. nordstrom.com##._sx96
+  2697. nordstrom.com##._wqmZ
+  2698. www2.hm.com##.ot-sdk-container
+  2699. www2.hm.com##.zijP
+  2700. sephora.com##.css-rzwxtl
+  2701. sephora.com##.css-1q0bpb9
+  2702. ikea.com##.ot-sdk-row
+  2703. discogs.com##.icon.icon-twitter
+  2704. discogs.com##.icon.icon-youtube
+  2705. discogs.com##.icon.icon-instagram
+  2706. discogs.com##.icon.icon-pinterest
+  2707. lonelyplanet.com##.mb-4.text-sm.font-semibold.uppercase
+  2708. lonelyplanet.com##.flex.space-x-4.lg:space-x-2
+  2709. lonelyplanet.com##.hidden.w-12.lg:block.pr-3.lg:pr-0.text-sm.font-semibold.text-center.lg:pb-2
+  2710. lonelyplanet.com##.border.border-black-200.border-r-0.lg:border-b-0.flex.lg:flex-col.lg:w-12
+  2711. us.trip.com##.mc-ft__social-item.social-icon-facebook
+  2712. us.trip.com##.mc-ft__social-item.social-icon-instagram
+  2713. us.trip.com##.mc-ft__social-item.social-icon-youtube
+  2714. us.trip.com##.gguide
+  2715. us.trip.com##.oh-pwa
+  2716. weather.com##.AccountLinks--accountButton--3orCZ.Button--default--2gfm1
+  2717. weather.com##.Footer--socialContainer--3z8CW
+  2718. imgur.com##.EmeraldButton.Button
+  2719. adblockplus.org##.cookiebar-nav
+  2720. adblockplus.org##.cookiebar-text
+  2721. dictionary.com##.svg-inline--fa.fa-instagram.SocialLinks-module_social_f39af12b409a20858b1e
+  2722. dictionary.com##.svg-inline--fa.fa-pinterest-p.SocialLinks-module_social_f39af12b409a20858b1e
+  2723. dictionary.com##.svg-inline--fa.fa-youtube.SocialLinks-module_social_f39af12b409a20858b1e
+  2724. dictionary.com##.Cl8rAJN4wBETC2TTA2vN
+  2725. dictionary.com##.s3vhSLXHRujbrXyT_upA
+  2726. thesaurus.com##.svg-inline--fa.fa-instagram.SocialLinks-module_social_f39af12b409a20858b1e
+  2727. thesaurus.com##.svg-inline--fa.fa-pinterest-p.SocialLinks-module_social_f39af12b409a20858b1e
+  2728. thesaurus.com##.svg-inline--fa.fa-youtube.SocialLinks-module_social_f39af12b409a20858b1e
+  2729. thesaurus.com##.VjF9Im9IWGOADVNZpYcq
+  2730. dexerto.com##.flex-col.w-full.py-\[14\.5px\].px-5.bg-neutral-grey-4.md\:py-5.md\:flex-row.md\:items-center.md\:justify-between.md\:gap-x-5.col-span-full.lg\:col-span-7.my-8.flex
+  2731. stackoverflow.com##.s-btn.s-btn__link.w100.fc-blue-700.h\:fc-blue-900.p8.fs-caption.mr8.mt8.d-block.bar-md.bg-blue-050.lh-md.js-gps-track
+  2732. baeldung.com###google_ads_iframe_\/15184186\,7114245\/baeldung_right_rail_3_0
+  2733. baeldung.com###google_ads_iframe_\/15184186\,7114245\/baeldung_leaderboard_mid_3_0
+  2734. mashable.com##.flex.flex-row.text-white.flex-wrap.my-8.md\:mb-8.md\:mt-5.md\:space-x-8
+  2735. nytimes.com###google_ads_iframe_\/29390238\/nyt\/homepage_0__container__
+  2736. wired.com###google_ads_iframe_3379\/conde\.wired\/mid-content\/science\/article\/1_0
+  2737. wired.com###google_ads_iframe_3379\/conde\.wired\/rail\/science\/article\/2_0__container__
+  2738. wired.com###google_ads_iframe_3379\/conde\.wired\/hero\/science\/article\/1_0__container__
+  2739. wired.com###google_ads_iframe_3379\/conde\.wired\/rail\/science\/article\/1_0__container__
+  2740. wired.com###google_ads_iframe_3379\/conde\.wired\/rail\/science\/article\/3_0__container__
+  2741. wired.com###google_ads_iframe_3379\/conde\.wired\/rail\/science\/article\/4_0__container__
+  2742. wired.com###google_ads_iframe_3379\/conde\.wired\/rail\/science\/article\/5_0
+  2743. vox.com###google_ads_iframe_\/172968584\/vox\/vox\.com\/front_page_15
+  2744. vox.com###google_ads_iframe_\/172968584\/vox\/vox\.com\/front_page_3
+  2745. nytimes.com###google_ads_iframe_\/29390238\/nyt\/science\/sectionfront_2
+  2746. nytimes.com###google_ads_iframe_\/29390238\/nyt\/science\/sectionfront_4__container__
+  2747. nytimes.com###google_ads_iframe_\/29390238\/nyt\/science\/sectionfront_15
+  2748. nytimes.com###google_ads_iframe_\/29390238\/nyt\/science\/sectionfront_13
+  2749. nytimes.com###google_ads_iframe_\/29390238\/nyt\/science\/sectionfront_12
+  2750. nytimes.com###google_ads_iframe_\/29390238\/nyt\/science\/sectionfront_9__container__
+  2751. nytimes.com###google_ads_iframe_\/29390238\/nyt\/science\/sectionfront_8
+  2752. nytimes.com###google_ads_iframe_\/29390238\/nyt\/business\/sectionfront_4__container__
+  2753. nytimes.com###google_ads_iframe_\/29390238\/nyt\/business\/sectionfront_5__container__
+  2754. nytimes.com###google_ads_iframe_\/29390238\/nyt\/business\/sectionfront_6__container__
+  2755. nytimes.com###google_ads_iframe_\/29390238\/nyt\/business\/sectionfront_7
+  2756. nytimes.com###google_ads_iframe_\/29390238\/nyt\/business\/sectionfront_8
+  2757. nytimes.com###google_ads_iframe_\/29390238\/nyt\/business\/sectionfront_9
+  2758. nytimes.com###google_ads_iframe_\/29390238\/nyt\/world\/sectionfront_4__container__
+  2759. nytimes.com###google_ads_iframe_\/29390238\/nyt\/world\/sectionfront_5__container__
+  2760. nytimes.com###google_ads_iframe_\/29390238\/nyt\/world\/sectionfront_7__container__
+  2761. nytimes.com###google_ads_iframe_\/29390238\/nyt\/world\/sectionfront_6__container__
+  2762. nytimes.com###google_ads_iframe_\/29390238\/nyt\/world\/sectionfront_8__container__
+  2763. nytimes.com###google_ads_iframe_\/29390238\/nyt\/world\/sectionfront_10__container__
+  2764. nytimes.com###google_ads_iframe_\/29390238\/nyt\/world\/sectionfront_11__container__
+  2765. nytimes.com###google_ads_iframe_\/29390238\/nyt\/world\/sectionfront_12__container__
+  2766. nytimes.com###google_ads_iframe_\/29390238\/nyt\/world\/sectionfront_13__container__
+  2767. nytimes.com###google_ads_iframe_\/29390238\/nyt\/world\/sectionfront_14
+  2768. nytimes.com###google_ads_iframe_\/29390238\/nyt\/world\/sectionfront_15__container__
+  2769. nytimes.com###google_ads_iframe_\/29390238\/nyt\/world\/sectionfront_
+  2770. nytimes.com###google_ads_iframe_\/29390238\/nyt\/world\/sectionfront_9
+  2771. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/sectionfront_4__container__
+  2772. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/sectionfront_6__container__
+  2773. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/sectionfront_7__container__
+  2774. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/sectionfront_8
+  2775. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/sectionfront_9__container__
+  2776. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/sectionfront_10__container__
+  2777. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/sectionfront_11__container__
+  2778. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/sectionfront_12__container__
+  2779. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/sectionfront_14__container__
+  2780. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/sectionfront_13__container__
+  2781. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/politics\/sectionfront_3__container__
+  2782. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/politics\/sectionfront_7__container__
+  2783. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/politics\/sectionfront_8__container__
+  2784. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/politics\/sectionfront_10__container__
+  2785. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/politics\/sectionfront_11__container__
+  2786. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/politics\/sectionfront_12__container__
+  2787. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/politics\/sectionfront_13__container__
+  2788. nytimes.com###google_ads_iframe_\/29390238\/nyt\/us\/politics\/sectionfront_14__container__
+  2789. nytimes.com###google_ads_iframe_\/29390238\/nyt\/sports\/sectionfront_8__container__
+  2790. nytimes.com###google_ads_iframe_\/29390238\/nyt\/sports\/sectionfront_13
+  2791. nytimes.com###google_ads_iframe_\/29390238\/nyt\/sports\/sectionfront_7__container__
+  2792. nytimes.com###google_ads_iframe_\/29390238\/nyt\/health\/sectionfront_4
+  2793. nytimes.com###google_ads_iframe_\/29390238\/nyt\/health\/sectionfront_6
+  2794. nytimes.com###google_ads_iframe_\/29390238\/nyt\/health\/sectionfront_7
+  2795. nytimes.com###google_ads_iframe_\/29390238\/nyt\/health\/sectionfront_8
+  2796. nytimes.com###google_ads_iframe_\/29390238\/nyt\/health\/sectionfront_9
+  2797. nytimes.com###google_ads_iframe_\/29390238\/nyt\/health\/sectionfront_10
+  2798. nytimes.com###google_ads_iframe_\/29390238\/nyt\/health\/sectionfront_11
+  2799. nytimes.com###google_ads_iframe_\/29390238\/nyt\/health\/sectionfront_12
+  2800. nytimes.com###google_ads_iframe_\/29390238\/nyt\/health\/sectionfront_13
+  2801. nytimes.com###google_ads_iframe_\/29390238\/nyt\/health\/sectionfront_14
+  2802. nytimes.com###google_ads_iframe_\/29390238\/nyt\/health\/sectionfront_15
+  2803. nytimes.com###google_ads_iframe_\/29390238\/nyt\/nyregion\/sectionfront_6__container__
+  2804. nytimes.com###google_ads_iframe_\/29390238\/nyt\/nyregion\/sectionfront_7__container__
+  2805. nytimes.com###google_ads_iframe_\/29390238\/nyt\/nyregion\/sectionfront_8__container__
+  2806. nytimes.com###google_ads_iframe_\/29390238\/nyt\/nyregion\/sectionfront_10__container__
+  2807. nytimes.com###google_ads_iframe_\/29390238\/nyt\/nyregion\/sectionfront_11__container__
+  2808. nytimes.com###google_ads_iframe_\/29390238\/nyt\/nyregion\/sectionfront_12__container__
+  2809. nytimes.com###google_ads_iframe_\/29390238\/nyt\/nyregion\/sectionfront_13
+  2810. nytimes.com###google_ads_iframe_\/29390238\/nyt\/nyregion\/sectionfront_14__container__
+  2811. nytimes.com###google_ads_iframe_\/29390238\/nyt\/nyregion\/sectionfront_9__container__
+  2812. nytimes.com###google_ads_iframe_\/29390238\/nyt\/opinion\/sectionfront_7__container__
+  2813. nytimes.com###google_ads_iframe_\/29390238\/nyt\/opinion\/sectionfront_8__container__
+  2814. nytimes.com###google_ads_iframe_\/29390238\/nyt\/opinion\/sectionfront_10__container__
+  2815. nytimes.com###google_ads_iframe_\/29390238\/nyt\/opinion\/sectionfront_11__container__
+  2816. nytimes.com###google_ads_iframe_\/29390238\/nyt\/opinion\/sectionfront_13__container__
+  2817. nytimes.com###google_ads_iframe_\/29390238\/nyt\/opinion\/sectionfront_14__container__
+  2818. nytimes.com###google_ads_iframe_\/29390238\/nyt\/technology\/sectionfront_4__container__
+  2819. nytimes.com###google_ads_iframe_\/29390238\/nyt\/technology\/sectionfront_6__container__
+  2820. nytimes.com###google_ads_iframe_\/29390238\/nyt\/technology\/sectionfront_7__container__
+  2821. nytimes.com###google_ads_iframe_\/29390238\/nyt\/technology\/sectionfront_8__container__
+  2822. nytimes.com###google_ads_iframe_\/29390238\/nyt\/technology\/sectionfront_9
+  2823. nytimes.com###google_ads_iframe_\/29390238\/nyt\/technology\/sectionfront_10__container__
+  2824. nytimes.com###google_ads_iframe_\/29390238\/nyt\/technology\/sectionfront_11__container__
+  2825. nytimes.com###google_ads_iframe_\/29390238\/nyt\/technology\/sectionfront_12__container__
+  2826. nytimes.com###google_ads_iframe_\/29390238\/nyt\/technology\/sectionfront_13__container__
+  2827. nytimes.com###google_ads_iframe_\/29390238\/nyt\/technology\/sectionfront_14__container__
+  2828. nytimes.com###google_ads_iframe_\/29390238\/nyt\/technology\/sectionfront_9__container__
+  2829. nytimes.com###google_ads_iframe_\/29390238\/nyt\/arts\/sectionfront_7
+  2830. nytimes.com###google_ads_iframe_\/29390238\/nyt\/arts\/sectionfront_8__container__
+  2831. nytimes.com###google_ads_iframe_\/29390238\/nyt\/arts\/sectionfront_9__container__
+  2832. nytimes.com###google_ads_iframe_\/29390238\/nyt\/arts\/sectionfront_10
+  2833. nytimes.com###google_ads_iframe_\/29390238\/nyt\/arts\/sectionfront_11__container__
+  2834. nytimes.com###google_ads_iframe_\/29390238\/nyt\/arts\/sectionfront_12__container__
+  2835. nytimes.com###google_ads_iframe_\/29390238\/nyt\/arts\/sectionfront_13
+  2836. nytimes.com###google_ads_iframe_\/29390238\/nyt\/arts\/sectionfront_14__container__
+  2837. nytimes.com###google_ads_iframe_\/29390238\/nyt\/arts\/sectionfront_15__container__
+  2838. nytimes.com###google_ads_iframe_\/29390238\/nyt\/arts\/sectionfront_10__container__
+  2839. nytimes.com###google_ads_iframe_\/29390238\/nyt\/arts\/sectionfront_4__container__
+  2840. nytimes.com###google_ads_iframe_\/29390238\/nyt\/books\/sectionfront_4
+  2841. nytimes.com###google_ads_iframe_\/29390238\/nyt\/books\/sectionfront_6
+  2842. nytimes.com###google_ads_iframe_\/29390238\/nyt\/books\/sectionfront_7
+  2843. nytimes.com###google_ads_iframe_\/29390238\/nyt\/books\/sectionfront_8
+  2844. nytimes.com###google_ads_iframe_\/29390238\/nyt\/books\/sectionfront_9
+  2845. nytimes.com###google_ads_iframe_\/29390238\/nyt\/books\/sectionfront_10
+  2846. nytimes.com###google_ads_iframe_\/29390238\/nyt\/books\/sectionfront_11
+  2847. nytimes.com###google_ads_iframe_\/29390238\/nyt\/books\/sectionfront_12
+  2848. nytimes.com###google_ads_iframe_\/29390238\/nyt\/books\/sectionfront_13
+  2849. nytimes.com###google_ads_iframe_\/29390238\/nyt\/books\/sectionfront_14
+  2850. nytimes.com###google_ads_iframe_\/29390238\/nyt\/fashion\/sectionfront_4
+  2851. nytimes.com###google_ads_iframe_\/29390238\/nyt\/fashion\/sectionfront_6__container__
+  2852. nytimes.com###google_ads_iframe_\/29390238\/nyt\/fashion\/sectionfront_7__container__
+  2853. nytimes.com###google_ads_iframe_\/29390238\/nyt\/fashion\/sectionfront_8__container__
+  2854. nytimes.com###google_ads_iframe_\/29390238\/nyt\/fashion\/sectionfront_9__container__
+  2855. nytimes.com###google_ads_iframe_\/29390238\/nyt\/fashion\/sectionfront_10
+  2856. nytimes.com###google_ads_iframe_\/29390238\/nyt\/fashion\/sectionfront_11
+  2857. nytimes.com###google_ads_iframe_\/29390238\/nyt\/fashion\/sectionfront_12__container__
+  2858. nytimes.com###google_ads_iframe_\/29390238\/nyt\/fashion\/sectionfront_13
+  2859. nytimes.com###google_ads_iframe_\/29390238\/nyt\/fashion\/sectionfront_14__container__
+  2860. nytimes.com###google_ads_iframe_\/29390238\/nyt\/dining\/sectionfront_4__container__
+  2861. nytimes.com###google_ads_iframe_\/29390238\/nyt\/dining\/sectionfront_6__container__
+  2862. nytimes.com###google_ads_iframe_\/29390238\/nyt\/dining\/sectionfront_7
+  2863. nytimes.com###google_ads_iframe_\/29390238\/nyt\/dining\/sectionfront_8__container__
+  2864. nytimes.com###google_ads_iframe_\/29390238\/nyt\/dining\/sectionfront_9__container__
+  2865. nytimes.com###google_ads_iframe_\/29390238\/nyt\/dining\/sectionfront_10__container__
+  2866. nytimes.com###google_ads_iframe_\/29390238\/nyt\/dining\/sectionfront_11__container__
+  2867. nytimes.com###google_ads_iframe_\/29390238\/nyt\/dining\/sectionfront_13__container__
+  2868. nytimes.com###google_ads_iframe_\/29390238\/nyt\/dining\/sectionfront_14__container__
+  2869. nytimes.com###google_ads_iframe_\/29390238\/nyt\/dining\/sectionfront_12__container__
+  2870. nytimes.com###google_ads_iframe_\/29390238\/nyt\/travel\/sectionfront_5__container__
+  2871. nytimes.com###google_ads_iframe_\/29390238\/nyt\/travel\/sectionfront_6__container__
+  2872. nytimes.com###google_ads_iframe_\/29390238\/nyt\/travel\/sectionfront_7__container__
+  2873. nytimes.com###google_ads_iframe_\/29390238\/nyt\/travel\/sectionfront_8__container__
+  2874. nytimes.com###google_ads_iframe_\/29390238\/nyt\/travel\/sectionfront_9__container__
+  2875. nytimes.com###google_ads_iframe_\/29390238\/nyt\/travel\/sectionfront_10
+  2876. nytimes.com###google_ads_iframe_\/29390238\/nyt\/travel\/sectionfront_11__container__
+  2877. nytimes.com###google_ads_iframe_\/29390238\/nyt\/travel\/sectionfront_12__container__
+  2878. nytimes.com###google_ads_iframe_\/29390238\/nyt\/travel\/sectionfront_13
+  2879. nytimes.com###google_ads_iframe_\/29390238\/nyt\/travel\/sectionfront_14
+  2880. nytimes.com###google_ads_iframe_\/29390238\/nyt\/travel\/sectionfront_15__container__
+  2881. nytimes.com###google_ads_iframe_\/29390238\/nyt\/travel\/sectionfront_10__container__
+  2882. nytimes.com###google_ads_iframe_\/29390238\/nyt\/travel\/sectionfront_13__container__
+  2883. nytimes.com###google_ads_iframe_\/29390238\/nyt\/magazine\/sectionfront_7__container__
+  2884. nytimes.com###google_ads_iframe_\/29390238\/nyt\/magazine\/sectionfront_8__container__
+  2885. nytimes.com###google_ads_iframe_\/29390238\/nyt\/magazine\/sectionfront_9__container__
+  2886. nytimes.com###google_ads_iframe_\/29390238\/nyt\/magazine\/sectionfront_10__container__
+  2887. nytimes.com###google_ads_iframe_\/29390238\/nyt\/magazine\/sectionfront_11__container__
+  2888. nytimes.com###google_ads_iframe_\/29390238\/nyt\/magazine\/sectionfront_12__container__
+  2889. nytimes.com###google_ads_iframe_\/29390238\/nyt\/magazine\/sectionfront_13__container__
+  2890. nytimes.com###google_ads_iframe_\/29390238\/nyt\/magazine\/sectionfront_3
+  2891. nytimes.com###google_ads_iframe_\/29390238\/nyt\/tmagazine\/sectionfront_4
+  2892. nytimes.com###google_ads_iframe_\/29390238\/nyt\/tmagazine\/sectionfront_6
+  2893. nytimes.com###google_ads_iframe_\/29390238\/nyt\/tmagazine\/sectionfront_7
+  2894. nytimes.com###google_ads_iframe_\/29390238\/nyt\/tmagazine\/sectionfront_8
+  2895. nytimes.com###google_ads_iframe_\/29390238\/nyt\/tmagazine\/sectionfront_9
+  2896. nytimes.com###google_ads_iframe_\/29390238\/nyt\/tmagazine\/sectionfront_10
+  2897. nytimes.com###google_ads_iframe_\/29390238\/nyt\/tmagazine\/sectionfront_11
+  2898. nytimes.com###google_ads_iframe_\/29390238\/nyt\/tmagazine\/sectionfront_12
+  2899. nytimes.com###google_ads_iframe_\/29390238\/nyt\/tmagazine\/sectionfront_13
+  2900. nytimes.com###google_ads_iframe_\/29390238\/nyt\/tmagazine\/sectionfront_14
+  2901. nytimes.com###google_ads_iframe_\/29390238\/nyt\/realestate\/sectionfront_12__container__
+  2902. nytimes.com###google_ads_iframe_\/29390238\/nyt\/realestate\/sectionfront_13__container__
+  2903. nytimes.com###google_ads_iframe_\/29390238\/nyt\/realestate\/sectionfront_14__container__
+  2904. nytimes.com###google_ads_iframe_\/29390238\/nyt\/realestate\/sectionfront_15
+  2905. nytimes.com###google_ads_iframe_\/29390238\/nyt\/realestate\/sectionfront_16__container__
+  2906. nytimes.com###google_ads_iframe_\/29390238\/nyt\/realestate\/sectionfront_17__container__
+  2907. nytimes.com###google_ads_iframe_\/29390238\/nyt\/realestate\/sectionfront_18
+  2908. nytimes.com###google_ads_iframe_\/29390238\/nyt\/realestate\/sectionfront_19__container__
+  2909. nytimes.com###google_ads_iframe_\/29390238\/nyt\/upshot\/sectionfront_4__container__
+  2910. nytimes.com###google_ads_iframe_\/29390238\/nyt\/readercenter\/sectionfront_5
+  2911. nytimes.com###google_ads_iframe_\/29390238\/nyt\/parenting\/sectionfront_4__container__
+  2912. nytimes.com###google_ads_iframe_\/29390238\/nyt\/learning\/sectionfront_5
+  2913. nytimes.com###google_ads_iframe_\/29390238\/nyt\/podcasts\/podcasts\/spotlight_7
+  2914. nytimes.com###google_ads_iframe_\/29390238\/nyt\/podcasts\/podcasts\/spotlight_8__container__
+  2915. nytimes.com###google_ads_iframe_\/29390238\/nyt\/todayspaper\/todaysnewyorktimes\/column_6
+  2916. nytimes.com###google_ads_iframe_\/29390238\/nyt\/corrections\/sectionfront_4__container__
+  2917. yahoo.com##.D\(f\).Fld\(c\).Fxg\(1\).Flxb\(100\%\)
+  2918. yahoo.com##.Pos\(r\).show-then-hide-ad-confirmation_D\(n\).D\(f\).stream-grid-view_Fld\(c\).hide-ad_D\(n\)
+  2919. yahoo.com##.stream-item.wafer-beacon.Mih\(119px\)
+  2920. fandom.com###google_ads_iframe_\/5441\/wka1b\.LB\/top_leaderboard\/desktop\/ns-home\/_fandom-all_0__container__
+  2921. money.cnn.com###google_ads_iframe_\/8663477\/CNNBusiness\/markets_0
+  2922. money.cnn.com###google_ads_iframe_\/8663477\/CNNBusiness\/markets\/landing_3__container__
+  2923. money.cnn.com###google_ads_iframe_\/8663477\/CNNBusiness\/markets\/landing_2__container__
+  2924. cnn.com###google_ads_iframe_\/21848839049\/CNNTravel\/home3dh_0
+  2925. accuweather.com###google_ads_iframe_\/6581\/web\/us\/top_right\/news_info\/country_home_0
+  2926. accuweather.com###google_ads_iframe_\/6581\/web\/us\/top_right\/weather\/extended_0__container__
+  2927. accuweather.com###google_ads_iframe_\/6581\/web\/us\/top_right\/weather\/radar_0
+  2928. accuweather.com###google_ads_iframe_\/6581\/web\/us\/bottom_right\/weather\/radar_0
+  2929. accuweather.com###google_ads_iframe_\/6581\/web\/us\/bottom_right\/weather\/radar_0__container__
+  2930. accuweather.com###google_ads_iframe_\/6581\/web\/us\/top_right\/weather\/minutecast_0__container__
+  2931. accuweather.com###google_ads_iframe_\/6581\/web\/us\/top_right\/weather\/month_0__container__
+  2932. accuweather.com###google_ads_iframe_\/6581\/web\/us\/top_right\/weather\/air_quality_0
+  2933. accuweather.com###google_ads_iframe_\/6581\/web\/us\/top_right\/news_info\/severe_0
+  2934. accuweather.com###google_ads_iframe_\/6581\/web\/us\/top_right\/news_info\/accuwx_ready_0
+  2935. accuweather.com###google_ads_iframe_\/6581\/web\/us\/bottom_right\/news_info\/accuwx_ready_0
+  2936. accuweather.com###google_ads_iframe_\/6581\/web\/us\/top_right\/news_info\/winter_0__container__
+  2937. zillow.com###google_ads_iframe_\/7449\/zillow\/search_results_1\/buy_general\/search_1_0__container__
+  2938. bestbuy.com###google_ads_iframe_\/6011\/BestBuyDesktopWeb\/best_buy_0
+  2939. pagecloud.com##.object.struct.m\:Pos\(a\).Pos\(a\).D\(f\).Jc\(sb\).Fxd\(r\).Ai\(c\)
+  2940. thenai.org##.flex.flex-col.items-center.space-y-4.xl\:space-y-6
+  2941. booking.com##.bui-card.bui-u-bleed\@small.bui-spacer--large.ge-branded_container--index.js-ds-layout-events-genius-banner
+  2942. playstation.com##.box.p-ls\@mobile--xs.p-ls\@tablet--xs.p-ls\@desktop--2xl.mt-ls\@desktop--neg-xl.mb-ls\@desktop--neg-xl
+  2943. howstuffworks.com##.flex-1.mb-8.md\:mb-4
+  2944. sports.yahoo.com##.W\(100\%\).Maw\(300px\).Pb\(15px\).smartphone_Px\(20px\).Pos\(r\).D\(ib\).Va\(t\)
+  2945. news.yahoo.com##.Pos\(r\).D\(ib\).P\(0\).Lh\(n\)
+  2946. bigthink.com##.py-\[30px\].md\:py-\[50px\].bg-black.dark.bigthink-wide-row
+  2947. bigthink.com##.relative.z-10.p-7.md\:p-10.lg\:p-12.md\:w-3\/4
+  2948. stackabuse.com##.px-6.py-6.rounded-lg.md\:py-12.md\:px-8.lg\:py-16.lg\:px-10.xl\:flex.xl\:items-center.xl\:justify-between.grid.grid-cols-1.xl\:grid-cols-2
+  2949. stackabuse.com##.max-w-6xl.mx-auto.px-0.py-6.lg\:py-8
+  2950. stackabuse.com##.flex.justify-center.md\:order-2
+  2951. codereview.stackexchange.com##.\-list.\-social.md\:mb8
+  2952. stackexchange.com##.\-list.\-social.md\:mb8
+  2953. stackexchange.com##.sm\:d-none.py24.bg-black-750.fc-black-200.ps-relative.js-dismissable-hero
+  2954. stackabuse.com##.bg-gray-100.px-4.py-1.rounded-lg.shadow-lg.border.border-gray-400.md\:py-2.md\:px-6.lg\:py-3.lg\:px-8.flex.items-center.flex-col.xl\:flex-row
+  2955. openai.com##.col-12.col-md-4.col-lg-4.col-xl-3.mb-0\.5
+  2956. icij.org###__BVID__28___BV_modal_backdrop_
+  2957. aliexpress.com##a[style="background-image: url("https://ae01.alicdn.com/kf/Sf65a8c65a71149aeba5d2249a8b38477t.jpg_Q90.jpg_.webp");"]
+  2958. aliexpress.com###__top_banner_img__
+  2959. stackoverflow.com##.site-footer--copyright.fs-fine.md\:mt24
+  2960. askubuntu.com##.site-footer--copyright.fs-fine.md\:mt24
+  2961. skillcrush.com##.sc-popup__content.bg-primary-lightest.w-11\/12.md\:max-w-2xl.py-8.md\:w-4\/6.md\:pt-11.md\:pb-16
+  2962. theodinproject.com##.text-gray-700.text-4xl.hover\:text-gray-900.fab.fa-discord.odin-dark-icon
+  2963. theodinproject.com##.text-gray-700.hover\:text-gray-900.text-4xl.fab.fa-facebook.odin-dark-icon
+  2964. theodinproject.com##.text-gray-700.hover\:text-gray-900.text-4xl.fab.fa-twitter.odin-dark-icon
+  2965. classpert.com##.el\:m-list.el\:m-list--hrz.vA-m.d-ib
+  2966. top10.netflix.com##.items-center.flex-shrink.hidden.pl-8.ml-5.space-x-3.text-sm.border-l.border-gray-600.md\:flex
+  2967. pagerduty.com##.flex-grow.text-black.hover\:text-black.items-center.cursor-pointer.block
+  2968. servicesdown.com##.hidden.md\:inline-block
+  2969. macpaw.com##.footer-title.\-social
+  2970. macpaw.com##.social.\-less-items
+  2971. theverge.com##.mx-auto.block.lg\:hidden
+  2972. dexerto.com##.flex.flex-col.items-center.w-full.md\:mx-0.lg\:mt-4
+  2973. gamingdebates.com##. 64527edf3dc909024faa1dc129f70e6
+  2974. beta.elevenlabs.io##.text-\[\#FF0000\].hover\:opacity-70
+  2975. beta.elevenlabs.io##.text-\[\#5865F2\].hover\:opacity-70
+  2976. beta.elevenlabs.io##.text-\[\#1DA1F2\].hover\:opacity-70
+  2977. developer.chrome.com##.color-secondary-text.display-flex.gap-top-300.lg\:gap-top-0
+  2978. mm-signin.centurylink.com##.chi-col.\-w-lg--3.\-w-xl--3.\-align--right.\-d--none.\-d-lg--flex.\-justify-content--center
+  2979. dreamhost.com##.flex.justify-around.space-y-3.text-base.lg\:block
+  2980. semrush.com##.srf-menu-items.\-icons-left
+  2981. databricks.com##.flex.flex-wrap.gap-1\.5
+  2982. engadget.com##.rwd-outer-container.W\(100vw\).D\(f\).Jc\(sa\).Bgc\(engadgetGray\).Bgc\(engadgetSteelGray\)--md
+  2983. app.snyk.io##.dialog
+  2984. docs.document360.com##.social-links
 </details><details>
-<summary>"Was this page helpful" icons & feedback boxes (6 elements / <1 KB)</summary>
+<summary>"Was this page helpful" icons & feedback boxes (9 elements / <1 KB)</summary>
 
   1. allrecipes.com###article-feedback_1-0
   2. allrecipes.com##.comp.article-feedback.mntl-article-feedback
@@ -3003,6 +3005,9 @@ Steps to implement library in Google Chrome:
   4. accuweather.com##.feedback-banner.hide-mobile
   5. docs.liquibase.com##iframe[style="border: none; z-index: 2147483647; color-scheme: normal; width: 416px; height: 238px;"]
   6. docs.liquibase.com##us-button[style="user-select: all;"]
+  7. docs.document360.com###doc_review_container
+  8. docs.document360.com##.article-vote-container
+  9. docs.document360.com##.sperator.sperator-both
 </details><details>
 <summary>Remove YouTube Shorts Shelf from home page (1 element / <1 KB)</summary>
   
