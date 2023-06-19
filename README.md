@@ -1,5 +1,5 @@
 # Adblock Public Library
-This project is a collection of HTML elements that can be plugged into Adblock Plus to improve the Adblock experience. Most of the elements in the library are included to remove distractions and irrelevant information (social icons, popups, newsletter inserts, email lists, "urgent" offers, etc). If the adblock is too agressive for a specific site, you can click on the extension icon and disable adblock for that site. This will disable the library for that site as well.
+This project is a collection of HTML elements that can be plugged into Adblock Plus to improve the Adblock experience. This library removes not only ads, but distractions of all kinds (social icons, popups, newsletter inserts, email lists, "urgent" offers, etc). If the adblock is too agressive for a specific site, you can click on the extension icon and disable adblock for that site. This will disable the library for that site as well.
 
 For contributors: This is a community library, meaning anyone can contribute. <-- See CONTRIBUTION.md
 
