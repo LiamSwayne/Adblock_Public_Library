@@ -10,7 +10,7 @@ def processInput(headerStr, elementsStr, wasHelpfulStr, footerStr, MD=True):
     
     for i in range(len(lines)):
         line = lines[i]
-        if line != "" and line != "\n" and line[0:10] != "data:image" and line != "youtube.com##.style-scope.ytd-rich-shelf-renderer" and line not in wasHelpfulStr:
+        if line != "" and line != "\n" and line[0:10] != "data:image" and line != "about:blank" and line != "youtube.com##.style-scope.ytd-rich-shelf-renderer" and line not in wasHelpfulStr:
             elementCount += 1
             characterCount += len(line)
             if MD:
@@ -31,7 +31,7 @@ def processInput(headerStr, elementsStr, wasHelpfulStr, footerStr, MD=True):
     characterCount = 0
     for i in range(len(wasHelpfulLines)):
         line = wasHelpfulLines[i]
-        if line != "" and line != "\n" and line[0:10] != "data:image" and line != "youtube.com##.style-scope.ytd-rich-shelf-renderer":
+        if line != "" and line != "\n" and line[0:10] != "data:image" and line != "about:blank" and line != "youtube.com##.style-scope.ytd-rich-shelf-renderer":
             elementCount += 1
             characterCount += len(line)
             if MD:
