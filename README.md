@@ -10,7 +10,7 @@ Steps to implement library in Google Chrome:
 4. In the extension settings > advanced > My Filter List: expand, copy, and paste one or more of the lists below into the "search or add filters" box.
 
 <details>
-  <summary>General library (3055 elements / 169 KB)</summary>
+  <summary>General library (3080 elements / 170 KB)</summary>
 
   1. blog.logrocket.com##.news-pop.news-pop-outer-wrap.typescript-popup
   2. blog.logrocket.com##.footer-cta-container
@@ -3067,14 +3067,40 @@ Steps to implement library in Google Chrome:
   3053. classcentral.com##.icon-center.icon-twitter-charcoal.icon-medium
   3054. classcentral.com##.icon-center.icon-facebook-charcoal.icon-medium
   3055. classcentral.com##.icon-center.icon-youtube-charcoal.icon-medium
+  3056. classcentral.com##.hover-transparent-high.icon-twitter-outline-charcoal.inline-block.icon-center.icon-medium.padding-horz-xxsmall.hover-transparent
+  3057. opensource.com##.facebook.account__item
+  3058. opensource.com##.twitter.account__item
+  3059. opensource.com##.footer-youtube
+  3060. gitconnected.com##.navbar-promo
+  3061. coursesity.com##.tp-icon--twitter
+  3062. coursesity.com##.tp-icon--facebook
+  3063. coursesity.com##.tp-icon--instagram
+  3064. coursesity.com##.tp-icon--youtube
+  3065. grabltd.com##.social-links
+  3066. elysiumacademy.org###lepopup-popup-184-overlay
+  3067. elysiumacademy.org##.lepopup-popup-overlay.lepopup-animated.lepopup-fadeIn
+  3068. ||elysiumacademy.org/wp-content/uploads/2023/04/Summer-Special-Courses-Training-1.jpg
+  3069. elysiumacademy.org##.lepopup-element-html-content
+  3070. elysiumacademy.org##.lepopup-element.lepopup-element-2.lepopup-element-html.lepopup-animated.lepopup-fadeIn
+  3071. elysiumacademy.org##.lepopup-form-inner
+  3072. elysiumacademy.org##.lepopup-form.lepopup-form-184.lepopup-form-KBpWuhGW87I8oe5u.lepopup-form-icon-inside.lepopup-form-position-middle-center
+  3073. elysiumacademy.org##.column_attr.mfn-inline-editor.clearfix.align_right
+  3074. elysiumacademy.org##.b
+  3075. elysiumacademy.org##.icon_bar.icon_bar_facebook.icon_bar_small
+  3076. elysiumacademy.org##.icon_bar.icon_bar_twitter.icon_bar_small
+  3077. elysiumacademy.org##.icon_bar.icon_bar_pinterest.icon_bar_small
+  3078. elysiumacademy.org##.icon_bar.icon_bar_instagram.icon_bar_small
+  3079. elysiumacademy.org##.icon_bar.icon_bar_tumblr.icon_bar_small
+  3080. elysiumacademy.org##.icon_bar.icon_bar_flickr.icon_bar_small
 </details><details>
-<summary>"Was this page helpful" icons & feedback boxes (5 elements / <1 KB)</summary>
+<summary>"Was this page helpful" icons & feedback boxes (6 elements / <1 KB)</summary>
 
   1. allrecipes.com###article-feedback_1-0
   2. allrecipes.com##.comp.article-feedback.mntl-article-feedback
   3. accuweather.com###feedback-banner
   4. accuweather.com##.feedback-banner.hide-mobile
   5. chat.openai.com##.flex.justify-between.items-center.p-4.rounded-md.bg-gray-100.dark:bg-gray-700.text-gray-700.dark:text-gray-300.text-sm
+  6. google.com##.JW2g8
 </details><details>
 <summary>Remove YouTube Shorts Shelf from YouTube home page (1 element / <1 KB)</summary>
   
