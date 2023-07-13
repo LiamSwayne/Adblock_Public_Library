@@ -2,7 +2,7 @@
 # Content is pasted into "elementsStr".
 # Header for the README.md is in "headerStr"
 
-def processInput(headerStr, elementsStr, wasHelpfulStr, footerStr, MD=True):
+def processInput(headerStr, elementsStr, wasHelpfulStr, personalStr, footerStr, MD=True):
     lines = elementsStr.split("\n")
     output = headerStr+"General library (XXXX elements / XXXX KB)</summary>\n\n"
     elementCount = 0
@@ -10,7 +10,7 @@ def processInput(headerStr, elementsStr, wasHelpfulStr, footerStr, MD=True):
     
     for i in range(len(lines)):
         line = lines[i]
-        if line != "" and line != "\n" and line[0:10] != "data:image" and line != "about:blank" and line != "youtube.com##.style-scope.ytd-rich-shelf-renderer" and line not in wasHelpfulStr:
+        if line != "" and line != "\n" and line[0:10] != "data:image" and line != "about:blank" and line != "youtube.com##.style-scope.ytd-rich-shelf-renderer" and line not in wasHelpfulStr and line not in personalStr:
             elementCount += 1
             characterCount += len(line)
             if MD:
@@ -31,7 +31,7 @@ def processInput(headerStr, elementsStr, wasHelpfulStr, footerStr, MD=True):
     characterCount = 0
     for i in range(len(wasHelpfulLines)):
         line = wasHelpfulLines[i]
-        if line != "" and line != "\n" and line[0:10] != "data:image" and line != "about:blank" and line != "youtube.com##.style-scope.ytd-rich-shelf-renderer":
+        if line != "" and line != "\n" and line[0:10] != "data:image" and line != "about:blank" and line != "youtube.com##.style-scope.ytd-rich-shelf-renderer" and line not in personalStr:
             elementCount += 1
             characterCount += len(line)
             if MD:
@@ -69,12 +69,16 @@ footerStr = '''<details>
   1. youtube.com##.style-scope.ytd-rich-shelf-renderer
 </details>'''
 
+# highly specific blocked elements not relevant to the majority of site users
+personalStr = '''
+'''
+
+# feedback boxes
 wasHelpfulStr = '''
-ELEMENTS GO HERE
 '''
 
+# general elements
 elementsStr = '''
-ELEMENTS GO HERE
 '''
 
-processInput(headerStr, elementsStr, wasHelpfulStr, footerStr, True)
+processInput(headerStr, elementsStr, wasHelpfulStr, personalStr, footerStr, True)
